@@ -9,8 +9,10 @@
     <canonical-urls>
       <xml-bulk>https://github.com/openlawlibrary/plateau-demo-law-xml</xml-bulk>
       <html-bulk>https://github.com/openlawlibrary/plateau-demo-law-html</html-bulk>
-      <html></html>
+      <static-assets>https://github.com/openlawlibrary/law-static-assets</static-assets>
+      <html>https://demo.plateau.ng.open.law</html>
     </canonical-urls>
   </meta>
+  <xi:include href="./ng/plateau/justice/laws/2020/revenue.xml"/>
   <xi:include href="./ng/plateau/justice/laws/2017/revenue.xml"/>
 </library>

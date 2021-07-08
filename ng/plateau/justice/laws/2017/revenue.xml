@@ -1,9 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="Plateau State Revenue (Consolidation) Law, 2017">
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Plateau State Revenue (Consolidation) Law, 2017">
+  <heading type="short">Plateau State Revenue (Consolidation) Law, 2017</heading>
+  <heading type="long">A Law to Provide for the Establishment of the Plateau State Internal Revenue Service, Administration and Collection of Revenue of All State Government Ministries, Department and Agencies; Harmonize the Rates and Levies for Collection by Local Government Councils in Plateau State and Other Matters Connected.</heading>
   <meta>
     <effective>2017-08-09</effective>
   </meta>
-  <heading>A Law to Provide for the Establishment of the Plateau State Internal Revenue Service, Administration and Collection of Revenue of All State Government Ministries, Department and Agencies; Harmonize the Rates and Levies for Collection by Local Government Councils in Plateau State and Other Matters Connected.</heading>
   <container>
     <prefix>PART</prefix>
     <num>I</num>
@@ -12200,7 +12201,7 @@
     <num>Eighth</num>
     <postfix>Schedule</postfix>
     <heading>Clause 16 (2)</heading>
-    <text> 
+    <text>
       <strong>ESTABLISHMENT, JURISDICTION, AUTHORITY AND PROCEDURE OF THE TAX APPEAL COMMITTEE</strong>
     </text>
     <text>

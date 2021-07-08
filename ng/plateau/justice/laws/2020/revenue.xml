@@ -1,0 +1,2887 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Plateau State Revenue (Consolidation) Law, 2020">
+  <heading type="short">Plateau State Revenue (Consolidation) Law, 2020</heading>
+  <heading type="long">A Law to Provide for the Establishment of the Plateau State Internal Revenue Service; a Unified Revenue Administration Structure for Ministries, Departments, Agencies and Local Government Councils; Consolidation of Levies and Rates and Other Matters Connected, 2020.</heading>
+  <meta>
+    <effective>2020-11-20</effective>
+    <history>
+      <adopted>2020-10-20</adopted>
+    </history>
+  </meta>
+  <container>
+    <prefix>PART</prefix>
+    <num>I</num>
+    <heading>PRELIMINARY</heading>
+    <section>
+      <heading>Citation and Commencement</heading>
+      <num>1</num>
+      <text>This Law may be cited as the "Plateau State Revenue (Consolidation) Law, 2020" and shall come into operation on the 20<sup>th</sup> day of November, 2020.</text>
+    </section>
+    <section>
+      <heading>Interpretation</heading>
+      <num>2</num>
+      <text>In this Law:</text>
+      <text>"ACCA" means Association of Chartered Certified Accountants;</text>
+      <text>"additional assessment" means an Assessment made by the Service where a taxable Person liable to Tax has been under assessed by the Service;</text>
+      <text>"advance assessment" means an Assessment made before the end of a Tax period;</text>
+      <text>"ANAN" means Association of National Accountants of Nigeria;</text>
+      <text>"appraise" means to determine the Market Value of Real Estate Property either by entry and inspection or by use of an Adjustment Multiplier;</text>
+      <text>"assess" means to determine the amount of Tax, Fee, Charge or Levy payable on Income, Value, Revenue, Proceeds of Trade, Real Estate Property or any other Asset or Transaction;</text>
+      <text>"assessable income" means Chargeable Income on which Tax is computed;</text>
+      <text>"authorized officer" means any Person employed in the Service, and has been specifically authorized by the Governing Board or the Executive Chairman to perform or carry out specific functions under this Law;</text>
+      <text>"autonomous" means the Management of the Plateau State Internal Revenue Service has the freedom to control the day to day running of the Technical, Professional and Administrative affairs of the Service in accordance with the provisions of this Law and other applicable State and Federal Laws.</text>
+      <text>"board" means the Governing Board of the Plateau State Internal Revenue Service established under <cite path="§5">Section 5 of this Law</cite>;</text>
+      <text>"book" includes any Register, Document or other record of information and any account or accounting record however compiled, recorded or stored, whether in written or printed form or Micro-film, Digital, Magnetic or Electronic form or other wise and all types of information stored on Computers and any other similar equipment;</text>
+      <text>"chairman" means Chairman of the Governing Board appointed under this Law;</text>
+      <text>"chargeable income" means the total Income of any Person or Body Corporate on which Tax is charged;</text>
+      <text>"collecting agent" means a Person stated and registered as a Collecting Agent under this Law and Sections 6 and 7 of the Plateau State Revenue Administration Code respectively;</text>
+      <text>"consultant" means a Person who is an expert in the field of Accounting, Legal Practice or Technology and who provides professional advice to the Service;</text>
+      <text>"consumer" means Persons under <cite path="§61">Section 61 of this Law</cite>;</text>
+      <text>"court" means the Revenue Court of Plateau State;</text>
+      <text>"demand notice" means a Demand Notice for any Revenue collectible by the Plateau State Internal Revenue Service;</text>
+      <text>"document" includes any record of information supporting accounts and accounting records including Reports or Correspondence or Memoranda or Minutes of meeting, however compiled, recorded or stored, whether in written or printed form or Microfilm, Digital, Magnetic, Electronic or Optical form or otherwise and all types of information stored in Computer and any other similar equipment;</text>
+      <text>"due date" means the date by which a Tax obligation must be fulfilled under this Law;</text>
+      <text>"economic development" means any qualitative and quantitative improvement that will reduce the poverty, illiteracy, or mortality rate and increase the life expectancy rate in the State;</text>
+      <text>"event centre" includes Halls, Auditoriums, Open spaces and places designated for public use at a Fee;</text>
+      <text>"executive chairman" means the Executive Chairman of the Plateau Internal Revenue Service appointed under this Law;</text>
+      <text>"ex officio members" means the Executive Chairman of the Service and   Secretary of the Service appointed by the Governor to occupy full term positions within the Plateau State Internal Revenue Service for a specified period and are members of the Governing Board by virtue of their offices;</text>
+      <text>"gaming" means any Game, Scheme, Arrangement, System, Plan, Promotional Competition or Device for the distribution of prizes by Lot or Chance, or as a result of the exercise of skill and chance or based on the outcome of sporting event or any other device which shall be operated according to a License: Gaming includes but shall not be limited to all forms of Online or Offline Lottery, Betting, Gaming or Casino activities;</text>
+      <text>"gazette" means the Plateau State Government Official Gazette;</text>
+      <text>"government" means the Government of Plateau State and includes the Local Government Councils in the State;</text>
+      <text>"governor" means the Governor of Plateau State;</text>
+      <text>"serious misconduct" means a specific act of very serious wrong doing and improper behavior which is inimical to the image of the Service and the Governing Board and which can be investigated and proven;</text>
+      <text>"high-net-worth individual" means a Person whose investable Assets exceeds Five Million Naira (5,000,000.00) in Liquid Cash;</text>
+      <text>"hotel" means any Lodging and includes a Motel, Inn, Guest House and Apartment for short letting;</text>
+      <text>"ICAN" means Institute of Chartered Accountants of Nigeria;</text>
+      <text>"LGA" means Local Government Area;</text>
+      <text>"LGC" means Local Government Council;</text>
+      <text>"MDAs" means Ministries, Departments and Agencies;</text>
+      <text>"medium enterprise" means an Enterprise with 50-199</text>
+      <text>Employees with an Asset (excluding Land and Building) not less than Fifty Million (50,000,000.00) Naira but less than Five Hundred Million (500,000,000.00) Naira;</text>
+      <text>"micro-scale business" means an enterprise with less than 10 Employees with an Asset (excluding land and building) of less than Five Million (5,000,000.00) Naira;</text>
+      <text>"objection decision" means a decision made by the Service after considering an Objection made by a Taxpayer;</text>
+      <text>"person" includes a Company or Body Corporate, Partnership, Firm and Unincorporated Body of Persons;</text>
+      <text>"private dwelling" means any Building or part of a Building occupied as Residential Accommodation;</text>
+      <text>"procurement" means the acquisition of Services or moveable and immovable Assets;</text>
+      <text>"real estate property" includes:</text>
+      <para>
+        <num>(a)</num>
+        <text>a parcel of Land including Land surrounded by Water;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>an improvement on Land;</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>a Parcel of Land and improvement thereon; or</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>a Mobile Home; and</text>
+        <text>does not include:</text>
+      </para>
+      <para>
+        <num>(a)</num>
+        <text>crops growing in or on Land;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>all that part of a Mine below the surface of the Ground; or</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Land used as a Public Right-of-way;</text>
+        <text>"record" includes:</text>
+      </para>
+      <para>
+        <num>(a)</num>
+        <text>a Book of Account, Document, Paper, Register, Bank Statement, Receipt, Invoice, Voucher, Contract, and Agreement, or Customs Declaration; or</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>any Information or Data stored on a Mechanical or Electronic Data Storage Device;</text>
+        <text>"restaurant" includes any Food Sale Outlet, Bar, Tavern, Inn or Café whether or not located within a Hotel;</text>
+        <text>"revenue" includes any Tax, Duty, Levy, Charges, Rates, Fines and Fees accruable to the Government under this Law or any other Law or Act;</text>
+        <text>"revenue agent" means a Person or company registered as a Revenue Agent under Section 8 of the Plateau State Revenue Administration Code;</text>
+        <text>"revenue officer" means the Director or an Officer of the Local Government Council Revenue Department created under <cite path="§41">Section 41 of this Law</cite>;</text>
+        <text>"rural local government areas" includes Bassa, Barkin-Ladi, Bokkos, Jos East, Kanke, Kanam, Langtang North, Langtang South, Mikang, Qua'an-pan, Riyom and Wase;</text>
+        <text>"self-assessment" means an Assessment done by a Taxable Person without waiting for the Service to raise the Assessment;</text>
+        <text>"semi urban local government areas" includes Mangu, Shendam and Pankshin;</text>
+        <text>"service" means the Plateau State Internal Revenue Service established under <cite path="§3">Section 3 of this Law</cite>;</text>
+        <text>"services" means the rendering of time and effort by a Contractor or Professional and includes any object of procurement other than Goods, Works or Construction;</text>
+        <text>"small enterprise" means an enterprise with 10-49 Employees with an Asset (excluding land and building) of not less than Five Million (5,000,000.00) Naira but less than Fifty Million (50,000,000.00) Naira;</text>
+        <text>"statutory rate" in relation to a period, means the Central Bank of Nigeria Minimum Discount Rate at the commencement of that period;</text>
+        <text>"state" means Plateau State of Nigeria;</text>
+        <text>"state government" means Government of Plateau State;</text>
+        <text>"tax" includes any Duty, Levy and Charges accruable to the Government;</text>
+        <text>"tax assessment" means Self-Assessment, Default Assessment, Advance Assessment, or Additional Assessment;</text>
+        <text>"tax decision" means a:</text>
+      </para>
+      <para>
+        <num>(a)</num>
+        <text>Tax Assessment; or</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Decision on any matter left to the discretion, judgment, direction, opinion, approval, satisfaction or determination of the Executive Chairman, other than a decision made in relation to a Tax Assessment;</text>
+        <text>"tax law" means a Law specified in the First Schedule to thisLaw;</text>
+        <text>"tax obligation" means any duty expected of a Taxpayer under a Tax Law and includes Registration, Filing and Payment of Tax Liability;</text>
+        <text>"tax officer" means the Executive Chairman appointed under this Law or any Officer employed in the Plateau State Internal Revenue Service;</text>
+        <text>"taxable person" includes an Individual or Body of Individuals, Firm, Partnership, Family, Corporations, Sole Trustee or Executor or a Person who carries out an economic activity in a place, a person exploiting tangible or intangible property for the purpose of obtaining Income by way of Trade or Business or Person or Agency of Government acting in that capacity;</text>
+        <text>"taxpayer representative" means an Individual or a Corporate Entity other than a registered Revenue Agent, employed by a Taxpayer and empowered to represent the Taxpayer in any Tax related activity with the Government;</text>
+        <text>"tax period" means a period for which the Tax is to be reported;</text>
+        <text>"urban local government areas" includes Jos-North and Jos-South;</text>
+        <text>"whistle-blower" means any individual who discloses any information to the Revenue Council about any Revenue Evasion, Fraud or Corruption that will lead to Revenue recovery;</text>
+        <text>"whistle-blowing" means the act of disclosing any information to the Revenue Council about any Revenue Evasion, Fraud or Corruption that will lead to Revenue recovery; and</text>
+        <text>"year of assessment" means a period between January and December of the year or such other period for which Tax is computed.</text>
+      </para>
+    </section>
+  </container>
+  <container>
+    <prefix>PART</prefix>
+    <num>II</num>
+    <heading>ESTABLISHMENT OF PLATEAU STATE INTERNAL REVENUE SERVICE</heading>
+    <section>
+      <heading>Establishment of Plateau State Internal  Revenue Service</heading>
+      <num>3</num>
+      <para>
+        <num>(1)</num>
+        <text>There is established the Plateau State Internal Revenue Service<strong> (</strong>referred to in this Law as "the Service").</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Service:</text>
+        <para>
+          <num>(a)</num>
+          <text>shall be a Body Corporate with Perpetual Succession and a Common Seal;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>may sue or be sued in its corporate name; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>may acquire, hold and dispose of any Asset or interest in Property, moveable or immovable, for the purpose of carrying out its functions under this Law.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Service shall have such power and duties as are conferred on it by this Law or by any other Enactment.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Object of the Service</heading>
+      <num>4</num>
+      <text>The object of the Service shall be to control and administer the various Taxes, Non-Tax Revenues specified in this Law and other Laws made or to be made from time to time or other Regulations made there under and to account for all such Taxes and Revenues collected in the State.</text>
+    </section>
+    <section>
+      <heading>Establishment of the Governing Board and its Membership</heading>
+      <num>5</num>
+      <para>
+        <num>(1)</num>
+        <text>There is established for the Service a Governing Board known as "Plateau State Internal Revenue Service Board" (in this Law referred to as "the Governing Board"), which shall exercise overall supervision of the Service in accordance with the Provisions of this Law.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Governing Board shall consist of:</text>
+        <para>
+          <num>(a)</num>
+          <text>a Chairman who shall be the Executive Chairman of the Service and an Ex-officio Member of the Governing Board;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>a Legal Adviser of the Governing Board who shall be the Attorney- General or a representative who shall be an Officer not below the rank of a Director;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>the Secretary to the Government of the State or a representative not below the rank of a Permanent Secretary;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Three (3) Persons, at least one of whom shall be a Woman, who:</text>
+          <para>
+            <num>(i)</num>
+            <text>are appointed by the Governor to represent each of the Three (3) Senatorial Zones;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>have relevant professional qualifications and experience in Tax matters; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>have knowledge of ICT, possessing innovative ideas for Revenue generation; and</text>
+          </para>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>the Secretary to the Service as the Secretary of the Governing Board and an Ex-officio member of the Governing Board.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Members of the Governing Board, other than the Executive Chairman and the Secretary of the Service who are Ex-officio members, shall function in a purely Non-executive and Part-time capacity.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Proceedings of the Governing Board</heading>
+      <num>6</num>
+      <text>The Supplementary Provisions set out in the Third Schedule to this Law shall have effect with respect to the Proceedings of the Governing Board and other matters.</text>
+    </section>
+    <section>
+      <heading>Tenure of the Governing Board</heading>
+      <num>7</num>
+      <text>The Members of the Governing Board shall each hold Office:</text>
+      <para>
+        <num>(a)</num>
+        <text>for a Term of Four (4) years and may be renewed once only; and</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>on such Terms and Conditions as may be specified by the Governor in their Letters of Appointment.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Cessation of Membership of the Governing Board</heading>
+      <num>8</num>
+      <para>
+        <num>(1)</num>
+        <text>Notwithstanding the Provisions of <cite path="§7">Section 7 of this Law</cite>, a Member of the Governing Board shall cease to hold Office if the Member:</text>
+        <para>
+          <num>(a)</num>
+          <text>resigns as a Member of the Governing Board by a written Notice in paper or digital format, addressed to the Governor;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>becomes of Unsound Mind;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>becomes Bankrupt or makes a compromise with Creditors;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>is convicted of a Felony or any Offence involving Dishonesty or Corruption;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>becomes incapable of carrying on the functions of the Office arising from an Infirmity of Mind or Body;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>has been found, upon facts available to the Governing Board, to have committed acts of serious Misconduct in relation to the duties of the Member;</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>possessing a professional qualification, is disqualified or suspended from practicing the profession by an Order of a competent Authority;</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>had become a Member of the Governing Board by virtue of the Office the Member occupies, ceases to hold such Office;</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>is removed from Office by the Governor, where the Governor is satisfied that it is not in the interest of the Service or the Public for the Member to continue in Office; or</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>dies.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If any Member of the Governing Board ceases to hold Office under this Law, before the expiration of the Tenure for which the Member is appointed, another Person shall be appointed to the Governing Board in the place of the Ex-member and the new Member shall complete the remaining Tenure.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Emoluments of the Governing Board Members</heading>
+      <num>9</num>
+      <text>Members of the Governing Board shall be paid such Emoluments, Allowances and Benefits as may be approved by the Governor.</text>
+    </section>
+    <section>
+      <heading>Powers of the Governing Board</heading>
+      <num>10</num>
+      <para>
+        <num>(1)</num>
+        <text>The Governing Board shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>provide and supervise the implementation of general Policy Guidelines, Strategic Direction, Rules and Regulations regarding the functions of the Service;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>provide the following Instruments for the Service: a Scheme of Service, Terms and Conditions of Service, Human Resource Policies and Staff Regulations. The Instruments shall have no effect until approved by the Governor and published in the Gazette;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>from time to time, subject to the approval of the Governor, review the Policy Guidelines, Strategic Direction, Rules, Regulations and Instruments provided in paragraphs (a) and (b) of this sub-section;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>subject to the approval of the Governor, modify the Organogram of the Service by creating such Directorates, Units and Revenue Offices as recommended by the Service;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>where there is a vacancy for employment in the Service, advertise in the Media specifying the relevant qualifications for such Post;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>employ Staff of the Service in accordance with the Scheme of Service and the Terms and Conditions of Service provided in paragraph (b) of this sub-section;</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>make arrangements for the conduct of promotional examinations;</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>promote and transfer Employees of the Service;</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>impose discipline on erring Employees of the Service; and</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>do such other things as are in the opinion of the Governing Board necessary to ensure the efficient performance of the functions of the Service under this Law.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Governing Board may, where it considers it expedient that any vacancy in the Service be filled by a Person holding Office in the Civil Service of the State, it shall notify the Civil Service Commission to that effect and the Governing Board may, by arrangement with the Commission, cause such vacancy to be filled by way of Secondment or Transfer.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Power of the        Governor to delegate in the absence of a Governing Board</heading>
+      <num>11</num>
+      <text>In the absence of the Governing Board and until such time that it is constituted pursuant to this Law, the Governor or any Person to whom the Governor has delegated the responsibility of the Governing Board, shall exercise or perform any of the powers of the Governing Board excluding the power to make Regulations, provided that such period shall not exceed Six (6) Months.</text>
+    </section>
+    <section>
+      <heading>Powers of the Service</heading>
+      <num>12</num>
+      <para>
+        <num>(1)</num>
+        <text>The Service shall have power to:</text>
+        <para>
+          <num>(a)</num>
+          <text>administer any Law on Taxation or other forms of Revenue in respect of which the State House of Assembly or the National Assembly may confer power on it; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>control, administer, impose, collect and account for the different Taxes, Levies, Fees, Charges, Rates and other forms of Revenue specified in the First and Second Schedules to this Law.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Service may:</text>
+        <para>
+          <num>(a)</num>
+          <text>through the Office of the Governor, accept any Gift on such Terms and Conditions as may be specified by the Person or Organization making the Gift: Provided that the Service shall not accept any Gift if the conditions attached by the Person or Organization offering the Gift are inconsistent with any Law in force or with the functions of the Service;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>with the approval of the State House of Assembly, borrow by way of Loan, Overdraft or otherwise from legitimate source, such sums with the exception of Foreign Currency as it may require for the performance of its functions and meeting its obligations under this Law;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>subject to the provisions of this Law and the conditions of any Trust created in respect of any Property, invest all or any of its funds in any Security or any other Fund as may, from time to time, be approved by the State Executive Council;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>with the approval of the Attorney-General, compound any Offence under this Law by accepting a sum of Money not exceeding the maximum Fine specified for the Offence: Provided that the Service shall issue a Treasury Receipt for any Money received thereof;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>subject to prevailing conditions as may be determined by the Governing Board and with the prior written approval of the Governor, employ the services of qualified Consultants, such as Accountants, Legal Practitioners and Technologists to provide information that will enable the Service execute its functions under this Law. The Professional Fees payable shall be determined by the Governing Board subject to the approval of the Governor;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>distrain upon the Good, Chattels or other Properties, movable or immovable of the Person liable to pay any outstanding Tax to Government subject to an Order of the High Court: Provided that the authority to Distrain shall be in such Form as contained in the Sixth Schedule to this Law; and</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>subject to a written authority in a Form prescribed in the Seventh Schedule to this Law, access Lands and Buildings or Books and Documents stored in hard or soft copies for the purpose of carrying out its functions under this Law.</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <heading>Functions of the Service</heading>
+      <num>13</num>
+      <text>The Service shall:</text>
+      <para>
+        <num>(a)</num>
+        <text>be autonomous in the day-to-day running of the Technical, Professional and Administrative affairs of the Service;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>assess all Persons chargeable with any Tax payable to the State Government;</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>be the Sole Revenue Agency to collect and account for all Revenue accruable to Government in the manner prescribed by this Law;</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>ensure the use of Technology for the effective and optimum collection and accounting of all Revenue due to the State Government;</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>recover all Liabilities and pay into the designated Account, all Revenue due to Government under this Law or any other Law;</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>issue Guidelines and Practice Notes on Revenue Administration in the State;</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>be responsible for the Registration and Certification of all Agents in the State and issue on an annual basis, a Certificate of Compliance.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>adopt measures to ensure the enforcement of payment of Revenue due to the State Government which include the Sealing of Business Premises upon an Ex-parte Order of a Court of competent jurisdiction;</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>in collaboration with MDAs, review the Tax Regime and promote the application of Tax Revenue to stimulate economic activities and development within the State;</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>establish for the State, a Cloud Data Center for the storage of Tax Payers Information, which shall be replicated real time on premise as a Back-up Storage;</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text>ensure the security of its Cloud Storage Systems and ensure that access to Cloud controls are properly maintained;</text>
+      </para>
+      <para>
+        <num>(l)</num>
+        <text>provide and maintain access to an up-to-date adequate Data and Information on all taxable Persons, Individuals or Corporations and Real Estate Property for the purpose of efficient and effective Tax Administration;</text>
+      </para>
+      <para>
+        <num>(m)</num>
+        <text>carry out Forensic Tax Audit and Investigation Exercises of all cases of Revenue Fraud or Evasion with a view to ensuring compliance with the provisions of this Law or any other relevant Enactment;</text>
+      </para>
+      <para>
+        <num>(n)</num>
+        <text>maintain Database, Statistics, Records and Reports on Persons, Organizations, Proceeds, Properties, Documents or other Items of Assets relating to Revenue Fraud, Evasion and Waivers;</text>
+      </para>
+      <para>
+        <num>(o)</num>
+        <text>make a quarterly determination of the extent of Financial Loss  by Government arising from Revenue Fraud, Evasion, Waivers and other related matters;</text>
+      </para>
+      <para>
+        <num>(p)</num>
+        <text>adopt measures to identify, trace, freeze, confiscate or seize the Proceeds of Revenue Fraud or Evasion;</text>
+      </para>
+      <para>
+        <num>(q)</num>
+        <text>undertake and support Research and similar measures with a view to stimulating economic development and determining the manifestation, extent, magnitude and effects of Revenue Fraud, Evasion and other matters that affect Revenue Administration and make recommendations to the Government on appropriate intervention and preventive Measures;</text>
+      </para>
+      <para>
+        <num>(r)</num>
+        <text>adopt measures which include Compliance, Enforcement and Regulatory Actions as well as introduction and maintenance of Investigative and Control Techniques for the detection and prevention of Non-compliance;</text>
+      </para>
+      <para>
+        <num>(s)</num>
+        <text>collaborate and facilitate rapid exchange of Scientific and Technical Information with relevant National or International Agencies or Bodies on Revenue matters;</text>
+      </para>
+      <para>
+        <num>(t)</num>
+        <text>undertake exchange of Personnel or other Experts with complementary Agencies for purposes of comparative experience and capacity building;</text>
+      </para>
+      <para>
+        <num>(u)</num>
+        <text>establish and maintain a system for monitoring the dynamics of Taxation or other forms of Revenue generation in order to identify suspicious transactions and the Persons involved;</text>
+      </para>
+      <para>
+        <num>(v)</num>
+        <text>in collaboration with the Agency responsible for Information Communication Technology in the State, develop an Integrated Revenue Administration System with the aim of improving ease of doing business with the Service, enhancing voluntary compliance and boosting Revenue generation in the State.</text>
+      </para>
+      <para>
+        <num>(w)</num>
+        <text>collate and keep under review all Policies of the State Government relating to Taxation and other forms of Revenue generation and undertake a systematic and progressive implementation of such Policies;</text>
+      </para>
+      <para>
+        <num>(x)</num>
+        <text>maintain a liaison with the Office of the Attorney-General of the State, all Government's Security and Law Enforcement Agencies and such other Financial Supervisory Institutions in the enforcement and eradication of Tax and other Revenue related Offences;</text>
+      </para>
+      <para>
+        <num>(y)</num>
+        <text>register and issue in an Electronic Format a single Tax Identification Number (in this Law referred to as "TIN") to every individual in the State and ensure measures that will avoid multiple issuance of TIN to an Individual.</text>
+      </para>
+      <para>
+        <num>(z)</num>
+        <text>be responsible for overseeing the deployment of Technology across the State for the purpose of Registration, Issuance of TIN, Assessment, Payment of Revenue and Reporting;</text>
+      </para>
+      <para>
+        <num>(aa)</num>
+        <text>setup collaborative Committees to identify and harmonize the administration of related Charges and Fees as maybe identified for the purpose of issuance of a Single Demand Notice and recommend to the Revenue Council for approval. The Service shall, upon approval provide Guidelines for its implementation;</text>
+      </para>
+      <para>
+        <num>(bb)</num>
+        <text>register Vehicles and issue Driver's License in collaboration with the relevant Federal and State Agencies;</text>
+      </para>
+      <para>
+        <num>(cc)</num>
+        <text>accredit, approve and appoint Taxpayer Representatives, for the purpose of representing the Taxpayer in any Tax related activity.</text>
+      </para>
+      <para>
+        <num>(dd)</num>
+        <text>ensure that all Revenue sources are harnessed by implementing the Unified Revenue Administration Structure established under <cite path="§31">Section 31 of this Law</cite>;</text>
+      </para>
+      <para>
+        <num>(ee)</num>
+        <text>from time to time specify the form and frequency of filing of Returns, Claims, Statements and Notices necessary for the due Administration of the powers conferred on it by this Law or any other Enactment;</text>
+      </para>
+      <para>
+        <num>(ff)</num>
+        <text>carry out and sustain Taxpayer Education and render Taxpayer Services for Revenue compliance within the State;</text>
+      </para>
+      <para>
+        <num>(gg)</num>
+        <text>provide Frequently Asked Questions (FAQs) in Pamphlets and Handbooks to be made available to the Public in major Languages within the State;</text>
+      </para>
+      <para>
+        <num>(hh)</num>
+        <text>make recommendations, where appropriate, to the Joint Tax Board (hereinafter referred to as the "JTB") on Tax Policy, Reform, Registration, Treaties and Exemptions and any other area incidental to the responsibilities of the JTB as may be required from time to time;</text>
+      </para>
+      <para>
+        <num>(ii)</num>
+        <text>compile and publish a List of Non-compliant Taxpayers for the purpose of ensuring that optimal compliance level in the State is maintained;</text>
+      </para>
+      <para>
+        <num>(jj)</num>
+        <text>in collaboration with the Office of the Auditor-General, carry out Audit and Investigation of MDAs;</text>
+      </para>
+      <para>
+        <num>(kk)</num>
+        <text>collaborate with Local Governments in the State to collect, account and remit into the Accounts of the respective Local Governments, all Revenue collected by the Service on their behalf;</text>
+      </para>
+      <para>
+        <num>(ll)</num>
+        <text>collaborate with Local Governments in the State to review the Rates accruable to the Local Governments and promote the application of Revenue to stimulate economic activities and development in the respective Local Government Area;</text>
+      </para>
+      <para>
+        <num>(mm)</num>
+        <text>by Notice in the Gazette, authorize any Person within or outside the State to perform or exercise on behalf of the Service, any function, duty or power conferred on the Service and receive any Notice or other Document to be given or delivered to or in consequence of this Law or any Subsidiary Legislation made under it;</text>
+      </para>
+      <para>
+        <num>(nn)</num>
+        <text>where considered necessary with respect to any Revenue due to the State, acquire, hold and dispose of any Property taken as Security for or in satisfaction of the sum due or of any Judgment due in respect of any Revenue and shall account for any Property and the Proceeds of Sale thereof in a manner to be prescribed by the Governor; and</text>
+      </para>
+      <para>
+        <num>(oo)</num>
+        <text>do all such things that may be deemed necessary and expedient for the full discharge of all or any of its functions prescribed under this Law.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Scheme of Service for the Service</heading>
+      <num>14</num>
+      <para>
+        <num>(1)</num>
+        <text>Subject to the approval of the Governor, there is provided for the Service by the Governing Board, a Scheme of Service specifying the Staff Cadre, Salary Grade Levels, Staff Job Description, Duties, Qualifications, Skills and Experience of Staff of the Service.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Scheme of Service referred to in <cite path="§14|(1)">sub-section (1) of this Section</cite> shall be published in the State Gazette.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Organizational Structure of the Service</heading>
+      <num>15</num>
+      <para>
+        <num>(1)</num>
+        <text>The Organizational Structure of the Service shall consist of the following Offices, Directorates and Units:</text>
+        <para>
+          <num>1.</num>
+          <text>Office of the Executive Chairman;</text>
+          <para>
+            <num>(a)</num>
+            <text>Internal Audit Unit;</text>
+          </para>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Secretary to the Service and Legal Adviser of the Service;</text>
+          <para>
+            <num>(a)</num>
+            <text>Governing Board Secretariat;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Management Secretariat; and</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Legal Services Unit;</text>
+          </para>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>Compliance Directorate;</text>
+          <para>
+            <num>(a)</num>
+            <text>Intelligence, Planning and Monitoring Unit;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Risk Based Audit Unit;</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Investigation and Enforcement Unit;</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Taxpayers Services and Education Unit; and</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Tax Policy, Statistics and Research Unit;</text>
+          </para>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>Strategy and Digital Innovation Directorate;</text>
+          <para>
+            <num>(a)</num>
+            <text>Strategic Human Resource Management Unit;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Information and Communication Technology Unit;</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Corporate Branding and Communication Unit; and</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Modernization Unit;</text>
+          </para>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>Finance and Administration Directorate;</text>
+          <para>
+            <num>(a)</num>
+            <text>Finance and Accounts Unit;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Revenue Collection Reporting Unit;</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Procurement Administration Unit;</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Personnel Administration Unit; and</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Facility Management Unit;</text>
+          </para>
+        </para>
+        <para>
+          <num>6.</num>
+          <text>MDA Field Operations Directorates;</text>
+          <para>
+            <num>(a)</num>
+            <text>Administration and Justice Unit;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Social Base Unit;</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Economic Base Unit; and</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Coordination Support Unit;</text>
+          </para>
+        </para>
+        <para>
+          <num>7.</num>
+          <text>Tax and other Revenue Field Operations Directorate;</text>
+          <para>
+            <num>(a)</num>
+            <text>High Net Worth Individuals Unit;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Formal Sector Individuals and Businesses Unit;</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Informal Sector Tax and LGC Revenue Operations Unit;</text>
+            <para>
+              <num>i.</num>
+              <text>Jos-North/Headquarters  Revenue Offices;</text>
+            </para>
+            <para>
+              <num>ii.</num>
+              <text>Southern Senatorial Zone Revenue Offices;</text>
+            </para>
+            <para>
+              <num>iii.</num>
+              <text>Central Senatorial Zone Revenue Offices; and</text>
+            </para>
+            <para>
+              <num>iv.</num>
+              <text>Northern Senatorial Zone Revenue Offices;</text>
+            </para>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Organogram of the Service is as provided in the Fifth Schedule to this Law.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Service may recommend to the Governing Board to modify the Organogram of the Service by creating additional Directorates, Units and Revenue Offices for the effective performance of its functions under this Law: Provided that in creating such Directorates, Units, and Revenue Offices, the dichotomy between the Head Office and Field Operations functions is retained for effective Checks and Balances.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Executive Chairman of the Service</heading>
+      <num>16</num>
+      <para>
+        <num>(1)</num>
+        <text>There shall be an Executive Chairman for the Service, who shall be:</text>
+        <para>
+          <num>(a)</num>
+          <text>appointed by the Governor subject to confirmation by the State House of Assembly;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>the Chief Executive and Accounting Officer of the Service;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>a Person with professional membership such as ICAN, ANAN, ACCA or any other relevant professional qualification such as BL, possessing not less than Ten (10) years post-qualification experience in which at least Four (4) years of the Person's professional experience has been spent at a managerial level in any Revenue Organization or professional practice in Tax matters;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>a Member of Chartered Institute of Taxation in Nigeria; and</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>a Person who has knowledge of ICT and possesses innovative ideas for Revenue generation.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Executive Chairman shall hold Office:</text>
+        <para>
+          <num>(a)</num>
+          <text>for a Term of Four (4) years and may be renewed once only; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>on such Terms and Conditions as may be specified by the Governor in the Letter of Appointment.</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <heading>Accountability of the Executive Chairman</heading>
+      <num>17</num>
+      <text>The Executive Chairman of the Service shall:</text>
+      <para>
+        <num>(a)</num>
+        <text>be responsible for the implementation of the Fiscal Policies of Government, Policies and Decisions of the Governing Board, as well as General Administration of the Service;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>keep proper accounting records, in accordance with Standard Accounting Practice and Financial Regulations of the State in respect of all:</text>
+        <para>
+          <num>i.</num>
+          <text>Revenue and Expenditure of the Service;</text>
+        </para>
+        <para>
+          <num>ii.</num>
+          <text>its Assets, Liabilities and other financial transactions; and</text>
+        </para>
+        <para>
+          <num>iii.</num>
+          <text>other Revenue collected by the Service, including Income on Investment;</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>prepare an Annual Report, including Financial Statements, in accordance with generally accepted Accounting Principles and Practice;</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>ensure that the available Accounting Records of the Service are adequate and used economically in the most effective and efficient manner and the Accounting and other Financial Records are properly safeguarded;</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>ensure the effective implementation of the functions of the Service under <cite path="§13">Section 13 of this Law</cite>; and</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>be accountable to the Governor.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Directors of the Service</heading>
+      <num>18</num>
+      <text>Each Directorate established under <cite path="§15">Section 15 of this Law</cite> shall be headed by a Director with such qualifications provided in the Scheme of Service for the Service.</text>
+    </section>
+    <section>
+      <heading>Secretary of the   Service</heading>
+      <num>19</num>
+      <para>
+        <num>(1)</num>
+        <text>There shall be a Secretary and Legal Adviser     of the Service who shall be:</text>
+        <para>
+          <num>(a)</num>
+          <text>appointed by the Governor on such Terms and Conditions as may be specified in the Letter of Appointment;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>a Legal Practitioner possessing not less than Ten (10) years post-call experience; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>a Member of the Institute of Chartered Secretaries and Administrators (ICSA) with experience in Tax matters.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Secretary of the Service shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>hold Office for a Term of Five (5) years and shall be renewed once only; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>be paid on such Terms and Conditions as may be specified in the Letter of Appointment.</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <heading>Functions of the Secretary of the Service</heading>
+      <num>20</num>
+      <para>
+        <num>(1)</num>
+        <text>The Secretary of the Service shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>be accountable to the Executive Chairman;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>be responsible to the Governing   Board and Management Secretariat;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>render Legal Services to the       Service;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>render legal advice in compliance with Laws, Rules and Regulations affecting the Service;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>issue Notices of Meetings of the             Service and the Governing Board;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>organize and take Minutes of              meetings of the Service and the              Governing Board;</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>keep the Seal and maintain the             Records of Proceedings of the             Service and Governing Board;</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>communicate Policy decisions to Governing Board Members and Management of the Service and ensure the Action Item is circulated after each of the respective meetings;</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>arrange for the payment of Fees and Allowances of meetings and all other matters affecting Members of the Governing Board;</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>keep custody of copies of Assets, Financial and Annual Reports; and</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>perform such duties as the Governing Board or Executive Chairman of the Service may from time to time direct.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Secretary of the Service shall summon meetings of the Service and of the Governing Board:</text>
+      </para>
+      <para>
+        <num>(a)</num>
+        <text>on the written instruction of the Executive Chairman of the Service in paper or digital format; or</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>on the requisition of One third (1/3) of Members of the Governing Board in writing , in paper or digital format:</text>
+        <text>Provided that no meeting of the Service or of the Governing Board shall be called without a Notice and Agenda of such meeting being duly given.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Management of the Service and Technical Committee</heading>
+      <num>21</num>
+      <para>
+        <num>(1)</num>
+        <text>The Management of the Service shall comprise of the:</text>
+        <para>
+          <num>(a)</num>
+          <text>Executive Chairman as Chief Executive Officer;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Director, Compliance;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Director, Strategy and Digital Transformation;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Director, Finance and Administration;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Director, MDA Field Operations;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Director, Tax and other Revenue Operations; and</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Secretary of the Service as Secretary.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Management as provided in <cite path="§21|(1)">sub-section (1) of this Section</cite> shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>advise the Governing Board on any aspect of the powers and functions of the Service under this Law;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>make recommendations to the Governing Board in respect of Appointment, Promotion and Discipline of Senior Officers of the Service and any matter that may from time to time be referred to it by the Governing Board;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>act as the Technical Committee of the Service saddled with the responsibility of resolving Technical matters;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>in accordance with sub-section 2 (c) of <cite path="§21">this Section</cite> consider all Tax and Non-Tax Revenue matters that require Professional and Technical expertise and make recommendations to the Executive Chairman, and the Governing Board, as may be required;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>co-opt additional Staff from the Service and Persons from the Private Sector who are knowledgeable in Revenue matters for the effective discharge of their responsibilities under sub-section 2 (c) and (d) of <cite path="§21">this Section</cite>.</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <heading>Proceedings of Management and Technical Committee Meetings</heading>
+      <num>22</num>
+      <text>The Supplementary Provisions set out in the Third Schedule to this Law shall have effect with respect to the Proceedings of Management and Technical Committee Meetings and other matters mentioned therein.</text>
+    </section>
+    <section>
+      <heading>Establishment of  Agent Registration Committee</heading>
+      <num>23</num>
+      <para>
+        <num>(1)</num>
+        <text>There is established in the Service, Agent Registration Committee saddled with the responsibility of Registering, Renewing and Deregistration of Agents.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Agent Registration Committee shall comprise of the Members of the Management of the Service and any other relevant Person in the Service as may be determined by the Executive Chairman.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Agent Registration Committee shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>handle Accreditation, Registration, renewal of Registrations and Deregistration of Agents;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>organize and coordinate Orientation Training and Industrial Programs for Accredited Revenue Agents; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>be responsible for organizing Quarterly Training and Sensitization Programs for accredited Revenue Agents.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>In considering Applications for Registration, the Committee shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>refer to and comply with the provisions of the Code of Ethics of the Service provided by the Governing Board; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>submit its Report to the Management of the Service.</text>
+        </para>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Members of the Governing Board, Management and Staff of the Service shall not be registered either directly or indirectly as Revenue Agents or Representatives of Taxpayers.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>The Service shall keep and maintain a Register of all Revenue Agents registered by the Service.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>The proceedings of the Committee is as provided in the Third Schedule to this Law.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Employment into the Service</heading>
+      <num>24</num>
+      <text>Staff of the Service shall be employed in accordance with the Scheme of Service provided for by the Governing Board for the effective discharge of the functions of the Service.</text>
+    </section>
+    <section>
+      <heading>Terms and Conditions</heading>
+      <num>25</num>
+      <text>Subject to the approval of the Governor, there is provided by the Governing Board, Terms and Conditions of Service for Employees detailing the Terms and Conditions of Employment, including Remuneration, Allowances and Benefits of the Employees of the Service.</text>
+    </section>
+    <section>
+      <heading>Pension of Employees</heading>
+      <num>26</num>
+      <text>The Pension of Employees in the Service shall be subject to the provisions of the Pension Law for the time being in force in the State.</text>
+    </section>
+    <section>
+      <heading>Funds of the Service</heading>
+      <num>27</num>
+      <text>The Service shall establish and maintain such Bank Accounts to be applied towards the discharge of its functions which shall consist of and to which shall be credited as cost of Collection:</text>
+      <para>
+        <num>(a)</num>
+        <text>an amount not less than the Budgetary Allocation approved by the Governor and appropriated by the State House of Assembly, which sum shall be deployed to fund the Personnel, Overhead and Capital Expenditure of the Service;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>all other monies which may from time to time, accrue to the Service from other sources;</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>any Subvention or other Budgetary Allocation from the State; and</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>all monies accruing to the Service by way of Gifts, Grants-in-aid, Testamentary Dispositions, Endowments and Contributions from any source.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Application of the Funds</heading>
+      <num>28</num>
+      <text>The Service may from time to time, apply the Funds under Section 27of this Law to:</text>
+      <para>
+        <num>(a)</num>
+        <text>cost of Administration of the Service;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>payment of Emoluments, Allowances and Benefits of Members of the Governing Board and for reimbursing Members of the Governing Board or of any Committee of the   Governing Board for such expenses as may be expressly authorized by the Governing Board;</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>payment of Salaries, Fees or other Remuneration or Allowances and Legacy Gratuities, Pensions, Staff Life Insurance and other Benefits that may have accrued before the commencement of this Law and payable to the Officers and other Employees of the Service;</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>payment of Monthly Incentive to deserving Staff of the Service for enhanced productivity. The amount to be paid as Incentive shall be specified in the Budgetary Allocation provided in Section 27 (a) of this Law. The Management of the Service shall from time to time prescribe such Performance Indicators to guide the payment of Incentives;</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>the development of any Property vested in or owned by the Service; and</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>any other payment for anything incidental to the foregoing provisions or in connection with or incidental to any other function of the Service.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Annual Estimates and Accounts</heading>
+      <num>29</num>
+      <text>The Service shall, not later than 30th June in each Year submit to the Governor an estimate of its Expenditure and Income for the next succeeding year for the purpose of submission to the State House of Assembly for Appropriation.</text>
+    </section>
+    <section>
+      <heading>Books of Accounts   Audit and Annual Reports</heading>
+      <num>30</num>
+      <para>
+        <num>(1)</num>
+        <text>The Service shall keep proper Books of Accounts in respect of each year and proper Records in relation to those Accounts of each year and shall cause a comprehensive Audit of all its Accounts to be undertaken and completed within Three (3) Months after the end of each Financial Year by Auditors appointed from the List provided and in accordance with Guidelines supplied by the Auditor- General of the State.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Service shall, not later than the 30th day of June in each Year submit to the Auditor-General of the State, a Report of its activities during the immediate preceding year and shall include in such Report the duly Audited Accounts of the Service.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Auditor-General shall within 30 days of receipt of the Report present a copy to the:</text>
+        <para>
+          <num>(a)</num>
+          <text>State Executive Council; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>State House of Assembly.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The Service, where it fails to comply with the provision of <cite path="§30|(2)">sub-section (2) of this Section</cite> shall attract sanctions from the Auditor-General in line with the provisions of the Law governing the Office of the Auditor-General.</text>
+      </para>
+    </section>
+  </container>
+  <container>
+    <prefix>PART</prefix>
+    <num>III</num>
+    <heading>A UNIFIED REVENUE ADMINISTRATION STRUCTURE FOR MINISTRIES, DEPARTMENTS, AGENCIES AND LOCAL GOVERNMENT COUNCILS.</heading>
+    <section>
+      <heading>Unified Structure for Revenue Administration</heading>
+      <num>31</num>
+      <para>
+        <num>(1)</num>
+        <text>There is established for the State a Unified Structure for Revenue Assessment, Issuance of Demand Notice, Collection, Remittance, Reporting and Accounting of all Revenues collectible by MDAs and LGCs.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>In carrying out the provisions of this Law, any MDA which immediately before the commencement of this Law, is vested with the power, by virtue of any Law or Instrument, to administer or collect any Tax, Non-Tax Revenue or Levies imposed by and accruable to Government shall cease to exercise such power and the power to Administer and Collect the Taxes, Non- Tax Revenue and Levies shall vest exclusively in the Service.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>In carrying out the provision of sub-section (1) of this Law, all MDAs and LGCs, shall adopt the use of the Technology provided by the Service for Revenue Administration.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Establishment of the Revenue Council</heading>
+      <num>32</num>
+      <para>
+        <num>(1)</num>
+        <text>There is established for the State, a Revenue Council (in this Law referred to as "the Council")</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Council shall comprise of:</text>
+        <para>
+          <num>(a)</num>
+          <text>Executive Governor as Chairman;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Commissioners of the following Ministries:</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Justice;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Finance;</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Agriculture and Rural Development;</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>Lands and Survey;</text>
+        </para>
+        <para>
+          <num>(v)</num>
+          <text>Local Government and Chieftaincy Affairs;</text>
+        </para>
+        <para>
+          <num>(vi)</num>
+          <text>Commerce and Industry;</text>
+        </para>
+        <para>
+          <num>(v)</num>
+          <text>Physical Planning, Urban and Regional Development;</text>
+        </para>
+        <para>
+          <num>(vi)</num>
+          <text>Tourism;</text>
+        </para>
+        <para>
+          <num>(vii)</num>
+          <text>Transport;</text>
+        </para>
+        <para>
+          <num>(vii)</num>
+          <text>Water Resources; and</text>
+        </para>
+        <para>
+          <num>(viii)</num>
+          <text>Budget and Planning.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Executive Chairman of the Service;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Chairman, Traditional Council;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Two (2) Persons with relevant qualifications and expertise in Taxation and other Revenue matters appointed by the Governor from the Private Sector;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>one (1) Person each appointed by the Governor from the following:</text>
+          <para>
+            <num>(i)</num>
+            <text>Civil Society Organization; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Informal Sector; and</text>
+          </para>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Secretary to the Government of the State as Secretary.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Governor may co-opt additional members as deemed necessary for the purpose of carrying out its functions under this Law.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Functions of the Revenue Council</heading>
+      <num>33</num>
+      <text>The Council shall:</text>
+      <para>
+        <num>(i)</num>
+        <text>hold the Service accountable for the proper discharge of its functions under this Law;</text>
+      </para>
+      <para>
+        <num>(ii)</num>
+        <text>on a Monthly basis, determine the status of Revenue performance in the State and provide solutions to challenges that affects performance;</text>
+      </para>
+      <para>
+        <num>(iii)</num>
+        <text>make Policies, Regulations and Guidelines on Revenue matters for approval;</text>
+      </para>
+      <para>
+        <num>(iv)</num>
+        <text>receive disclosure on any allegation of Non-compliance with the provision of this Law and the Revenue Administration Code;</text>
+      </para>
+      <para>
+        <num>(v)</num>
+        <text>set up Structures for effective Whistle-blowing in the State;</text>
+      </para>
+      <para>
+        <num>(vi)</num>
+        <text>upon the commencement of this Law, make Regulations for the effective administration of Parts III and IV of this Law;</text>
+      </para>
+      <para>
+        <num>(vii)</num>
+        <text>review the Rates contained in the Compendium of Revenue prescribed in the Second Schedule to this Law and harmonize similar Revenue titles for effective collection;</text>
+      </para>
+      <para>
+        <num>(viii)</num>
+        <text>work with Standing Committees on identified initiatives; and</text>
+      </para>
+      <para>
+        <num>(ix)</num>
+        <text>identify other sources of funding for the State such as Grants, Partnerships and Bonds.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Sub-committees under the Council</heading>
+      <num>34</num>
+      <para>
+        <num>(1)</num>
+        <text>The Council shall have the following sub- committees:</text>
+        <para>
+          <num>(a)</num>
+          <text>Whistle Blowing sub-committee to:</text>
+        </para>
+        <para>
+          <num>i.</num>
+          <text>Receive disclosure on any allegation of non-compliance with the provisions of this Law;</text>
+        </para>
+        <para>
+          <num>ii.</num>
+          <text>make inquiry into such disclosure by a special Monitoring and Investigation Team of the Service to determine the veracity of such allegations;</text>
+        </para>
+        <para>
+          <num>iii.</num>
+          <text>receive information leading to the recovery of Revenue;</text>
+        </para>
+        <para>
+          <num>iv.</num>
+          <text>make provisions for Incentives or Rewards that will encourage the Whistle Blower to willingly bring such Information and the amount of such Incentive or Reward shall be at the discretion of the Council: Provided that while making provision for the Incentives or Rewards, cautiously consider Incentives or Rewards that can be defended and not abused;</text>
+        </para>
+        <para>
+          <num>v.</num>
+          <text>allow information to be channeled in writing, in Paper or Digital Format;</text>
+        </para>
+        <para>
+          <num>vi.</num>
+          <text>from time to time engage the Communities through the Traditional Rulers for Intelligence gathering on Tax Matters;</text>
+        </para>
+        <para>
+          <num>vii.</num>
+          <text>provide for Safeguards or Immunity against victimization of Whistle-Blowers; the Safeguards may include Statement of Anonymity and Witness Protection; and</text>
+        </para>
+        <para>
+          <num>viii.</num>
+          <text>treat any current or former Member of the Council that discloses the identity of the Whistle Blower in accordance with the provisions in <cite path="§119">Section 119 of this Law</cite>.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Revenue Performance sub-committee to assess the status of Revenue collected on a Monthly basis and provide solutions to challenges that affects performance; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Harmonization sub-committee to review, simplify and harmonize the Taxes, Levies, Fees, Rates and Charges accruable to Government contained in the Compendium of Revenue to encourage Investment Flow, promote Economic development and for the interest of doing Business in the State.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Council shall appoint representatives of MDAs and LGCs as Members of the sub- Committee.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Council may setup additional sub-committees for the purpose of carrying out specific functions of the Council under this Law.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Proceedings of the Council</heading>
+      <num>35</num>
+      <text>The Supplementary provisions set out in the Third Schedule to this Law shall have effect with respect to the Proceedings of the Council.</text>
+    </section>
+    <section>
+      <heading>Establishment of a Revenue Assessment Review Committee and its membership</heading>
+      <num>36</num>
+      <para>
+        <num>(1)</num>
+        <text>There is established in the State a Revenue Assessment Review Committee (in this Law referred to as "RARC") to adjudicate on any Objection made by a Taxpayer against a Final and Conclusive Assessment made by the Service.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The RARC shall consist of:</text>
+        <para>
+          <num>(a)</num>
+          <text>A Chairman who shall be a Legal Practitioner with not less than Fifteen (15)years Post-call experience with cognate experience in Tax Legislation and Tax matters, appointed by the Governor;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Commissioner responsible for Finance;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Three (3) Persons, at least one of whom shall be a Woman, appointed by the Governor who:</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>are Persons with professional membership  such as ICAN, ANAN or ACCA;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>are members of Chartered Institute of Taxation in Nigeria;</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>are knowledgeable about Tax Laws, Regulations, Norms, Practices and operations of Taxation in Nigeria; and</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>have shown capacity in management of Trade, Business or a Retired Public Servant in Tax Administration; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>A Legal Practitioner or Accountant with not less than Five (5) years experience in Tax matters appointed by the Governor as Secretary.</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <heading>Proceedings of the Revenue Assessment Review Committee</heading>
+      <num>37</num>
+      <text>The Supplementary Provisions set out in the Third Schedule to this Law shall have effect with respect to Proceedings of the Revenue Assessment Review Committee.</text>
+    </section>
+    <section>
+      <heading>Compendium of Revenue Collectible by MDAs and LGCs</heading>
+      <num>38</num>
+      <para>
+        <num>(1)</num>
+        <text>There is provided a Compendium of Revenue collectible by MDAs and LGCs contained in the Second Schedule to this Law.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Taxes, Levies, Fees, Rates and Charges contained in the Compendium of Revenue shall be reviewed from time to time by the Revenue Council subject to the approval of the Governor, upon confirmation by the House of Assembly.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Upon confirmation by the House of Assembly, the Executive Chairman shall publish a revised Compendium of Revenue in the Gazette and produce copies for circulation.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Where a Law by the House of Assembly creates a Department or Agency and provides new categories of Taxes, Levies, Fees, Rates and Charges, such Revenue shall be deemed Incorporated in the Compendium of Revenue.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Any Revenue due to Government shall be payable, only if contained in the Compendium of Revenue.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Every Revenue generating MDA and LGC shall display at a conspicuous place within their Premises and on their respective Websites, a Chart showing the approved Collectable Revenue, Payment Account, Procedure for Payment, Channels for Payment and the expected time of Payment.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Categorization of MDAs and Local Government Areas</heading>
+      <num>39</num>
+      <para>
+        <num>(1)</num>
+        <text>For the Purpose of this Law, MDAs are categorized into Administration and Justice, Economic Base and Social Base.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>For the purpose of this Law, Local Government Areas in the State are categorized into Urban, Semi-Urban and Rural Areas.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Rates and Fees due to each Local Government is consolidated in accordance with the categorization in <cite path="§39|(2)">sub-section (2) of this Section</cite> and are provided for in the Second Schedule of this Law.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Revenue Administration Procedure Code</heading>
+      <num>40</num>
+      <para>
+        <num>(1)</num>
+        <text>There is provided a Revenue Administration Procedure Code (referred to in this Law as Revenue Code) to guide the process of Revenue Administration in the State.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Revenue Administration Procedure Code may be reviewed from time to time with the approval of the Revenue Council, subject to confirmation by the House of Assembly.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Upon confirmation by the House of Assembly, the Executive Chairman shall publish a revised Revenue Code in the Gazette and produce copies for circulation.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The Revenue Code is provided in the Fourth Schedule to this Law.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Establishment of LGC  Revenue Departments</heading>
+      <num>41</num>
+      <text>There is established in every Local Government Council a Revenue Department which shall be headed by a Director from the Local Government Service Commission.</text>
+    </section>
+    <section>
+      <heading>Functions of the Revenue Department</heading>
+      <num>42</num>
+      <text>The Revenue Department shall in collaboration with the Service:</text>
+      <para>
+        <num>(a)</num>
+        <text>implement the Revenue  Code in its area of Jurisdiction;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>carry out a periodic review of Rates and Charges contained in the Second Schedule to this Law in its area of jurisdiction and make recommendations to the Revenue Council for its review; and</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>promote the application of Revenue to stimulate economic activities and development in the respective Local Government Areas as applicable.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Establishment of Revenue Units and Deployment of Revenue Desk Officers</heading>
+      <num>43</num>
+      <para>
+        <num>(1)</num>
+        <text>There is established a Revenue Unit in every Revenue generating MDA to be manned by a Staff of the Service.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Service shall deploy a competent Staff to every Revenue Unit established under <cite path="§43|(1)">sub-section (1) of this Section</cite> and Revenue Department established under <cite path="§41">Section 41 of this Law</cite>, as Revenue Desk Officers.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Revenue Desk Officer in <cite path="§43|(2)">sub-section (2) of this Section</cite> shall operate under the general direction and supervision of the Service and shall be responsible for the Registration of Taxpayers, Issuance of TIN, Automated Demand Notices, Collection of Revenue into the Single Revenue collection Account established under <cite path="§44">Section 44 of this Law</cite>, Issuance of Automated Receipts and any other function as may be determined by the Service.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>For the purpose of effective Revenue Administration in the State, the Service shall deploy the Technology adopted by the State to all Revenue Units and Revenue Departments.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The Revenue Desk Officers deployed by the Service to all Revenue Units and Revenue Departments shall be responsible for the Technology deployed for effective Revenue Administration.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Establishment of a Single Revenue Collection Account</heading>
+      <num>44</num>
+      <para>
+        <num>(1)</num>
+        <text>There is established for the State a Single Revenue Collection Account to be managed by the Service to which shall be paid all Revenue due to the State Government.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Any Bank Account which was operated for the purpose of collection of Revenue due to the State Government before the coming into force of this Law ceases to operate.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Payment of any Revenue due to Government into any Account other than the Account established under sub-section (1) of this Law is prohibited.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Each Revenue Generating MDA shall with the approval of the Accountant-General of the State, maintain an Account for the purpose of <cite path="§44|(5)">sub-section (5) of this Section</cite>.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The Bank shall upon a written instruction from the Service, credit the Bank Account of each Revenue generating MDA, with a percentage approved by the Governor as Cost of Operation.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>The Bank shall upon a Standing Instruction from the Service, credit the Bank Accounts of each LGC with all Revenue due to the respective LGCs.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Power of the Accountant-General to Deduct and Remit</heading>
+      <num>45</num>
+      <text>The Accountant-General shall have the power to deduct at source, from the Budgetary Allocation, established Un-remitted Revenue due to the State from any MDA and shall upon deduction, transfer such deductions to the Single Revenue Collection Account established under <cite path="§44">Section 44 of this Law</cite>.</text>
+    </section>
+  </container>
+  <container>
+    <prefix>PART</prefix>
+    <num>IV</num>
+    <heading>OTHER REVENUES CHARGEABLE</heading>
+    <section>
+      <heading>Presumptive Income Tax</heading>
+      <num>46</num>
+      <para>
+        <num>(1)</num>
+        <text>There is imposed a Presumptive Income Tax payable under this Law to be administered by the Service;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Presumptive Income Tax shall be chargeable where for all practical purposes the Income of the Taxpayer cannot be ascertained or Financial Records are not kept in such manner as would enable proper Assessment;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A Taxpayer chargeable under Presumptive Income Tax shall be assessed having regards to the following Bands: Micro, Small or Medium Enterprises based on their level of activities.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The Presumptive Income Tax payable shall be in accordance with the category of Trade, Business, Vocation and Profession as contained in the Administrative Table in the First Schedule to this Law;</text>
+      </para>
+    </section>
+    <section>
+      <heading>Exit Rules under Presumptive Income Tax Regulation</heading>
+      <num>47</num>
+      <para>
+        <num>(1)</num>
+        <text>The Service shall encourage Taxable Persons to keep some Form of Records for the purpose of determining their Income, in order to exit from the Presumptive Income Tax Regime and be assessed under the Personal Income Tax Act;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A Taxable Person under the Presumptive Income Tax Regime may voluntarily exit and file the requisite Tax Returns and be assessed accordingly under the Revenue Code.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Where the Service discovers, based on available records or any other valid record or information that the Taxable Person ought to have been assessed other than under the Presumptive Income Tax Regime, such Taxable Person shall be Assessed as appropriate.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Consumption Tax</heading>
+      <num>48</num>
+      <para>
+        <num>(1)</num>
+        <text>A Consumption Tax is imposed on any Person (in this Law referred to as "the Consumer") who purchases consumable Goods or Services in any Restaurant, Hotel, Hotel Facility, Bar or Event Centre in the State.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The rate of Tax imposed is as specified in the First Schedule to this Law and shall be administered by the Service.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The rate to which this Tax applies shall be the total cost of consumables or personal services supplied to a Consumer.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Entertainment Tax</heading>
+      <num>49</num>
+      <para>
+        <num>(1)</num>
+        <text>There is imposed an Entertainment Tax  which shall be payable by users of:</text>
+        <para>
+          <num>(a)</num>
+          <text>Viewing Centers or Cinemas;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Products produced by  Compact Disc Plate Producers; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>other similar Entertainment activities.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The rate of Tax imposed is as specified in the First Schedule to this Law and shall be administered by the Service.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Gaming Due</heading>
+      <num>50</num>
+      <para>
+        <num>(1)</num>
+        <text>There is imposed a Gaming Due on every Stake Money earned in, or derived from the State for good cause.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The rate is as specified in the First Schedule to this Law and shall be administered by the Service.</text>
+      </para>
+    </section>
+    <section>
+      <heading>License to Operate a Gaming Business</heading>
+      <num>51</num>
+      <para>
+        <num>(1)</num>
+        <text>A Person operating or seeking to operate a Gaming Business in the State shall apply to the MDA responsible for Gaming for a License to operate.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Application for a License to operate shall be at a Fee prescribed in the Second Schedule to this Law</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Application shall be in writing and shall contain such Information as deemed necessary to enable the MDA grant the License to operate.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The MDA in considering an Application for the grant of a License to operate shall be satisfied that the:</text>
+        <para>
+          <num>(a)</num>
+          <text>Applicant has sufficient knowledge and experience to conduct Gaming Business and shall conduct such Business strictly in accordance with this Law;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Applicant has the necessary financial and other resources to conduct Gaming Business in the State;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Applicant produces evidence of the payment of Tax for the past Three (3) years immediately preceding the Application; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Person likely to manage the Gaming Business is a fit and proper Person to do so.</text>
+        </para>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The MDA shall, upon being satisfied of the Applicant fulfilling the requirements in sub-section (4) (a)-(d) of <cite path="§51">this Section</cite>, grant the License.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>The License granted shall be renewed annually upon evidence of good conduct by the Licensee.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>The Fees chargeable under sub-sections (5) and (6) of <cite path="§51">this Section</cite> are as prescribed in the Second Schedule to this Law and administered by the MDA.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Collecting Agent for Consumption Tax, Entertainment Tax and Gaming Due</heading>
+      <num>52</num>
+      <para>
+        <num>(1)</num>
+        <text>A Person owning, managing or controlling any Business chargeable to Consumption Tax, Entertainment Tax or Gaming Due (in this Law referred to as "Collecting Agent") shall collect for and on behalf of the State, the Tax imposed in Sections 48 and 49 of this Law and the Due imposed in Section50 of this Law;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Every Collecting Agent shall within Thirty (30) days of the commencement of this Law or upon commencement of Business, whichever is earlier, register with the Service without a Fee;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Every Collecting Agent shall produce evidence of Business Premise Registration as a precondition to:</text>
+        <para>
+          <num>(a)</num>
+          <text>registration with the Service; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>any contractual relationship with the State Government or any of its MDAs or LGCs.</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <heading>Development Levy payable by all Taxable Individuals and on all Contractors</heading>
+      <num>53</num>
+      <para>
+        <num>(1)</num>
+        <text>There is imposed a Development Levy payable annually by all Taxable Individuals in the State and on every Contract sum, payable by all Contractors doing Business in the State.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The amount chargeable as Development Levy is as prescribed in the First Schedule to this Law and shall be administered by the Service.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Development Levy Fund</heading>
+      <num>54</num>
+      <para>
+        <num>(1)</num>
+        <text>There is established a Fund known as "Development Levy Fund".</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Accountant-General of the State shall open a dedicated Account into which shall be credited all Development Levies collected by the Service.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>For the purpose of physical infrastructural development in the State, the Development Levy Fund shall be administered by the Commissioner for Finance in conjunction with the Commissioners responsible for Works, Water and Energy.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Economic Development Levy</heading>
+      <num>55</num>
+      <para>
+        <num>(1)</num>
+        <text>There is imposed an Economic Development Levy payable by Businesses operating in the State.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The amount chargeable as Economic Development Levy is as prescribed in the First Schedule to this Law and shall be administered by the Service.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Economic Development Levy Fund</heading>
+      <num>56</num>
+      <para>
+        <num>(1)</num>
+        <text>There is established a Fund known as Economic Development Levy Fund.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Accountant-General of the State shall open a dedicated Account into which shall be credited all Economic Development Levies collected by the Service.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>For the purpose of Economic Development in the State, the Economic Development Fund shall be administered by the Commissioner for Finance in conjunction with the Commissioner responsible for Budget and Economic Planning.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Environmental Impact Assessment (Ecological) Fee</heading>
+      <num>57</num>
+      <para>
+        <num>(1)</num>
+        <text>There is imposed an Environmental Impact Assessment (Ecological) Fee payable by all Businesses whose operations may have potential impact on the Environment such as Industries, Factories, Energy Providers, Telecommunication Providers and other similar Businesses operating within the State.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Fees chargeable are as prescribed in the Second Schedule to this Law.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Right of Way Fee</heading>
+      <num>58</num>
+      <para>
+        <num>(1)</num>
+        <text>There is imposed a Right of Way Fee payable for the placement of all underground Cables, Pipes and similar Equipment within the State.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Fees chargeable are as prescribed in the Second Schedule to this Law.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Business Premises Registration and Renewal Fee</heading>
+      <num>59</num>
+      <para>
+        <num>(1)</num>
+        <text>There is imposed a Business Premises Registration and Renewal Fee payable by all Business Operators in the State.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>All Businesses operating within the State are categorized based on their Type, Size and Location of Business.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Fees chargeable are as prescribed in the Second Schedule to this Law.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Indication of Presence Fee</heading>
+      <num>60</num>
+      <para>
+        <num>(1)</num>
+        <text>There is imposed an Indication of Presence Fee payable by all Persons operating in the Mining Sector within the State.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Fees chargeable are as prescribed in the Second Schedule to this Law.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Tin Shade and Buying Center Registration and Inspection Fee</heading>
+      <num>61</num>
+      <para>
+        <num>(1)</num>
+        <text>All Operators of Tin Shades and Buying Centers shall register their operations with the Ministry responsible for Mineral Development at a Fee prescribed under the Second Schedule to this Law.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Ministry responsible for Mineral Development shall conduct a Quarterly Inspection on Premises of all Tin Shades and Buying Centers operating within State at a Fee prescribed under the Second Schedule to this Law.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>All Tin Shade and Buying Centers registered under <cite path="§61|(1)">sub-section (1) of this Section</cite> are exempted from registering under <cite path="§59">Section 59 of this Law</cite>.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Registration of Mineral Traders, Artisanal Miners and Tipper Associations</heading>
+      <num>62</num>
+      <text>All Mineral Traders, Artisanal Miners and Tipper Associations are mandated to register their Operations with the Ministry responsible for Mineral Development at a Fee provided in the Second Schedule to this Law.</text>
+    </section>
+    <section>
+      <heading>Haulage Fee for Minerals and Earth Construction Materials.</heading>
+      <num>63</num>
+      <para>
+        <num>(1)</num>
+        <text>There is imposed a Haulage Fee payable by all Tipper Operators, conveying Minerals and Earth Construction Materials at the point of Loading or Discharge in the State.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Fees chargeable are as prescribed in the Second Schedule to this Law.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Haulage Fee for Goods and Materials</heading>
+      <num>64</num>
+      <para>
+        <num>(1)</num>
+        <text>There is imposed a Haulage Fee payable by all Transporters of Finished Goods and Materials, at the point of Loading or Discharge in the State.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Fees chargeable are as prescribed in the Second Schedule to this Law.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Establishment of Loading and Discharge Points</heading>
+      <num>65</num>
+      <para>
+        <num>(1)</num>
+        <text>There is established by the Service, Loading and Discharge Points for Finished Goods, Materials and other items for effective Revenue collection under this Law.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Points established in <cite path="§65|(1)">sub-section (1) of this Section</cite> shall be published in the Gazette.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Points established shall be manned by Staff of the Service and the Ministry responsible for Commerce and Industry.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The Service shall, in conjunction with relevant MDAs and Federal Agencies, inspect the quality of goods discharged at the various Points in the State.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Milling Fee</heading>
+      <num>66</num>
+      <para>
+        <num>(1)</num>
+        <text>There is imposed a Milling Fee on all Milling activities payable by Operators of Rice Mills, Feed Mills, Oil Mills and other related Businesses in the State.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Fees chargeable are as prescribed in the Second Schedule to this Law.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Animal Trade Fee</heading>
+      <num>67</num>
+      <para>
+        <num>(1)</num>
+        <text>There is imposed an Animal Trade Fee on all Animal Traders at the point of entrance into all State Financed Abattoirs.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Fees chargeable are as prescribed in the Second Schedule to this Law.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Produce Sales Tax</heading>
+      <num>68</num>
+      <para>
+        <num>(1)</num>
+        <text>There is imposed a Produce Sales Tax on all Agricultural Produce in the State.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The rate of Tax imposed is as prescribed in the Second Schedule to this Law.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Livestock and Farm Produce Inspection Station</heading>
+      <num>69</num>
+      <para>
+        <num>(1)</num>
+        <text>There is established in every State Financed Market, a Livestock and Farm Produce Inspection Station for the purpose of carrying out Inspection of all Livestock and Farm Produce in the State.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The established Stations shall be manned by Staff of the Service and Ministry responsible for Agriculture and Rural Development.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Inspection of the Livestock and Farm Produce shall be conducted by Veterinary Doctors and other Staff of the Ministry responsible for Agriculture and Rural Development.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The Inspection shall be for a Fee payable by Sellers of Livestock and Farm Produce at the Inspection Station established under <cite path="§69|(1)">sub-section (1) of this Section</cite>.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The Inspection Fee chargeable are prescribed in the Second Schedule to this Law.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Control Post for Tax Evaders of Agricultural produce</heading>
+      <num>70</num>
+      <para>
+        <num>(1)</num>
+        <text>The Service shall in conjunction with the Ministry responsible for Agriculture and Rural Development and the Revenue Departments of the LGCs, establish Control Posts in designated Areas of the State for the purpose of checking Tax Evaders of Agricultural Produce.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Control Posts established in <cite path="§70|(1)">sub-section (1) of this Section</cite> shall be published in the Gazette by the Service.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The established Control Post shall be manned by Staff of the Service, Ministry responsible for Agriculture and Rural Development and the Revenue Departments of the LGCs.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Parking Permit</heading>
+      <num>71</num>
+      <para>
+        <num>(1)</num>
+        <text>The Service shall in conjunction with the Ministry responsible for Physical Planning, Urban and Regional Development and the relevant LGCs, designate locations in the State as Parking Spaces to enable the parking of Vehicles by Motorists.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A Motorist shall, for the purpose of parking at the locations designated in <cite path="§71|(1)">sub-section (1) of this Section</cite> obtain from the Service a Parking Permit for a Fee prescribed in the Second Schedule to this Law.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Parking Permit shall contain a Unique Code with Security Features and may be in form of a Car Sticker.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The Service shall be responsible for the production of the Parking Permit.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>There shall be in every designated location, Payment Points for obtaining the Parking Permit.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>The Payment Points shall be manned by Staff of the Service.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Government Motor Parks</heading>
+      <num>72</num>
+      <para>
+        <num>(1)</num>
+        <text>The Service shall in conjunction with the Ministry responsible for Physical Planning, Urban and Regional Development and LGCs, designate Areas in the State as Government Motor Parks (in this Law referred to as "Motor Parks") for conveying Passengers within, to and from the State.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Motor Parks shall be manned by Staff of the Service in conjunction with the LGCs.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>All Commercial Vehicle Owners shall obtain a Motor Park Permit for the purpose of conveying Passengers.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The Conveying of Passengers by Commercial Vehicle Drivers without a Permit or from any point not designated as a Motor Park is prohibited.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Signage and Mobile Advertisement Permit</heading>
+      <num>73</num>
+      <text>Upon the commencement of this Law, a Signage and Mobile Advertisement Permit shall be obtained from the Ministry responsible for Physical Planning, Urban and Regional Development for the placement of Outdoor Structures and Mobile Advertisements on Vehicles within the State for a Fee prescribed in the Second Schedule to this Law.</text>
+    </section>
+    <section>
+      <heading>Radio, Television and Electronic Signal Tax</heading>
+      <num>74</num>
+      <para>
+        <num>(1)</num>
+        <text>There is imposed a Radio, Television and Electronic Signal Tax on owners and Users of Devices or Equipment capable receiving Radio and Television Broadcast Content in the State and shall include Mobile Phone Devices.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Devices or Equipment capable of receiving Radio and Television Broadcast Content stated in <cite path="§74|(1)">sub-section (1) of this Section</cite> includes:</text>
+        <para>
+          <num>a.</num>
+          <text>Satellite Broadcast Platform;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Telecommunication/Internet Broadcast Platform;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Digital Set Box or similar Device;</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Motor Vehicle or Tricycle with Broadcast Equipment; and</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>Mobile Phone Devices.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>All Operators or Owners of Satellite, Internet, Telecommunication and Digital Set Box Broadcast Platforms, Electronic Equipment Sales and Service Providers, Motor Vehicle or Tricycle Registration and Licensing Platforms, shall act as Collecting Agents of the Service for the purpose of deducting and remitting to the Service, all Radio, Television and Electronic Signal Taxes at the point of Licensing, Subscription or Registration of their Services by Customers.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The Fees chargeable are as prescribed in the Second Schedule to this Law.</text>
+      </para>
+    </section>
+    <section>
+      <heading>L- Symbol Fee</heading>
+      <num>75</num>
+      <para>
+        <num>(1)</num>
+        <text>All Learners approved to drive a Vehicle on any Street or Road in the State shall obtain an L-Symbol from the Service at a Fee prescribed under the First Schedule to this Law.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The purchase of the L-symbol by a Learner from any Vendor other than the Service is prohibited.</text>
+      </para>
+    </section>
+  </container>
+  <container>
+    <prefix>PART</prefix>
+    <num>V</num>
+    <heading>OFFENCES AND PENAL PROVISIONS</heading>
+    <section>
+      <heading>Failure to Register</heading>
+      <num>76</num>
+      <text>A Person who fails to:</text>
+      <para>
+        <num>(a)</num>
+        <text>register as required under the Revenue Code; or</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>notify the Service of a change in registration particulars or circumstances as required under the Revenue Code, commits an offence and is liable on Conviction:</text>
+        <para>
+          <num>(i)</num>
+          <text>if the failure or act is done knowingly or recklessly, to a Fine not exceeding ₦100,000.00 (One Hundred Thousand Naira) or Imprisonment not exceeding Two (2) years or both; or</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>in any other case, a Fine not exceeding ₦10,000.00 (Ten Thousand Naira) or Imprisonment not exceeding Three (3) Months or both.</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <heading>Use of false Taxpayer Identification Number (TIN)</heading>
+      <num>77</num>
+      <para>
+        <num>(1)</num>
+        <text>A Person who knowingly or recklessly uses a false Taxpayer Identification Number (TIN) on a Tax Return or other Document prescribed or used for the purposes of this Law, commits an Offence and is liable on conviction to a Fine not exceeding ₦100,000.00 (One Hundred Thousand Naira) or to Imprisonment not exceeding One (1) year or both.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A Person who uses a TIN of another Person is treated as having used a false TIN, unless the TIN has been used in the circumstances specified in Section 3 (5) of the Revenue Code.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Failure to keep proper Records</heading>
+      <num>78</num>
+      <text>A Person who fails to keep proper records as required under the Revenue Code commits an Offence and is liable on Conviction to a Fine not exceeding ₦200,000.00 (Two Hundred Thousand Naira) or to Imprisonment not exceeding 2 (Two) years or both.</text>
+    </section>
+    <section>
+      <heading>Failure to furnish a Tax Return</heading>
+      <num>79</num>
+      <text>Any Individual or Body Corporate Employer who fails to furnish a Tax Return as required by the Revenue Code shall be liable on Conviction to a Penalty of ₦50,000.00 (Fifty Thousand Naira) in the case of an Individual and ₦500,000.00 (Five Hundred Thousand Naira) in the case of a Body Corporate or Imprisonment for a Term of at least 6 (Six) Months or both.</text>
+    </section>
+    <section>
+      <heading>Making incorrect Returns.</heading>
+      <num>80</num>
+      <para>
+        <num>(1)</num>
+        <text>A Person who makes or gives:</text>
+        <para>
+          <num>(a)</num>
+          <text>an incorrect Return or Statement by omitting or understating any Income chargeable to Tax under this Law; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>any incorrect information in relation to any matter or thing affecting the Liability to Tax of any Taxable Person: commits an Offence and is liable on Conviction to a Fine of ₦200,000.00 (Two Hundred Thousand Naira) and twice the amount of the Tax which has been undercharged in consequence of such incorrect Return or Information or would have been so undercharged if the Return or Information had been accepted as correct.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Section 19 of the Revenue Code applies in determining whether a Person has made a false or misleading Statement to a Tax Officer.</text>
+      </para>
+    </section>
+    <section>
+      <heading>False Statements and Returns</heading>
+      <num>81</num>
+      <text>A Person who:</text>
+      <para>
+        <num>(a)</num>
+        <text>for the purpose of obtaining any Deduction, Set off, Relief or Repayment in respect of Tax for such Person or any other Person or who in any Statement or Returns, Account or Particulars made or furnished with reference to Tax, knowingly makes any false Statement or Representation; or</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>aids, abets, assists, counsels, incites or induces any other Person to:</text>
+        <para>
+          <num>(i)</num>
+          <text>make or deliver any false Statement or Returns under the Revenue Code;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>keep or prepare any false Accounts or Particulars concerning any Income on which Tax is payable under the Revenue Code; or</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>unlawfully refuse or neglect to pay Tax; commits an Offence and is liable on Conviction to a Fine of ₦200,000.00 (Two Hundred Thousand Naira) and 100% of the amount of Tax unpaid or to Imprisonment for a Term not exceeding Five (5) Years or to both such Fine and Imprisonment.</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <heading>Falsification of Documents</heading>
+      <num>82</num>
+      <text>A Person who:</text>
+      <para>
+        <num>(a)</num>
+        <text>counterfeits or falsifies any Document which is required by or for the transaction of any Business under the Revenue Code or any Law being administered by the Service;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>knowingly accepts, receives or uses any Document so counterfeited or falsified;</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>alters any such Document after it is officially issued;</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>counterfeits any Seal, Signature, Initial or other mark used by any Officer for the verification of such a purpose relating to Tax; or</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>initiates, connives or participates in the commission of any of the Offences in paragraphs (a) to (d) of <cite path="§82">this Section</cite>: Commits an Offence and is liable on Conviction to a Fine of ₦500,000.00 (Five Hundred Thousand Naira) or to Imprisonment for a Term of Three (3) years or both.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Failure to pay Liability</heading>
+      <num>83</num>
+      <text>Any Person or Organization who fails to pay a Levy due to Government under this Law commits an Offence and shall on Conviction be liable to pay a sum equal to 200% the amount for which the Person is in default.</text>
+    </section>
+    <section>
+      <heading>Failure to attend to a Notice</heading>
+      <num>84</num>
+      <text>A Person who:</text>
+      <para>
+        <num>(a)</num>
+        <text>fails to comply with a requirement or Notice served on the Person by the Service under the Revenue Code; or</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>without sufficient cause, fails to comply with any Notice or Summons served on the Person in respect of any proceeding of the Service or that of the Revenue Council in the State for considering a Notice of Objection or an Appeal by that Person, as the case may be; commits an Offence and is liable on conviction to a Fine of ₦50,000.00 (Fifty Thousand Naira) or to a Term of Imprisonment not exceeding Three (3) Months or to both such Fine and Imprisonment.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Failure to deduct and remit Tax, Fee, Levy or Charge</heading>
+      <num>85</num>
+      <text>If a Person obliged to deduct any Tax, Fee, Levy of Charge  under this Law or any other applicable Law fails to deduct or having deducted, fails to pay or remit to the Service within 30 days from the date the amount was deducted or the time the duty to deduct arose, such a Person, commits an Offence and shall on Conviction be liable to pay the Tax withheld or not remitted in addition to a Penalty of 10% of the Tax withheld or not remitted per annum and Interest at 5% above the prevailing Central Bank of Nigeria Monetary Policy Rate.</text>
+    </section>
+    <section>
+      <heading>Failure to pay full rate of Assessed Tax, Fee, Levy or Charge</heading>
+      <num>86</num>
+      <text>Unless otherwise provided in this Law, a Person who fails to pay in full any Tax, Levy, Rate or Charge or other Revenue due to the State or a Local Government Council, commits an Offence and is liable upon Conviction to a Fine of 50% of the total amount of Revenue which was due and payable or to Imprisonment for Eighteen (18) Months or to both such Fine and Imprisonment.</text>
+    </section>
+    <section>
+      <heading>Penalties for non-payment of Presumptive Tax</heading>
+      <num>87</num>
+      <text>A Taxable Person under Presumptive Tax Regime who fails or neglects to make payment of the Tax due shall be liable to pay the sum equal to 5% per annum.</text>
+    </section>
+    <section>
+      <heading>Offences relating to goods under Distress Proceedings</heading>
+      <num>88</num>
+      <text>A Person who:</text>
+      <para>
+        <num>(1)</num>
+        <text>rescues any goods that are the subject of a Distress Proceeding or that have been seized by virtue of a Distress Proceeding; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>before, during, or after any Distress Proceedings or seizure of goods by virtue of the Distress Proceedings, breaks or destroys any goods or documents relating to any goods, to prevent:</text>
+        <para>
+          <num>(i)</num>
+          <text>the seizure or the securing of the Goods; or</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>the proof of an Offence; or</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>entry into the Premises to which is the subject of a Distress Proceeding without the permission of the Service, commits an Offence and is liable on Conviction to a Fine not exceeding ₦200,000.00 (Two Hundred Thousand Naira) or Imprisonment not exceeding Two (2) years.</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <heading>Failure to obtain a License</heading>
+      <num>89</num>
+      <text>Any Person who carries on Business in the State and fails to register the Business Premise or obtain an Operational License without making the necessary License Application and obtaining a License as required by this Law is guilty of an Offence and shall be liable on Conviction to a Fine of at least ₦1,000,000.00 (One Million Naira) or Imprisonment for a Term of at least Six (6) Months or both Fine and Imprisonment.</text>
+    </section>
+    <section>
+      <heading>Obstruction of Tax Officers, Revenue Officers or Staff of the Service in the performance of their Duty</heading>
+      <num>90</num>
+      <text>A Person· who obstructs a Tax Officer, Revenue Officer or Staff of the Service in the performance of duties under a Tax Law, commits an Offence and is liable on Conviction to a Fine not exceeding ₦500,000.00 (Five Hundred Thousand Naira) or to Imprisonment not exceeding Two (2) years or both.</text>
+    </section>
+    <section>
+      <heading>Use of Weapon to cause injury to a Tax Officer, Revenue Officer or Staff of the Service</heading>
+      <num>91</num>
+      <para>
+        <num>(1)</num>
+        <text>A Person who, in the commission of any Offence under this Law, is armed with any Offensive Weapon commits an Offence and is liable on Conviction to Imprisonment for a term of Three (3) Years.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A Person who while armed with an Offensive Weapon, causes Grievous Hurt to a Tax Officer, Revenue Officer or an authorized Staff of the Service in the performance of their function under this Law commits an Offence and is liable on Conviction to Imprisonment for a Term of not less than Five (5) years and shall also be liable to a Fine of not less than ₦100,000.00 (One Hundred Thousand) Naira or both.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Impersonation</heading>
+      <num>92</num>
+      <para>
+        <num>(1)</num>
+        <text>A Person who impersonates a Tax Officer, Revenue Officer or Staff of the Service and attempts to collect or collects any Revenue due to Government, commits an Offence and is liable on Conviction to a Fine of ₦250,000.00 (Two Hundred and Fifty Thousand Naira) or Imprisonment for Three (3) Years or both and any amount collected shall be forfeited to the State or the relevant Local Government Council.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If for the purpose of obtaining admission to any Building or other place or for doing or procuring to be done any act which the Person would not be entitled to do or procure to be done of the Person's  own authority or for any other unlawful purpose, any Person, not being an authorized Officer, assumes 'the name or designation or impersonates the character of an authorized Officer, he shall, in addition to any other punishment to which such Person  may be liable, be liable on Conviction to a Fine of ₦l00,000.00 (One Hundred Thousand Naira) or to Imprisonment for a Term of Two (2) Years.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Abuse of Power and Corruption</heading>
+      <num>93</num>
+      <text>A Person who:</text>
+      <para>
+        <num>(a)</num>
+        <text>being a Person appointed for the due Administration of this Law or employed in connection with the Assessment or Collection of Tax or any other Revenue who:</text>
+        <para>
+          <num>(i)</num>
+          <text>demands from any person an amount in excess of the authorized Assessment of the Tax or any other Revenue;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>fails to remit Revenue collected as at when due;</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>withholds, for own use or otherwise, any portion of the amount of Tax or any other Revenue collected or received or any Money accruable to the State;</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>renders a false Return, whether orally or in writing, of the amount of Tax or any other Revenue collected or received; or</text>
+        </para>
+        <para>
+          <num>(v)</num>
+          <text>defrauds any person, embezzles any Money or otherwise uses that position to deal wrongly with any Money accruable to the State;</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>collects or attempts to collect Tax or any other Revenue without being authorized under this Law;</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>steals or misuses Government Documents; or</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>compromises on the Assessment or Collection of any Tax or any other Revenue: Commits an Offence and is liable on Conviction to a Fine equivalent to 200 percent of the sum in question or to Imprisonment for a Term of Three (3) Years or both.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Offences by Government Officials</heading>
+      <num>94</num>
+      <para>
+        <num>(1)</num>
+        <text>It is a Criminal Offence for any Government Official to issue Orders or Directives preventing the Assessment or Collecting of legitimate Revenue in any Part or Section of the State.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Any Government Official who contravenes <cite path="§94|(1)">sub-section (1) of this Section</cite> shall be liable upon Conviction to a Fine equal to 500% of the sum in issue and Imprisonment for One (1) year.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Offences in relation to a Tax Officer, Revenue Officer or Staff of the Service</heading>
+      <num>95</num>
+      <para>
+        <num>(1)</num>
+        <text>Where a Tax Officer, Revenue Officer or Staff of the Service has derived pecuniary benefits in Cash or Kind as a result of an action or inaction in carrying out official duties, shall be regarded as an Inducement or Bribery.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A Tax Officer, Revenue Officer or Staff of the Service who:</text>
+      </para>
+      <para>
+        <num>(a)</num>
+        <text>directly or indirectly asks for, or takes in connection with any of the Officer's duties, a Payment or Reward, whether pecuniary or otherwise, or a Promise or Security for any Payment or Reward, not being a Payment or Reward which the Officer is lawfully entitled to receive; or</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>enters into or acquiesces in any Agreement to do any act or thing,  abstain  from  doing  any  act  or  thing,  permit  or connive in the doing of any act or thing,  or conceal any act or thing whereby the Tax Revenue is or may be defrauded or which is contrary to the provisions of a Tax Law or to the proper execution of the Officer's Duty, commits an Offence and is liable on Conviction to a Fine not exceeding ₦500,000.00 (Five Hundred Thousand Naira) or Imprisonment not exceeding Two (2) years, or both.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A Person who:</text>
+      </para>
+      <para>
+        <num>(a)</num>
+        <text>directly or indirectly offers or gives to a Tax Officer, Revenue Officer or Staff of the Service any Payment or Reward, whether Pecuniary or otherwise, or any Promise or security for any such Payment or Reward, not being a Payment or Reward which the Officer or Staff is lawfully entitled to receive; or</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>proposes or enters into any Agreement with a Tax Officer, Revenue Officer or Staff of the Service in order to induce the  Officer or Staff to do any act or thing, abstain from doing any act or thing, connive at the doing of any act or thing,  or  concealing  any act  or thing  by  which Tax Revenue is or may be defrauded or which is  contrary to the provisions of a Tax Law or to the proper execution of the Officer's or Staff's duty, commits an Offence and is liable on Conviction to a Fine not exceeding ₦200,000.00 (Two Hundred Thousand Naira) or Imprisonment  not exceeding Two (2) years, or both.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A Tax Officer, Revenue Officer or Staff of the Service who commits an act specified in sub-section (1) and who volunteers information to the Chairman  relating to that act is:</text>
+      </para>
+      <para>
+        <num>(a)</num>
+        <text>exonerated from Prosecution; but</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>is liable for Twenty Percent of  the  Fine  that  would  be imposed on a Person Convicted of an Offence under subsection (1).</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>A Person who commits an act specified in sub-section (2), and who volunteers information to the Service relating to that act is:</text>
+      </para>
+      <para>
+        <num>(a)</num>
+        <text>exonerated from prosecution; but</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>is liable for the amount of Tax unpaid as a result of the Agreement with the Tax Officer, Revenue Officer or Staff of the Service referred to in sub-section (2).</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>A Tax Officer, Revenue Officer or Staff of the Service convicted of an Offence under sub-section (1) is, in addition to any punishment imposed under that subsection, liable for the amount of Tax unpaid as a result of the Agreement with the Tax Officer, Revenue Officer or Staff of the Service referred to in sub-section (2).</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>A Person who impersonates a Tax Officer, Revenue Officer or Staff of the Service commits an Offence and is liable on Conviction to a Fine not exceeding ₦500,000.00 or Imprisonment not exceeding Two years or both.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Offences by Bodies of Persons</heading>
+      <num>96</num>
+      <para>
+        <num>(1)</num>
+        <text>When an Offence under a Tax Law is committed by a Company, the Offence is treated as have been committed by a Person who, at the time the Offence was committed, was:</text>
+        <para>
+          <num>(a)</num>
+          <text>the Chief Executive Officer, Managing Director, a Director, Company Secretary, Treasurer, or other similar Officer of the Company; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>acting or purporting to act in that capacity.</text>
+        </para>
+        <aftertext proof="needed">Where an Offence under a Tax Law is committed by a Partnership, every Partner at the time of the commission of the Offence is treated as having committed the Offence.</aftertext>
+        <aftertext proof="needed">This Section does not apply to a Person if:</aftertext>
+        <para>
+          <num>(a)</num>
+          <text>the Offence is committed without the consent or knowledge of a Person specified under sub-section (1), (2), or (3); and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>the Person specified under sub-section (1), (2), or (3) has exercised all diligence to prevent the commission of the Offence as ought to have been exercised having regard to the nature of the representative's functions and all other circumstances.</text>
+        </para>
+        <aftertext proof="needed">When an Offence under this Law is committed by an Unincorporated Association or Body of Persons, the Offence is treated as having been committed by a Person who, at the time the Offence was committed, was:</aftertext>
+        <para>
+          <num>(a)</num>
+          <text>involved   in the   management   of the   Unincorporated Association or Body of Persons; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>acting or purporting to act in that capacity.</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <heading>Aiding or abetting a Tax Offence</heading>
+      <num>97</num>
+      <text>A Person who aids, abets, counsels, or induces another Person to commit an Offence under a Tax Law, commits an Offence and is liable on conviction for the same punishment as imposed for the Principal Offender.</text>
+    </section>
+    <section>
+      <heading>Connivance</heading>
+      <num>98</num>
+      <text>A Person who connives with one or more Persons for the purpose of contravening any of the Provisions of this Law, commits an Offence and is liable on Conviction to a Fine equivalent to 400 per cent of the sum in question and Imprisonment for a Term of One (1) Year.</text>
+    </section>
+    <section>
+      <heading>Prohibition against mounting of Roadblocks</heading>
+      <num>99</num>
+      <para>
+        <num>(1)</num>
+        <text>No Person, MDA or LGC shall mount a Roadblock in any part of the State for the purpose of collecting any Revenue due to it.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Notwithstanding the provisions of <cite path="§99|(1)">sub-section (1) of this Section</cite>, all Control Posts for Agricultural Products established under this Law shall not be considered as a Road Block.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Any Person who mounts a Road Block or causes a Road Block to be mounted for the purpose of collecting any Tax or Levy under this Law is in contravention of <cite path="§99|(1)">sub-section (1) of this Section</cite> and is guilty of an Offence and shall be liable on Conviction to a Fine of ₦200,000.00 (Two Hundred Thousand Naira) or Imprisonment for Three (3) years or both.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Discharge of Dangerous and sub-standard Goods in the State</heading>
+      <num>100</num>
+      <text>Any Person or Company who causes the discharge of Dangerous or Sub-standard Goods in the State is guilty of an Offence and shall be liable on Conviction to a Fine of ₦500,000.00 (Five Hundred Thousand Naira) or Imprisonment for Three (3) years or both.</text>
+    </section>
+    <section>
+      <heading>Failure to comply with Obligations under this Law</heading>
+      <num>101</num>
+      <para>
+        <num>(1)</num>
+        <text>A Person who does not:</text>
+      </para>
+      <para>
+        <num>(a)</num>
+        <text>provide reasonable facilities and assistance as required under Section 51 of the Revenue Code;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>comply with a Notice served on the Person under Sections 21 and 40 of the Revenue Code;</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>get a Tax Clearance Certificate prior to performing an act specified in Section 53(5) of the Revenue Code; or</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>comply with Sections 15,16 or 64 of the Revenue Code:</text>
+        <text>Commits an Offence and shall be liable on Conviction to a Fine not exceeding ₦200,000.00 (Two Hundred Thousand Naira).</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A Person who notifies the Service in writing under Section 40 (4) of the Revenue Code is considered to be in compliance with any Notice served on the Person under Section 40 (1) of the Revenue Code until the Service serves the Person with a Notice under Section 40 (5) of the Revenue Code amending the Notice served under Section 40 (1) of the Revenue Code or rejecting the Person's Notice Section 40 (4) of the Revenue Code.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Penalty for General Offences</heading>
+      <num>102</num>
+      <para>
+        <num>(1)</num>
+        <text>A Person who contravenes any of the Provisions of this Law or any Regulation made thereunder commits an Offence and, where no specific Penalty is provided shall be liable on conviction to a Fine of not less than ₦50,000.00 (Fifty Thousand Naira) but not exceeding ₦10,000,000.00 (Ten Million Naira) or Imprisonment for a Term of not less than Six (6) Months but not exceeding Three (3) Years or to both such Fine and Imprisonment.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Where an Offence under this Law is committed by a Body Corporate or Firm or other Incorporated Trustees or other similar Association of Individuals, then every;</text>
+        <para>
+          <num>(a)</num>
+          <text>Director, Manager, Secretary or other similar Officer of the Body Corporate;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Partner of the Firm;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Trustee and Person concerned in the management of the registered Trustee; or</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Person purporting to act in any management capacity in such Body Corporate or Firm or Incorporated Trustee or similar Association of Individuals; shall be guilty of an Offence and shall be liable to be proceeded against and punished for the Offence under <cite path="§102|(1)">sub-section (1) of this Section</cite> in like manner as if the Person had committed the Offence, unless the Person proves that the act or omission constituting the Offence took place without his knowledge, consent or connivance.</text>
+        </para>
+      </para>
+    </section>
+  </container>
+  <container>
+    <prefix>PART</prefix>
+    <num>VI</num>
+    <heading>LEGAL PROCEEDINGS</heading>
+    <section>
+      <heading>Jurisdiction</heading>
+      <num>103</num>
+      <para>
+        <num>(1)</num>
+        <text>Jurisdiction arising from the provisions of this Law and other Revenue related matters is conferred on the Revenue Court in the State.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The hearing of matters arising from the provisions of this Law and other Revenue related matters shall be given accelerated hearing with a view to their expeditious determination.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Chief Judge of the State may where necessary designate certain High Courts within the State as special Revenue Courts to expeditiously determine matters arising from the provisions of this Law and other related Revenue matters.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Immunity of the Officers of the Service</heading>
+      <num>104</num>
+      <text>A Member of the Governing Board, Officer of the Service or of any other authority in the State shall not be liable in any Civil Action or Proceedings for any act or omission done by such Member or Officer in good faith in the performance of the  duties or exercise of the Powers conferred upon the Member or Officer under this Law or any other Law.</text>
+    </section>
+    <section>
+      <heading>Legal Representation</heading>
+      <num>105</num>
+      <text>The Legal Adviser and any of the Legal Officers of the Service shall appear for and represent the Service in their professional capacity in any Proceeding in which the Service is a Party.</text>
+    </section>
+    <section>
+      <heading>Effect of institution of Proceedings</heading>
+      <num>106</num>
+      <text>The institution of Proceedings for or the imposition of a Penalty, Fine or Term of Imprisonment under this Law shall not relieve any Person from Liability to payment of any Tax for which the Person is or may become liable or chargeable.</text>
+    </section>
+    <section>
+      <heading>Limitation of Action</heading>
+      <num>107</num>
+      <text>Subject to the provisions of this Law, the provisions of the Public Officers Protection Act shall apply in relation to any Suit instituted against any Member, Officer or Employee of the Service or Member of the Governing Board for anything done under the lawful authority of this Law.</text>
+    </section>
+    <section>
+      <heading>Pre-Action Notice</heading>
+      <num>108</num>
+      <text>No Suit shall be commenced against the Service, until one Month at least, after written Intention to Commence the same has been served on the Service, by the intending Plaintiff or the Agent and such Notice shall clearly and explicitly state the Cause of Action, the Particulars of the Claim, the Name and Address of abode of the intending Plaintiff and the Relief which is claimed.</text>
+    </section>
+    <section>
+      <heading>Service of Documents</heading>
+      <num>109</num>
+      <text>A Notice, Summons or other Documents required or authorized to be served on the Service under the provisions of this Law or any other Law may be served by delivering it to the Office of the Executive Chairman.</text>
+    </section>
+    <section>
+      <heading>Restriction on execution against Property of the State</heading>
+      <num>110</num>
+      <para>
+        <num>(1)</num>
+        <text>Without prejudice to the provisions of the Sheriff and Civil Process Act, in any Action or Suit against the Service, no Execution or Attachment Process in the nature thereof shall be issued against the Service unless not less than Three (3) Months' Notice of the Intention to Execute or Attach has been given to the Service.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Any sum of Money which by the Judgment of any Court has been awarded against the Service shall be, subject to any Direction given by the Court where no Notice of Appeal against the Judgment has been given, be paid from the funds of the Service.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Indemnity</heading>
+      <num>111</num>
+      <text>A Member of the Governing Board, the Executive Chairman or any Officer of the Service shall be indemnified out of the Assets of the Service against any Liability incurred by such Officer in defending any Proceeding, whether Civil or Criminal, if the Proceeding is brought against the Officer in the Officer's capacity as the Executive Chairman or Member of the Governing Board or Officer or other Employee of the Service.</text>
+    </section>
+    <section>
+      <heading>Application of Statute of Limitation</heading>
+      <num>112</num>
+      <text>Notwithstanding the provisions of any other State Law to the contrary, no Statute of Limitation shall apply to any matter brought before the Revenue Court in respect of Revenue matters.</text>
+    </section>
+  </container>
+  <container>
+    <prefix>PART</prefix>
+    <num>VII</num>
+    <heading>MISCELLANEOUS</heading>
+    <section>
+      <heading>Conformity with Tax Laws</heading>
+      <num>113</num>
+      <text>Notwithstanding the provisions of this Law, the	relevant provisions of all Laws to be administered by the Service shall be read with such modifications as to bring them into conformity with the provisions of the Personal Income Tax Act, Capital Gains Tax Act, Stamp Duties Act and other relevant Acts of the National Assembly.</text>
+    </section>
+    <section>
+      <heading>Compliance with Governor's Directives</heading>
+      <num>114</num>
+      <para>
+        <num>(1)</num>
+        <text>The Governor may issue Directives of general or specific nature to the Governing Board or the Service as may be deemed necessary for the proper implementation of this Law and the Governing Board or Service, as the case may be, shall comply therewith, provided the Governors Directives do not conflict with any of the provisions of this Law.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Governor shall not give any Directive, Order or Instruction in respect of any particular Person which would have the effect of requiring the Governing Board to increase or decrease any Assessment of Tax made or to be made or any relief given or to be given or to defer the Collection of any Tax or Judgment Debt due, or which would have the effect of initiating, forbidding the initiation of, withdrawing or altering the normal course of any proceeding whether Civil or Criminal relating either to the Recovery of any Tax or to any Offence under this Law or any other Tax Legislation.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>In any Proceeding, whether Civil or Criminal under this Law or any Law administered by the Service; any act, matter or thing done by the Service or the Governing Board in pursuance of the said Laws shall not be subject to challenge on the ground that such act, matter or thing was or was not proved to be in accordance with any Directive given by the Governor.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Tax Waiver</heading>
+      <num>115</num>
+      <para>
+        <num>(1)</num>
+        <text>Except where a Tax Waiver:</text>
+        <para>
+          <num>(a)</num>
+          <text>offers Economic benefit to the State, no Taxable item of Revenue imposed by any Law applicable in the State shall be waived.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>cannot be effectively recovered by the Service due to the conditions specified in Section 48 of the Revenue Code, no Taxable item of Revenue imposed by any Law applicable in the State shall be waived.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Tax Waiver specified in sub-section (1)(a) above, shall be subject to the approval of the State House of Assembly upon Application by the Service made through the Revenue Council.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Power to Review the Compendium of Revenue</heading>
+      <num>116</num>
+      <para>
+        <num>(1)</num>
+        <text>The Revenue Council shall, subject to the prior approval of the House of Assembly, review the Revenue Compendium and may receive advice or, inputs from Ministries, Departments, Agencies and Local Government Councils in the State in that regard.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Rates of Court Fees and Fines shall, however, be reviewed in accordance with the provisions of the relevant Court Rules of Plateau State.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Power to make Regulations</heading>
+      <num>117</num>
+      <para>
+        <num>(1)</num>
+        <text>The Revenue Council  established under <cite path="§32">Section 32 of this Law</cite>, shall make Regulations for carrying into effect the provisions of this Law and for the due Administration of its provisions and may in particular, make Regulations:</text>
+        <para>
+          <num>(a)</num>
+          <text>prescribing Fees under this Law;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>prescribing the Forms for Returns and other information required under this Law or any other Law;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>prescribing the Procedure for obtaining any information required under this Law or any other Law;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>on the general procedure for Assessment, Issuance of Demand Notice, Collection and Remittance of any Tax or Levy in the State and other incidental matters; and</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>for carrying into effect the provisions of this Law.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Without prejudice to the general effect of <cite path="§117|(1)">sub-section (1) of this Section</cite>, Regulations made under sub-section (1) may:</text>
+        <para>
+          <num>(a)</num>
+          <text>contain provisions of a Saving or Transitional nature subsequent to the coming into force of this Law; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>prescribe in respect of  a contravention of the Regulations:</text>
+          <para>
+            <num>(i)</num>
+            <text>a Penalty not exceeding a Fine of ₦100,000.00 (One Hundred Thousand) Naira or Imprisonment not exceeding one year or both;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>in the case of a second or subsequent Offence, a Penalty not exceeding a Fine of ₦200,000.00 (Two Hundred Thousand) Naira or Imprisonment not exceeding Two years or both;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>in the case of  a continuing Offence, an additional Fine not exceeding ₦10,000.00 (Ten Thousand) Naira in respect of each day on which the Offence continues; and</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>a requirement that the court must forfeit to the Service anything with which the offence was committed.</text>
+          </para>
+        </para>
+      </para>
+    </section>
+    <section>
+      <heading>Power to amend Schedules</heading>
+      <num>118</num>
+      <text>The Revenue Council Shall subject to the approval of the Governor:</text>
+      <para>
+        <num>(1)</num>
+        <text>and upon confirmation by the House of Assembly, amend the Second Schedule to this Law and publish the amendment in the Gazette.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>amend the Third, Fourth, Fifth, Sixth and Seventh Schedules to this Law and publish the amendment in the Gazette.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Official Secrecy and Confidentiality</heading>
+      <num>119</num>
+      <para>
+        <num>(1)</num>
+        <text>Every Person having any Official Duty or being employed in the Administration of this Law shall regard and deal with all Documents, Information, Returns, Assessment List and Copies of such List relating to the Income, Profits or Items of Profits, Tax Matters, Assessments and Liabilities of any Individual or Company, as secret and treat them with the utmost confidentiality and good faith.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Every Person having possession of or control over any Document, Information, Returns of Assessment, Lists or Copies of such relating to the Tax Matters, Assessments and Liabilities, Income and Profits or Losses of any Person who at any time communicates or attempts to communicate such information or anything contained in such Documents, Returns, Lists or Copies to any other Person:</text>
+      </para>
+      <para>
+        <num>(a)</num>
+        <text>other than a Person to whom the Person is authorized by the Executive Chairman to communicate it; or</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>otherwise than for the purpose of this Law or of any other Enactment, commits an Offence under this Law.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>No Person appointed or employed under this Law shall be required to produce any Return, Document or Assessment, or to divulge or communicate any information that comes into the Person's possession in the performance of the Person's duties except as may be necessary in order to institute a Prosecution, or in the course of a Prosecution for any Offence committed, in relation to any Tax in Nigeria.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Where under any Law in force in respect of any double Taxation Treaty with any Country, provision is made for the allowance of relief from Income Tax in respect of the payment of Income Tax in Nigeria, the obligation as to secrecy imposed by <cite path="§119">this Section</cite> shall not prevent the disclosure to the authorized Officers of the Government of that Country of such facts as may be necessary to enable the proper relief to be given in cases where such is claimed from Tax in Nigeria or from Income Tax in that Country.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Where an Agreement or Arrangement with any other Country with respect to relief for double Taxation of Income or Profits includes provisions for the exchange of information or avoidance of Tax, the obligation as to secrecy imposed by <cite path="§119">this Section</cite> shall not prevent the disclosure of such information to the authorized Officers of the Government of such Country.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Procurement by the Service</heading>
+      <num>120</num>
+      <para>
+        <num>(1)</num>
+        <text>In the exercise of its powers under this Law in the procurement of Services or Properties whether moveable or immovable, the Service shall ensure that the process of Procurement complies with the provisions of the Bureau for Public Procurement Law operating in the State.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>All Contracts emanating from <cite path="§120|(1)">sub-section (1) of this Section</cite> shall be subject to payment of the Drafting and Vetting Fees prescribed in the Second Schedule to this Law, in compliance with the Drafting and Vetting Fees Law operating in the State.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Delegation of Powers</heading>
+      <num>121</num>
+      <para>
+        <num>(1)</num>
+        <text>Any power conferred or duty imposed upon by the Governing Board or Service may be exercised or either performed by the Governing Board or Service or by an Officer authorized generally or specifically in that behalf by the Governing Board or the Service.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Notwithstanding the provisions of <cite path="§121|(1)">sub-section (1) of this Section</cite>, the Governing Board or the Service may, at any time and at its discretion, reverse or otherwise modify the decision of any Officer, affecting any Tax or Taxation Income, which is inconsistent with the provisions of this Law and the reversal or modification of the decision by the Governing Board or the Service shall have effect as if it were the original decision made in respect of the matter concerned.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Any recommendation made or given by any approved Committee of the Governing Board or the Service shall be subject to ratification by the Governing Board or Service as the case may be</text>
+      </para>
+    </section>
+    <section>
+      <heading>Signature of the Chairman</heading>
+      <num>122</num>
+      <text>Anything done or required to be done by the Service or the Governing Board in pursuance of any of its powers or duties under this Law or any other Law may be signed under the hand of the Executive Chairman or an Officer who has been authorized by the Service or the Governing Board to do so.</text>
+    </section>
+    <section>
+      <heading>Imposition of Surcharge</heading>
+      <num>123</num>
+      <para>
+        <num>(1)</num>
+        <text>If any Officer or former Officer of the Service:</text>
+        <para>
+          <num>(a)</num>
+          <text>is or was responsible for any improper payment of money from the funds of the Service or for any payment of such money which is not duly documented;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>is or was responsible for any deficiency in, or for the destruction of any Money, Security, Store or other Property of the Service;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>fails or has failed to keep proper Accounts or Records;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>fails to make any payment, or is responsible for any delay in the payment of money of the Service to any Person to whom such payment is due under any Contract, Agreement or Arrangement entered into between that Person and the Service; or</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>without a satisfactory explanation given to the Service within a period specified by the Service, with regard to the failure to collect, improper payment not duly documented, deficiency or destruction, or failure to keep proper Accounts of Records, or failure to make payment or delay in making payment: the Service may surcharge the said Officer such sum as it deems fit.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Any action taken under <cite path="§123|(1)">sub-section (1) of this Section</cite> shall be subject to the approval of the Governing Board and when such approval is obtained, the Executive Chairman shall notify the Person surcharged under <cite path="§123">this Section</cite>.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Governing Board may at any time withdraw any Surcharge in respect of which a satisfactory explanation has been received from the Person concerned or if it otherwise appears that no Surcharge should have been made.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The amount of any Surcharge imposed under <cite path="§123|(1)">sub-section (1) of this Section</cite> and not withdrawn under <cite path="§123|(3)">sub-section (3) of this Section</cite> shall be a Debt due to the Service from the Person against whom the Surcharge is imposed and may be recovered in any Court by a Suit initiated by the Service for its Recovery and may also be recovered by deduction from the Salary or other Emoluments of the Person surcharged if the Governing Board so directs.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Life Insurance Policy for Staff of the Service</heading>
+      <num>124</num>
+      <para>
+        <num>(1)</num>
+        <text>The Service shall maintain a Life Insurance Policy in favor of the Staff of the Service for a minimum of Three (3) times the annual total emolument of the Employee.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Service shall fully bear all costs in relation to procurement of the Life Insurance Policy, and this shall be in addition to, and separate from, the contributions to be made by the Service to each Employee's Retirement Savings Account, as required by the Pension Act.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Life Insurance Policy shall be effected through the purchase of a Life Policy issued by a Nigerian registered Insurance Company licensed and authorized to conduct Life Insurance Business by National Insurance Commission under the Insurance Act 2003.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The Policy shall provide cover to the Staff of the Service against Death.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Savings and Transfer of Assets, Obligations, Liabilities, etc</heading>
+      <num>125</num>
+      <para>
+        <num>(1)</num>
+        <text>All movable and immovable Assets or other Property, Transfers, Rights, Liabilities or Obligations of the former Plateau State Internal Revenue Service which were, by virtue of the Plateau State Revenue (Consolidation) Law, 2017 vested in the Government of the State shall without further assurance, be vested in the Service.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A Prosecution commenced before the commencement of this Law shall continue and be disposed of as if this Law had not come into force.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Where the period for making any Application, Appeal or Prosecution has expired before the commencement of this Law, nothing in this Law is to be construed as enabling the Application, Appeal, or Prosecution to be made under this Law by reason only of the fact that a longer period is specified in this Law.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A Tax Liability that arose before the commencement of this Law may be recovered under this Law, but without prejudice to any action already taken for the recovery of the Tax.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>All Forms and Documents used under the Tax Laws specified in First Schedule to this Law may continue to be used until they are revoked under this Law and all references in those Forms and Documents to the Tax Laws under that Schedule are taken to refer to the corresponding provisions in this Law.</text>
+      </para>
+    </section>
+    <section>
+      <heading>Repeal</heading>
+      <num>126</num>
+      <para>
+        <num>(1)</num>
+        <text>The Plateau State Revenue (Consolidation) Law 2017 is repealed.</text>
+      </para>
+    </section>
+  </container>
+</document>
