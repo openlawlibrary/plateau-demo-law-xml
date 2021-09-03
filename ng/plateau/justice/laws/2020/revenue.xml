@@ -7281,27 +7281,27 @@
               </tr>
               <tr>
                 <td>2. AMBULATORY CLINIC</td>
-                <td colspan="2">10,000.00</td>
+                <td>10,000.00</td>
               </tr>
               <tr>
                 <td>3. VETINARY CLINICS</td>
-                <td colspan="2">20,000.00</td>
+                <td>20,000.00</td>
               </tr>
               <tr>
                 <td>4. ABBATOIR</td>
-                <td colspan="2">30,000.00</td>
+                <td>30,000.00</td>
               </tr>
               <tr>
                 <td>5. SLAUGHTER HOUSES</td>
-                <td colspan="2">20,000.00</td>
+                <td>20,000.00</td>
               </tr>
               <tr>
                 <td>6. SLAUGHTER LAB</td>
-                <td colspan="2">10,000.00</td>
+                <td>10,000.00</td>
               </tr>
               <tr>
                 <td>7. IN-HOUSE TRAINING</td>
-                <td colspan="2">20-30,000.00</td>
+                <td>20-30,000.00</td>
               </tr>
               <tr>
                 <td rowspan="3">7</td>
@@ -7311,11 +7311,11 @@
               </tr>
               <tr>
                 <td>Pigs</td>
-                <td colspan="2">300.00/head</td>
+                <td>300.00/head</td>
               </tr>
               <tr>
                 <td>Sheep</td>
-                <td colspan="2">300.00/head</td>
+                <td>300.00/head</td>
               </tr>
               <tr>
                 <td rowspan="3">8</td>
@@ -7325,11 +7325,11 @@
               </tr>
               <tr>
                 <td>Less Than 500 Birds Capacity</td>
-                <td colspan="2">2,000.00</td>
+                <td>2,000.00</td>
               </tr>
               <tr>
                 <td>Between 500-1000</td>
-                <td colspan="2">5,000.00</td>
+                <td>5,000.00</td>
               </tr>
               <tr>
                 <th colspan="5">DEPARTMENT OF AGRIC SERVICES</th>
@@ -7351,194 +7351,194 @@
             </thead>
             <tbody>
               <tr>
-                <td colspan="2" rowspan="2">1</td>
-                <th>AGRIC INFORMATION</th>
+                <td colspan="2" rowspan="3">1</td>
+                <th rowspan="3">AGRIC INFORMATION</th>
                 <td colspan="2">A. Cost Of Hiring Video</td>
                 <td colspan="2">15,000.00</td>
                 <td proof="needed" colspan="2"/>
               </tr>
               <tr>
                 <td colspan="2">B. Cost Of Hiring Public Address System/Day</td>
-                <td>30,000.00</td>
+                <td colspan="2">30,000.00</td>
                 <td proof="needed" colspan="2"/>
               </tr>
               <tr>
                 <td colspan="2">C. Coverage Of Activities Through Video/Still Picture</td>
-                <td>30,000.00</td>
+                <td colspan="2">30,000.00</td>
                 <td proof="needed" colspan="2"/>
               </tr>
               <tr>
-                <td colspan="2">2</td>
-                <th>CROP PRODUCTION</th>
+                <td colspan="2" rowspan="2">2</td>
+                <th rowspan="2">CROP PRODUCTION</th>
                 <td colspan="2">A. Land Rent Charges/Hoc/Year For Ministries Staff</td>
                 <td colspan="2">5,000.00</td>
                 <td proof="needed" colspan="2"/>
               </tr>
               <tr>
                 <td colspan="2">B. Land Rent Charges/H0c/Year Of Year For Public</td>
-                <td>5,000.00</td>
+                <td colspan="2">5,000.00</td>
                 <td proof="needed" colspan="2"/>
               </tr>
               <tr>
-                <td colspan="2">3</td>
-                <th>HORTICULTURE</th>
+                <td colspan="2" rowspan="5">3</td>
+                <th rowspan="6">HORTICULTURE</th>
                 <td colspan="2">A. Sales Of Citrus Seedlings</td>
                 <td colspan="2">150.00</td>
                 <td colspan="2">150</td>
               </tr>
               <tr>
                 <td colspan="2">i. Sales Of Mango</td>
-                <td>250.00</td>
+                <td colspan="2">250.00</td>
                 <td colspan="2">250</td>
               </tr>
               <tr>
                 <td colspan="2">ii. Sales Of Cashew Seedlings</td>
-                <td>150.00</td>
-                <td colspan="2">70</td>
-              </tr>
-              <tr>
-                <td colspan="2">iii. Sales Guava Seedlings</td>
-                <td>150.00</td>
-                <td colspan="2">70</td>
-              </tr>
-              <tr>
-                <td colspan="2">iv. Sales Of Coconut Seedlings</td>
-                <td>250.00</td>
-                <td colspan="2">300</td>
-              </tr>
-              <tr>
-                <td proof="needed" colspan="2"/>
-                <td>v. Sales Of Other Seedlings</td>
                 <td colspan="2">150.00</td>
                 <td colspan="2">70</td>
               </tr>
               <tr>
-                <td proof="needed" colspan="2"/>
-                <td>vi Sales of Oil Palm</td>
+                <td colspan="2">iii. Sales Guava Seedlings</td>
+                <td colspan="2">150.00</td>
+                <td colspan="2">70</td>
+              </tr>
+              <tr>
+                <td colspan="2">iv. Sales Of Coconut Seedlings</td>
+                <td colspan="2">250.00</td>
+                <td colspan="2">300</td>
+              </tr>
+              <tr>
+                <td proof="needed" colspan="2" rowspan="3"/>
+                <td colspan="2">v. Sales Of Other Seedlings</td>
+                <td colspan="2">150.00</td>
+                <td colspan="2">70</td>
+              </tr>
+              <tr>
+                <td proof="needed" rowspan="2"/>
+                <td colspan="2">vi Sales of Oil Palm</td>
                 <td colspan="2">300.00</td>
                 <td proof="needed" colspan="2"/>
               </tr>
               <tr>
                 <td colspan="2">Membership OfAgro-Chemical Dealers</td>
-                <td>1,500.00</td>
+                <td colspan="2">1,500.00</td>
                 <td proof="needed" colspan="2"/>
               </tr>
               <tr>
-                <td colspan="2">4</td>
-                <th>PRODUCE</th>
+                <td colspan="2" rowspan="24">4</td>
+                <th rowspan="24">PRODUCE</th>
                 <th colspan="6">A. 	GRAINS/OTHERS</th>
               </tr>
               <tr>
                 <td colspan="2">Grains/bags</td>
-                <td>100/bag</td>
+                <td colspan="2">100/bag</td>
                 <td colspan="2">20/bag</td>
               </tr>
               <tr>
                 <td colspan="2">Legume/bags</td>
-                <td>150/bag</td>
+                <td colspan="2">150/bag</td>
                 <td colspan="2">40/bag</td>
               </tr>
               <tr>
                 <td colspan="2">Nuts/Oil Seeds/bag</td>
-                <td>100/bag</td>
+                <td colspan="2">100/bag</td>
                 <td colspan="2">50/bag</td>
               </tr>
               <tr>
                 <td colspan="2">Fruits/bags</td>
-                <td>50</td>
+                <td colspan="2">50</td>
                 <td colspan="2">70/bag</td>
               </tr>
               <tr>
-                <th colspan="2">B. 	TUBER</th>
-                <td proof="needed"/>
+                <th colspan="4">B. 	TUBER</th>
+                <td proof="needed" colspan="2"/>
               </tr>
               <tr>
                 <td colspan="2">Yam/10tubers</td>
-                <td>150/bag</td>
+                <td colspan="2">150/bag</td>
                 <td colspan="2">50</td>
               </tr>
               <tr>
                 <td colspan="2">Irish Potatoes</td>
-                <td>50/bag</td>
+                <td colspan="2">50/bag</td>
                 <td colspan="2">30</td>
               </tr>
               <tr>
                 <td colspan="2">Fertilizer</td>
-                <td>50/bag</td>
+                <td colspan="2">50/bag</td>
                 <td proof="needed" colspan="2"/>
               </tr>
               <tr>
                 <td colspan="2">Irish Potatoes/big bag</td>
-                <td>150/bag</td>
+                <td colspan="2">150/bag</td>
                 <td colspan="2">10</td>
               </tr>
               <tr>
                 <td colspan="2">Irish Potatoes/basket</td>
-                <td>50/basket</td>
+                <td colspan="2">50/basket</td>
                 <td colspan="2">20</td>
               </tr>
               <tr>
                 <td colspan="2">Irish Potatoes pick up</td>
-                <td>1000</td>
+                <td colspan="2">1000</td>
                 <td colspan="2">180</td>
               </tr>
               <tr>
                 <td colspan="2">Irish Potatoes Lorry</td>
-                <td>5000</td>
+                <td colspan="2">5000</td>
                 <td colspan="2">200</td>
               </tr>
               <tr>
-                <th colspan="2">C. 	VEGETABLES</th>
-                <td proof="needed"/>
+                <th colspan="4">C. 	VEGETABLES</th>
+                <td proof="needed" colspan="2"/>
               </tr>
               <tr>
                 <td colspan="2">vegetables/small basket</td>
-                <td>50/basket</td>
+                <td colspan="2">50/basket</td>
                 <td colspan="2">10</td>
               </tr>
               <tr>
                 <td colspan="2">vegetables/big basket</td>
-                <td>100/basket</td>
+                <td colspan="2">100/basket</td>
                 <td colspan="2">20</td>
               </tr>
               <tr>
                 <td colspan="2">vegetable/pick up</td>
-                <td>500</td>
+                <td colspan="2">500</td>
                 <td colspan="2">500</td>
               </tr>
               <tr>
                 <td colspan="2">vegetable/Lorry</td>
-                <td>1500</td>
+                <td colspan="2">1500</td>
                 <td colspan="2">1500</td>
               </tr>
               <tr>
                 <th colspan="2">D. 	OIL</th>
-                <td proof="needed"/>
+                <td proof="needed" colspan="2"/>
                 <td proof="needed" colspan="2"/>
               </tr>
               <tr>
                 <td colspan="2">Oil Galloon</td>
-                <td>100</td>
+                <td colspan="2">100</td>
                 <td colspan="2">40</td>
               </tr>
               <tr>
                 <td colspan="2">Oil Tin</td>
-                <td>200</td>
+                <td colspan="2">200</td>
                 <td colspan="2">100</td>
               </tr>
               <tr>
                 <td colspan="2">Oil Drum</td>
-                <td>1000</td>
+                <td colspan="2">1000</td>
                 <td colspan="2">1000</td>
               </tr>
               <tr>
                 <th colspan="2">E. 	FLOUR</th>
-                <td proof="needed"/>
+                <td proof="needed" colspan="2"/>
                 <td proof="needed" colspan="2"/>
               </tr>
               <tr>
                 <td colspan="2">Cassava Flour/ Chips Medium Bag</td>
-                <td>150</td>
+                <td colspan="2">150</td>
                 <td colspan="2">20</td>
               </tr>
               <tr>
@@ -7612,8 +7612,8 @@
                 <td colspan="3">1000</td>
               </tr>
               <tr>
-                <td colspan="2">2</td>
-                <th proof="needed">
+                <td colspan="2" rowspan="10">2</td>
+                <th proof="needed" rowspan="10">
                   <p>Agric. Training Schools</p>
                   <p>i. GidanAdamu</p>
                   <p>ii. Num</p>
@@ -7624,47 +7624,47 @@
               </tr>
               <tr>
                 <td colspan="2">School Fees</td>
-                <td>3,000.00</td>
-                <td proof="needed" colspan="2"/>
+                <td colspan="2">3,000.00</td>
+                <td proof="needed" colspan="3"/>
               </tr>
               <tr>
-                <th colspan="2">Sale of Farm Produce</th>
-                <td proof="needed"/>
+                <th colspan="4">Sale of Farm Produce</th>
+                <td proof="needed" colspan="3"/>
               </tr>
               <tr>
                 <td colspan="2">i. Maize/Bag</td>
-                <td>100.00</td>
-                <td proof="needed" colspan="2"/>
+                <td colspan="2">100.00</td>
+                <td proof="needed" colspan="3"/>
               </tr>
               <tr>
                 <td colspan="2">ii. Millet/Bag</td>
-                <td>100.00</td>
-                <td proof="needed" colspan="2"/>
+                <td colspan="2">100.00</td>
+                <td proof="needed" colspan="3"/>
               </tr>
               <tr>
                 <td colspan="2">iii. Citrus Seedlings</td>
-                <td>100.00</td>
-                <td proof="needed" colspan="2"/>
+                <td colspan="2">100.00</td>
+                <td proof="needed" colspan="3"/>
               </tr>
               <tr>
                 <td colspan="2">iv. Coconut Seedlings</td>
-                <td>250.00</td>
-                <td proof="needed" colspan="2"/>
+                <td colspan="2">250.00</td>
+                <td proof="needed" colspan="3"/>
               </tr>
               <tr>
                 <td colspan="2">v. Cashew Seedlings</td>
-                <td>150.00</td>
-                <td proof="needed" colspan="2"/>
+                <td colspan="2">150.00</td>
+                <td proof="needed" colspan="3"/>
               </tr>
               <tr>
                 <td colspan="2">vi. Oil Palm Seedlings</td>
-                <td>300.00</td>
-                <td proof="needed" colspan="2"/>
+                <td colspan="2">300.00</td>
+                <td proof="needed" colspan="3"/>
               </tr>
               <tr>
                 <td colspan="2">vii. Other Seedlings</td>
-                <td>150.00</td>
-                <td proof="needed" colspan="2"/>
+                <td colspan="2">150.00</td>
+                <td proof="needed" colspan="3"/>
               </tr>
               <tr>
                 <td colspan="2">3</td>
@@ -7674,31 +7674,31 @@
                 <td colspan="3">1,000.00</td>
               </tr>
               <tr>
-                <td colspan="2">4</td>
-                <th>Crop Protection</th>
+                <td colspan="2" rowspan="6">4</td>
+                <th rowspan="6">Crop Protection</th>
                 <td colspan="2">A. Cost of Fumigation/Room</td>
                 <td colspan="2">1,500.00/appt.</td>
                 <td colspan="3">500.00/1500/appt</td>
               </tr>
               <tr>
                 <td colspan="2">B. Hiring or Sprayer/Knapsack/Day Office/Hostel</td>
-                <td>500.00/sprayer</td>
-                <td colspan="2">800.00/hac</td>
+                <td colspan="2">500.00/sprayer</td>
+                <td colspan="3">800.00/hac</td>
               </tr>
               <tr>
                 <td colspan="2">C. Spraying of One Hac. Land (Farms)</td>
-                <td>3,000.00</td>
-                <td colspan="2">300.00/sprayer</td>
+                <td colspan="2">3,000.00</td>
+                <td colspan="3">300.00/sprayer</td>
               </tr>
               <tr>
                 <td colspan="2">D. Repair of One Unit Sprayer</td>
-                <td>300.00</td>
-                <td proof="needed" colspan="2"/>
+                <td colspan="2">300.00</td>
+                <td proof="needed" colspan="3"/>
               </tr>
               <tr>
                 <td colspan="2">E. Permit to Agro-Chemical Shops/Yr</td>
-                <td>2,000.00</td>
-                <td proof="needed" colspan="2"/>
+                <td colspan="2">2,000.00</td>
+                <td proof="needed" colspan="3"/>
               </tr>
               <tr>
                 <td proof="needed" colspan="2">
@@ -7706,11 +7706,11 @@
                   <p>i. Retailers</p>
                   <p>ii. Wholesalers</p>
                 </td>
-                <td proof="needed">
+                <td proof="needed" colspan="2">
                   <p>2,000.00</p>
                   <p>5,000.00</p>
                 </td>
-                <td proof="needed" colspan="2"/>
+                <td proof="needed" colspan="3"/>
               </tr>
               <tr>
                 <th colspan="10">DEPARTMENT OF LIVESTOCK SERVICES</th>
@@ -7722,14 +7722,14 @@
                 <th colspan="3">RATES (₦)</th>
               </tr>
               <tr>
-                <td colspan="2">1</td>
-                <td>Feed Milling Activities</td>
+                <td colspan="2" rowspan="2">1</td>
+                <td rowspan="2">Feed Milling Activities</td>
                 <td colspan="4">1. Grading/Mixing</td>
                 <td colspan="3">1,000=/Ton</td>
               </tr>
               <tr>
-                <td colspan="2">2. Registration</td>
-                <td proof="needed"/>
+                <td colspan="4">2. Registration</td>
+                <td proof="needed" colspan="3"/>
               </tr>
               <tr>
                 <td colspan="2">2</td>
@@ -7738,18 +7738,18 @@
                 <td colspan="3">500.00/hac</td>
               </tr>
               <tr>
-                <td proof="needed" colspan="2"/>
-                <td>Hide &amp; skin</td>
+                <td proof="needed" colspan="2" rowspan="3"/>
+                <td rowspan="3">Hide &amp; skin</td>
                 <td colspan="4">Inspection Fees</td>
                 <td colspan="3">50.00</td>
               </tr>
               <tr>
-                <td colspan="2">Trade License</td>
-                <td>100.00</td>
+                <td colspan="4">Trade License</td>
+                <td colspan="3">100.00</td>
               </tr>
               <tr>
-                <td colspan="2">Penalties/Fines</td>
-                <td>10,000.00</td>
+                <td colspan="4">Penalties/Fines</td>
+                <td colspan="3">10,000.00</td>
               </tr>
               <tr>
                 <th colspan="10">DEPARTMENT OF AQAUCULTURE/FISHRIES SERVICES</th>
@@ -10559,31 +10559,31 @@
               </tr>
               <tr>
                 <td colspan="2" rowspan="2">4</td>
-                <td colspan="3">Shop</td>
+                <td colspan="3" rowspan="2">Shop</td>
                 <td colspan="4">Business District(BD)</td>
                 <td colspan="5">1,500.00/m2</td>
               </tr>
               <tr>
-                <td colspan="2">Other Areas</td>
-                <td colspan="3">1,000.00/m2</td>
+                <td colspan="4">Other Areas</td>
+                <td colspan="5">1,000.00/m2</td>
               </tr>
               <tr>
                 <td colspan="2" rowspan="4">5</td>
-                <td colspan="3">Hotel</td>
+                <td colspan="3" rowspan="4">Hotel</td>
                 <td colspan="4">1-15 Chalets(rooms)</td>
                 <td colspan="5">150,000.00</td>
               </tr>
               <tr>
-                <td colspan="2">16-25 Chalets</td>
-                <td colspan="3">250,000.00</td>
+                <td colspan="4">16-25 Chalets</td>
+                <td colspan="5">250,000.00</td>
               </tr>
               <tr>
-                <td colspan="2">26-50 Chalets</td>
-                <td colspan="3">300,000.00</td>
+                <td colspan="4">26-50 Chalets</td>
+                <td colspan="5">300,000.00</td>
               </tr>
               <tr>
-                <td colspan="2">Above 50 Chalets</td>
-                <td colspan="3">500,000.00</td>
+                <td colspan="4">Above 50 Chalets</td>
+                <td colspan="5">500,000.00</td>
               </tr>
               <tr>
                 <td colspan="2">6</td>
@@ -10816,17 +10816,17 @@
               </tr>
               <tr>
                 <td colspan="2" rowspan="3">7</td>
-                <td colspan="3">Base Station</td>
+                <td colspan="3" rowspan="3">Base Station</td>
                 <td colspan="4">Initial Fee</td>
                 <td colspan="5">200,000.00</td>
               </tr>
               <tr>
-                <td colspan="2">Renewal-complete payment (5 Year Lease)</td>
-                <td colspan="3">350,000.00</td>
+                <td colspan="4">Renewal-complete payment (5 Year Lease)</td>
+                <td colspan="5">350,000.00</td>
               </tr>
               <tr>
-                <td colspan="2">Renewal-complete payment (10 Year Lease)</td>
-                <td colspan="3">750,000.00</td>
+                <td colspan="4">Renewal-complete payment (10 Year Lease)</td>
+                <td colspan="5">750,000.00</td>
               </tr>
               <tr>
                 <td colspan="2">8</td>
@@ -10848,29 +10848,29 @@
               </tr>
               <tr>
                 <td colspan="2" rowspan="6">11</td>
-                <td colspan="3">Outdoor Advert Boards</td>
+                <td colspan="3" rowspan="6">Outdoor Advert Boards</td>
                 <td colspan="4">48 Sheet</td>
                 <td colspan="5">100,000.00</td>
               </tr>
               <tr>
-                <td colspan="2">Portrait</td>
-                <td colspan="3">250,000.00</td>
+                <td colspan="4">Portrait</td>
+                <td colspan="5">250,000.00</td>
               </tr>
               <tr>
-                <td colspan="2">Roof  Top</td>
-                <td colspan="3">300,000.00</td>
+                <td colspan="4">Roof  Top</td>
+                <td colspan="5">300,000.00</td>
               </tr>
               <tr>
-                <td colspan="2">Unit-Pole</td>
-                <td colspan="3">800,000.00</td>
+                <td colspan="4">Unit-Pole</td>
+                <td colspan="5">800,000.00</td>
               </tr>
               <tr>
-                <td colspan="2">Gantries</td>
-                <td colspan="3">800,000.00</td>
+                <td colspan="4">Gantries</td>
+                <td colspan="5">800,000.00</td>
               </tr>
               <tr>
-                <td colspan="2">Lamp Post</td>
-                <td colspan="3">10,000.00</td>
+                <td colspan="4">Lamp Post</td>
+                <td colspan="5">10,000.00</td>
               </tr>
               <tr>
                 <td colspan="2">12</td>
@@ -10914,7 +10914,7 @@
               </tr>
               <tr>
                 <td colspan="2" rowspan="2">6</td>
-                <td proof="needed" colspan="3">
+                <td proof="needed" colspan="3" rowspan="2">
                   <p>Tree cutting</p>
                   <p>(Greater Jos Area)</p>
                 </td>
@@ -10922,8 +10922,8 @@
                 <td colspan="5">15,000.00</td>
               </tr>
               <tr>
-                <td colspan="2">Large Size Tree</td>
-                <td colspan="3">20,000.00</td>
+                <td colspan="4">Large Size Tree</td>
+                <td colspan="5">20,000.00</td>
               </tr>
               <tr>
                 <td colspan="2">7</td>
@@ -10947,13 +10947,13 @@
               </tr>
               <tr>
                 <td colspan="2" rowspan="2">11</td>
-                <td colspan="3">Car Wash</td>
+                <td colspan="3" rowspan="2">Car Wash</td>
                 <td colspan="4">Registration</td>
                 <td colspan="5">20,000.00</td>
               </tr>
               <tr>
-                <td colspan="2">Renewal</td>
-                <td colspan="3">10,000.00</td>
+                <td colspan="4">Renewal</td>
+                <td colspan="5">10,000.00</td>
               </tr>
               <tr>
                 <td colspan="2">12</td>
@@ -10984,27 +10984,27 @@
               </tr>
               <tr>
                 <td colspan="2" rowspan="3">17</td>
-                <td colspan="3">Street Naming Fee</td>
+                <td colspan="3" rowspan="3">Street Naming Fee</td>
                 <td colspan="4">Category 1</td>
                 <td colspan="5">100,000.00</td>
               </tr>
               <tr>
-                <td colspan="2">Category 2</td>
-                <td colspan="3">150,000.00</td>
+                <td colspan="4">Category 2</td>
+                <td colspan="5">150,000.00</td>
               </tr>
               <tr>
-                <td colspan="2">Category 3</td>
-                <td colspan="3">250,000.00</td>
+                <td colspan="4">Category 3</td>
+                <td colspan="5">250,000.00</td>
               </tr>
               <tr>
                 <td colspan="2" rowspan="2">18</td>
-                <td colspan="3">House Number</td>
+                <td colspan="3" rowspan="2">House Number</td>
                 <td colspan="4">Type A</td>
                 <td colspan="5">5,000.00</td>
               </tr>
               <tr>
-                <td colspan="2">Type B</td>
-                <td colspan="3">10,000.00</td>
+                <td colspan="4">Type B</td>
+                <td colspan="5">10,000.00</td>
               </tr>
               <tr>
                 <th colspan="14">JMDB ENGINEERING DEPARTMENT</th>
@@ -11046,24 +11046,24 @@
                 <td proof="needed"/>
               </tr>
               <tr>
-                <td>Pail Loader</td>
+                <td colspan="2">Pail Loader</td>
                 <td colspan="5">80,000.00</td>
-                <td proof="needed" colspan="2"/>
+                <td proof="needed"/>
               </tr>
               <tr>
-                <td>Low Bed</td>
+                <td colspan="2">Low Bed</td>
                 <td colspan="5">100,000.00</td>
-                <td proof="needed" colspan="2"/>
+                <td proof="needed"/>
               </tr>
               <tr>
-                <td>Excavator</td>
+                <td colspan="2">Excavator</td>
                 <td colspan="5">30,000.00</td>
-                <td proof="needed" colspan="2"/>
+                <td proof="needed"/>
               </tr>
               <tr>
-                <td>Styer</td>
+                <td colspan="2">Styer</td>
                 <td colspan="5">30,000.00/m</td>
-                <td proof="needed" colspan="2"/>
+                <td proof="needed"/>
               </tr>
               <tr>
                 <td rowspan="2">4</td>
@@ -11073,9 +11073,9 @@
                 <td proof="needed"/>
               </tr>
               <tr>
-                <td>No Parking Sign</td>
+                <td colspan="2">No Parking Sign</td>
                 <td colspan="5">5000.00/one</td>
-                <td proof="needed" colspan="2"/>
+                <td proof="needed"/>
               </tr>
               <tr>
                 <td>5</td>
@@ -11350,16 +11350,16 @@
                 <td colspan="2">30,000.00</td>
               </tr>
               <tr>
-                <td>Primary</td>
-                <td colspan="5">30,000.00</td>
+                <td colspan="6">Primary</td>
+                <td colspan="2">30,000.00</td>
               </tr>
               <tr>
-                <td>Secondary</td>
-                <td colspan="5">50,000.00</td>
+                <td colspan="6">Secondary</td>
+                <td colspan="2">50,000.00</td>
               </tr>
               <tr>
-                <td>Tertiary</td>
-                <td colspan="5">90,000.00</td>
+                <td colspan="6">Tertiary</td>
+                <td colspan="2">90,000.00</td>
               </tr>
               <tr>
                 <td>7</td>
@@ -11378,8 +11378,8 @@
                 <td colspan="2">20,000.00</td>
               </tr>
               <tr>
-                <td>Renewal</td>
-                <td colspan="5">10,000.00</td>
+                <td colspan="6">Renewal</td>
+                <td colspan="2">10,000.00</td>
               </tr>
               <tr>
                 <td rowspan="2">10</td>
@@ -11388,8 +11388,8 @@
                 <td colspan="2">5,000.00</td>
               </tr>
               <tr>
-                <td>Renewal</td>
-                <td colspan="5">2,500.00</td>
+                <td colspan="6">Renewal</td>
+                <td colspan="2">2,500.00</td>
               </tr>
               <tr>
                 <td rowspan="3">11</td>
@@ -11398,12 +11398,12 @@
                 <td colspan="2">5,000.00</td>
               </tr>
               <tr>
-                <td>Category B</td>
-                <td colspan="5">2,000.00</td>
+                <td colspan="6">Category B</td>
+                <td colspan="2">2,000.00</td>
               </tr>
               <tr>
-                <td>Category C</td>
-                <td colspan="5">1,000.00</td>
+                <td colspan="6">Category C</td>
+                <td colspan="2">1,000.00</td>
               </tr>
               <tr>
                 <td>12</td>
@@ -16643,8 +16643,8 @@
               </tr>
               <tr>
                 <td>HND</td>
-                <td>18,500.00</td>
-                <td colspan="2">33,000.00</td>
+                <td colspan="2">18,500.00</td>
+                <td>33,000.00</td>
               </tr>
               <tr>
                 <td rowspan="3">SECOND</td>
@@ -16654,13 +16654,13 @@
               </tr>
               <tr>
                 <td>ND</td>
-                <td>7,500.00</td>
                 <td colspan="2">7,500.00</td>
+                <td>7,500.00</td>
               </tr>
               <tr>
                 <td>HND</td>
-                <td>10,500.00</td>
                 <td colspan="2">10,500.00</td>
+                <td>10,500.00</td>
               </tr>
             </tbody>
           </table>
@@ -22229,7 +22229,7 @@
         </para>
         <para>
           <num>(11)</num>
-          <text>Where   the Executive Chairman    reviews   the Taxpayer's   Records under   <cite path="§34|(10)">sub-section (10) of this Section</cite>,   the   Executive Chairman   shall   within   the time specified  in sub-section  (7) of <cite path="§34">this Section</cite> notify  the Taxpayer  of the Review.</text>
+          <text>Where   the Executive Chairman    reviews   the Taxpayer's   Records under   <cite path="§34|(10)">sub-section (10) of this Section</cite>,   the   Executive Chairman   shall   within   the time specified  in sub-section  (7) of <cite path="§34">this Section</cite> notify  the Taxpayz7er  of the Review.</text>
         </para>
       </section>
       <section>
@@ -22627,9 +22627,8 @@
           </para>
           <para>
             <num>(c)</num>
-            <text>shall be withheld or deducted prior to any other deductions  that the Person may be required to make</text>
+            <text>shall be withheld or deducted prior to any other deductions  that the Person may be required to make from the payment or amount under an Order of any Court or any other Law.</text>
           </para>
-          <aftertext proof="needed">from the payment or amount under an Order of any Court or any other Law.</aftertext>
         </para>
         <para>
           <num>(3)</num>
