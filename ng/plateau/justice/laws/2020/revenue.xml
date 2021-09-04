@@ -1449,7 +1449,7 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>The Rates and Fees due to each Local Government is consolidated in accordance with the categorization in <cite path="§39|(2)" proof="needed">sub-section (2) of this Section</cite> and are provided for in the Second Schedule of this Law.</text>
+        <text>The Rates and Fees due to each Local Government is consolidated in accordance with the categorization in <cite path="§39|(2)">sub-section (2) of this Section</cite> and are provided for in the Second Schedule of this Law.</text>
       </para>
     </section>
     <section>
@@ -2890,57 +2890,57 @@
       <text>
         <strong>Personal Income Tax</strong>
       </text>
-    </para>
-    <para>
-      <num>(a)</num>
-      <text>
-        <strong>Direct Assessment (Self-Employed)</strong>
-      </text>
-      <text>Payable annually on Chargeable Income (Total Income less Allowable Deductions) at the rates listed in the Sixth Schedule, Personal Income Tax Act CAP P8 LFN 2004.</text>
-      <text>
-        <table>
-          <caption/>
-          <thead>
-            <tr>
-              <th>Income to be taxed</th>
-              <th>Rate of tax %</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td>First ₦300,000.00</td>
-              <td>7</td>
-            </tr>
-            <tr>
-              <td>Next ₦300,000.00</td>
-              <td>11</td>
-            </tr>
-            <tr>
-              <td>Next ₦500,000.00</td>
-              <td>15</td>
-            </tr>
-            <tr>
-              <td>Next ₦500,000.00</td>
-              <td>19</td>
-            </tr>
-            <tr>
-              <td>Next ₦1,600,00.00</td>
-              <td>21</td>
-            </tr>
-            <tr>
-              <td>Above ₦3,200,000.00</td>
-              <td>24</td>
-            </tr>
-          </tbody>
-        </table>
-      </text>
-    </para>
-    <para>
-      <num>(b)</num>
-      <text>
-        <strong>PAYE (Pay-As-You-Earn)</strong>
-      </text>
-      <text>Payable by Employers in respect of deductions from Emoluments paid to Employees at rates specified by the Service that are designed to ensure that the aggregate amount of such deductions during a year equates with the annual amount payable using the rates specified in (a) above - Section 81 of the Personal Income Tax (Amendment) Act 2011 and the Operation of the Pay As You Earn (PAYE) Scheme Regulations refer.</text>
+      <para>
+        <num>(a)</num>
+        <text>
+          <strong>Direct Assessment (Self-Employed)</strong>
+        </text>
+        <text>Payable annually on Chargeable Income (Total Income less Allowable Deductions) at the rates listed in the Sixth Schedule, Personal Income Tax Act CAP P8 LFN 2004.</text>
+        <text>
+          <table>
+            <caption/>
+            <thead>
+              <tr>
+                <th>Income to be taxed</th>
+                <th>Rate of tax %</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>First ₦300,000.00</td>
+                <td>7</td>
+              </tr>
+              <tr>
+                <td>Next ₦300,000.00</td>
+                <td>11</td>
+              </tr>
+              <tr>
+                <td>Next ₦500,000.00</td>
+                <td>15</td>
+              </tr>
+              <tr>
+                <td>Next ₦500,000.00</td>
+                <td>19</td>
+              </tr>
+              <tr>
+                <td>Next ₦1,600,00.00</td>
+                <td>21</td>
+              </tr>
+              <tr>
+                <td>Above ₦3,200,000.00</td>
+                <td>24</td>
+              </tr>
+            </tbody>
+          </table>
+        </text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>
+          <strong>PAYE (Pay-As-You-Earn)</strong>
+        </text>
+      </para>
+      <aftertext proof="needed">Payable by Employers in respect of deductions from Emoluments paid to Employees at rates specified by the Service that are designed to ensure that the aggregate amount of such deductions during a year equates with the annual amount payable using the rates specified in (a) above - Section 81 of the Personal Income Tax (Amendment) Act 2011 and the Operation of the Pay As You Earn (PAYE) Scheme Regulations refer.</aftertext>
     </para>
     <para>
       <num>(2)</num>
@@ -3066,956 +3066,956 @@
       <text>
         <strong>Road Taxes – assessable by the Service in conjunction with appropriate Agencies</strong>
       </text>
-    </para>
-    <para>
-      <num>(a)</num>
-      <text>
-        <strong>Road Worthiness Certificate Fee</strong>
-      </text>
       <para>
-        <num>i.</num>
-        <text>Road Worthiness Certificate Fee is payable by all Vehicle owners operating in the State.</text>
+        <num>(a)</num>
+        <text>
+          <strong>Road Worthiness Certificate Fee</strong>
+        </text>
+        <para>
+          <num>i.</num>
+          <text>Road Worthiness Certificate Fee is payable by all Vehicle owners operating in the State.</text>
+        </para>
+        <para>
+          <num>ii.</num>
+          <text>The Fee chargeable by the Service for Road Worthiness Certificate shall be ranging from N400-N3,750 annually for Private Vehicles, depending on the type of the Vehicle as specified by the Service.</text>
+        </para>
       </para>
       <para>
-        <num>ii.</num>
-        <text>The Fee chargeable by the Service for Road Worthiness Certificate shall be ranging from N400-N3,750 annually for Private Vehicles, depending on the type of the Vehicle as specified by the Service.</text>
+        <num>(b)</num>
+        <text>
+          <strong>Private Vehicles Registration</strong>
+        </text>
+        <text>
+          <table>
+            <caption/>
+            <tbody>
+              <tr>
+                <th>Category</th>
+                <th>Capacity of Vehicle</th>
+                <th proof="needed">
+                  <p>Cost of Plate</p>
+                  <p>Number</p>
+                  <p>(₦)</p>
+                </th>
+                <td proof="needed">
+                  <p><strong>Vehicle Registratio</strong>n</p>
+                  <p>
+                    <strong>(₦)</strong>
+                  </p>
+                </td>
+                <th proof="needed">
+                  <p>Vehicle</p>
+                  <p>License</p>
+                  <p>(₦)</p>
+                </th>
+                <th proof="needed">
+                  <p>Cost of Regt.</p>
+                  <p>Book</p>
+                  <p>(₦)</p>
+                </th>
+                <th proof="needed">
+                  <p>Amount</p>
+                  <p>(₦)</p>
+                </th>
+              </tr>
+              <tr>
+                <td>A</td>
+                <td>Tipper/Truck above 10 Tyres</td>
+                <td>12,500.00</td>
+                <td>6,250.00</td>
+                <td>6,250.00</td>
+                <td>1,250.00</td>
+                <td>26,250.00</td>
+              </tr>
+              <tr>
+                <td>B</td>
+                <td>Tipper/Truck above 10 Tyres</td>
+                <td>12,500.00</td>
+                <td>6,250.00</td>
+                <td>3,720.00</td>
+                <td>1,250.00</td>
+                <td>25,750.00</td>
+              </tr>
+              <tr>
+                <td>C</td>
+                <td>Above 3.00cc</td>
+                <td>12,500.00</td>
+                <td>6,250.00</td>
+                <td>3,125.00</td>
+                <td>1,250.00</td>
+                <td>23,125.00</td>
+              </tr>
+              <tr>
+                <td>D</td>
+                <td>Between2.1 3.00cc</td>
+                <td>12,500.00</td>
+                <td>6,250.00</td>
+                <td>2,500.00</td>
+                <td>1,250.00</td>
+                <td>22,500.00</td>
+              </tr>
+              <tr>
+                <td>E</td>
+                <td proof="needed">
+                  <p>Vehicle up to</p>
+                  <p>1.6cc-2.00cc</p>
+                </td>
+                <td>12,500.00</td>
+                <td>3,125.00</td>
+                <td>1,875.00</td>
+                <td>1,250.00</td>
+                <td>18,750.00</td>
+              </tr>
+              <tr>
+                <td>F</td>
+                <td proof="needed">
+                  <p>Other Vehicle</p>
+                  <p>1.0cc-1.5cc</p>
+                </td>
+                <td>12,500.00</td>
+                <td>3,125.00</td>
+                <td>1,250.00</td>
+                <td>1,250.00</td>
+                <td>18,125.00</td>
+              </tr>
+            </tbody>
+          </table>
+        </text>
       </para>
-    </para>
-    <para>
-      <num>(b)</num>
-      <text>
-        <strong>Private Vehicles Registration</strong>
-      </text>
-      <text>
-        <table>
-          <caption/>
-          <tbody>
-            <tr>
-              <th>Category</th>
-              <th>Capacity of Vehicle</th>
-              <th proof="needed">
-                <p>Cost of Plate</p>
-                <p>Number</p>
-                <p>(₦)</p>
-              </th>
-              <td proof="needed">
-                <p><strong>Vehicle Registratio</strong>n</p>
-                <p>
-                  <strong>(₦)</strong>
-                </p>
-              </td>
-              <th proof="needed">
-                <p>Vehicle</p>
-                <p>License</p>
-                <p>(₦)</p>
-              </th>
-              <th proof="needed">
-                <p>Cost of Regt.</p>
-                <p>Book</p>
-                <p>(₦)</p>
-              </th>
-              <th proof="needed">
-                <p>Amount</p>
-                <p>(₦)</p>
-              </th>
-            </tr>
-            <tr>
-              <td>A</td>
-              <td>Tipper/Truck above 10 Tyres</td>
-              <td>12,500.00</td>
-              <td>6,250.00</td>
-              <td>6,250.00</td>
-              <td>1,250.00</td>
-              <td>26,250.00</td>
-            </tr>
-            <tr>
-              <td>B</td>
-              <td>Tipper/Truck above 10 Tyres</td>
-              <td>12,500.00</td>
-              <td>6,250.00</td>
-              <td>3,720.00</td>
-              <td>1,250.00</td>
-              <td>25,750.00</td>
-            </tr>
-            <tr>
-              <td>C</td>
-              <td>Above 3.00cc</td>
-              <td>12,500.00</td>
-              <td>6,250.00</td>
-              <td>3,125.00</td>
-              <td>1,250.00</td>
-              <td>23,125.00</td>
-            </tr>
-            <tr>
-              <td>D</td>
-              <td>Between2.1 3.00cc</td>
-              <td>12,500.00</td>
-              <td>6,250.00</td>
-              <td>2,500.00</td>
-              <td>1,250.00</td>
-              <td>22,500.00</td>
-            </tr>
-            <tr>
-              <td>E</td>
-              <td proof="needed">
-                <p>Vehicle up to</p>
-                <p>1.6cc-2.00cc</p>
-              </td>
-              <td>12,500.00</td>
-              <td>3,125.00</td>
-              <td>1,875.00</td>
-              <td>1,250.00</td>
-              <td>18,750.00</td>
-            </tr>
-            <tr>
-              <td>F</td>
-              <td proof="needed">
-                <p>Other Vehicle</p>
-                <p>1.0cc-1.5cc</p>
-              </td>
-              <td>12,500.00</td>
-              <td>3,125.00</td>
-              <td>1,250.00</td>
-              <td>1,250.00</td>
-              <td>18,125.00</td>
-            </tr>
-          </tbody>
-        </table>
-      </text>
-    </para>
-    <para>
-      <num>(c)</num>
-      <text>
-        <strong>Out-Of-Series Number Plates</strong>
-      </text>
-      <text>
-        <table>
-          <caption/>
-          <tbody>
-            <tr>
-              <th>Category</th>
-              <th>Capacity of Vehicle</th>
-              <th proof="needed">
-                <p>Cost of Plate</p>
-                <p>Number</p>
-                <p>(₦)</p>
-              </th>
-              <th proof="needed">
-                <p>Vehicle Registration</p>
-                <p>(₦)</p>
-              </th>
-              <th proof="needed">
-                <p>Vehicle License</p>
-                <p>(₦)</p>
-              </th>
-              <td proof="needed">
-                <p>
-                  <strong>Cost of Regt.</strong>
-                </p>
-                <p>
-                  <strong>Book</strong>
-                </p>
-                <p><strong>(</strong>₦<strong>)</strong></p>
-              </td>
-              <th proof="needed">
-                <p>Amount</p>
-                <p>(₦)</p>
-              </th>
-            </tr>
-            <tr>
-              <td>A</td>
-              <td>3.00cc</td>
-              <td>40,000.00</td>
-              <td>6,250.00</td>
-              <td>3,125.00</td>
-              <td>1,250.00</td>
-              <td>50,625.00</td>
-            </tr>
-            <tr>
-              <td>B</td>
-              <td>2.00cc</td>
-              <td>40,000.00</td>
-              <td>6,250.00</td>
-              <td>1,875.00</td>
-              <td>1,250.00</td>
-              <td>49,365.00</td>
-            </tr>
-            <tr>
-              <td>C</td>
-              <td>1.6cc</td>
-              <td>40,000.00</td>
-              <td>3,125.00</td>
-              <td>1,250.00</td>
-              <td>1,250.00</td>
-              <td>45,625.00</td>
-            </tr>
-          </tbody>
-        </table>
-      </text>
-    </para>
-    <para>
-      <num>(d)</num>
-      <text>
-        <strong>Fancy Number Plate</strong>
-      </text>
-      <text>
-        <table>
-          <caption/>
-          <thead>
-            <tr>
-              <th>Category</th>
-              <th>Capacity of Vehicle</th>
-              <th proof="needed">
-                <p>Cost of Plate Number</p>
-                <p>(<s>N</s>)</p>
-              </th>
-              <th>Vehicle Registration (N)</th>
-              <th>Vehicle License (N)</th>
-              <th proof="needed">
-                <p>Cost of Regt.</p>
-                <p>Book</p>
-                <p>(N)</p>
-                <p>(N)</p>
-              </th>
-              <th proof="needed">
-                <p>Amount</p>
-                <p>(N)</p>
-              </th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td>A</td>
-              <td>Above 3.00cc</td>
-              <td>80,000.00</td>
-              <td>6,250.00</td>
-              <td>3,125.00</td>
-              <td>1,250.00</td>
-              <td>90,625.00</td>
-            </tr>
-            <tr>
-              <td>B</td>
-              <td>Between 2.1 3.00cc</td>
-              <td>80,000.00</td>
-              <td>6,250.00</td>
-              <td>2,500.00</td>
-              <td>1,250.00</td>
-              <td>90,000.00</td>
-            </tr>
-            <tr>
-              <td>C</td>
-              <td>Vehicle up to 1.7cc 2.00cc</td>
-              <td>80,000.00</td>
-              <td>3,125.00</td>
-              <td>1,875.00</td>
-              <td>1,250.00</td>
-              <td>86,250.00</td>
-            </tr>
-            <tr>
-              <td>D</td>
-              <td>Other Vehicle1.2cc 1.6cc</td>
-              <td>80,000.00</td>
-              <td>3,125.00</td>
-              <td>1,250.00</td>
-              <td>1,250.00</td>
-              <td>85,625.00</td>
-            </tr>
-          </tbody>
-        </table>
-      </text>
-    </para>
-    <para>
-      <num>(e)</num>
-      <text>
-        <strong>Revalidation of Old Number Plates (Private Vehicle)</strong>
-      </text>
-      <text>
-        <table>
-          <caption/>
-          <thead>
-            <tr>
-              <th>Category</th>
-              <th>Capacity of Vehicle</th>
-              <th proof="needed">
-                <p>Cost of Plate</p>
-                <p>Number</p>
-                <p>(₦)</p>
-              </th>
-              <th proof="needed">
-                <p>Vehicle</p>
-                <p>License</p>
-                <p>(₦)</p>
-              </th>
-              <th proof="needed">
-                <p>Cost of Regt.</p>
-                <p>Book</p>
-                <p>(₦)</p>
-              </th>
-              <th proof="needed">
-                <p>Amount</p>
-                <p>(₦)</p>
-              </th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td>A</td>
-              <td>Above .00cc</td>
-              <td>12,500.00</td>
-              <td>3,125.00</td>
-              <td>1,250.00</td>
-              <td>17,875.00</td>
-            </tr>
-            <tr>
-              <td>B</td>
-              <td>Between2.1 3.00cc</td>
-              <td>12,500.00</td>
-              <td>2,500.00</td>
-              <td>1,250.00</td>
-              <td>16,250.00</td>
-            </tr>
-            <tr>
-              <td>C</td>
-              <td>Vehicle up to 1.7cc 2.00cc</td>
-              <td>12,500.00</td>
-              <td>1,875.00</td>
-              <td>1,250.00</td>
-              <td>15,625.00</td>
-            </tr>
-            <tr>
-              <td>D</td>
-              <td>Other Vehicle 1.2cc 1.6cc</td>
-              <td>12,500.00</td>
-              <td>1,250.00</td>
-              <td>1,250.00</td>
-              <td>15,000.00</td>
-            </tr>
-          </tbody>
-        </table>
-      </text>
-    </para>
-    <para>
-      <num>(f)</num>
-      <text>
-        <strong>Revalidation of Old Number Plates (Commercial Vehicle)</strong>
-      </text>
-      <text>
-        <table>
-          <caption/>
-          <thead>
-            <tr>
-              <th>Category</th>
-              <th>Capacity of Range</th>
-              <th proof="needed">
-                <p>Cost of Plate Number</p>
-                <p>(₦)</p>
-              </th>
-              <th>Vehicle License (₦)</th>
-              <th proof="needed">
-                <p>Cost of Regt.</p>
-                <p>Book</p>
-                <p>(₦)</p>
-              </th>
-              <th proof="needed">
-                <p>Amount</p>
-                <p>(₦)</p>
-              </th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td>A</td>
-              <td>Trailer</td>
-              <td>12,500</td>
-              <td>8,750.00</td>
-              <td>1,250.00</td>
-              <td>22,500.00</td>
-            </tr>
-            <tr>
-              <td>B</td>
-              <td>Tanker and Truck</td>
-              <td>12,500</td>
-              <td>6,250.00</td>
-              <td>1,250.00</td>
-              <td>20,000.00</td>
-            </tr>
-            <tr>
-              <td>C</td>
-              <td>Tipper and Lorry</td>
-              <td>12,500</td>
-              <td>3,750.00</td>
-              <td>1,250.00</td>
-              <td>17,500.00</td>
-            </tr>
-            <tr>
-              <td>D</td>
-              <td>Canter</td>
-              <td>12,500</td>
-              <td>3,125.00</td>
-              <td>1,250.00</td>
-              <td>16,875.00</td>
-            </tr>
-            <tr>
-              <td>E</td>
-              <td>Bus</td>
-              <td>12,500</td>
-              <td>3,125.00</td>
-              <td>1,250.00</td>
-              <td>16,875.00</td>
-            </tr>
-            <tr>
-              <td>F</td>
-              <td>Pick Up</td>
-              <td>12,500</td>
-              <td>3,125.00</td>
-              <td>1,250.00</td>
-              <td>16,875.00</td>
-            </tr>
-            <tr>
-              <td>G</td>
-              <td>Taxi (Painted)</td>
-              <td>12,500</td>
-              <td>1,250.00</td>
-              <td>1,250.00</td>
-              <td>15,000.00</td>
-            </tr>
-            <tr>
-              <td>H</td>
-              <td>Taxi (Unpainted))</td>
-              <td>12,500</td>
-              <td>1,250.00</td>
-              <td>1,250.00</td>
-              <td>15,000.00</td>
-            </tr>
-          </tbody>
-        </table>
-      </text>
-    </para>
-    <para>
-      <num>(g)</num>
-      <text>
-        <strong>Commercial Vehicle Number Plates Revalidation</strong>
-      </text>
-      <text>
-        <table>
-          <caption/>
-          <thead>
-            <tr>
-              <th>Category</th>
-              <th>Capacity of Range</th>
-              <th proof="needed">
-                <p>Cost of Plate</p>
-                <p>Number (₦)</p>
-              </th>
-              <th>Vehicle License (₦)</th>
-              <th proof="needed">
-                <p>Cost of Regt.</p>
-                <p>Book (₦)</p>
-              </th>
-              <th>Cost of     Sticker (₦)</th>
-              <th proof="needed">
-                <p>Amount</p>
-                <p>(₦)</p>
-              </th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td>A</td>
-              <td>Trailer</td>
-              <td>10,000.00</td>
-              <td>8,750.00</td>
-              <td>1,250.00</td>
-              <td>1,500.00</td>
-              <td>21,500.00</td>
-            </tr>
-            <tr>
-              <td>B</td>
-              <td>Tanker and Truck</td>
-              <td>10,000.00</td>
-              <td>6,250.00</td>
-              <td>1,250.00</td>
-              <td>1,500.00</td>
-              <td>19,000.00</td>
-            </tr>
-            <tr>
-              <td>C</td>
-              <td>Tipper and Lorry</td>
-              <td>10,000.00</td>
-              <td>3,750.00</td>
-              <td>1,250.00</td>
-              <td>1,000.00</td>
-              <td>16,000.00</td>
-            </tr>
-            <tr>
-              <td>D</td>
-              <td>Canter, Bu s&amp; Pick Up</td>
-              <td>10,000.00</td>
-              <td>3,125.00</td>
-              <td>1,250.00</td>
-              <td>1,000.00</td>
-              <td>15,375.00</td>
-            </tr>
-            <tr>
-              <td>E</td>
-              <td>Taxi</td>
-              <td>10,000.00</td>
-              <td>1,250.00</td>
-              <td>1,250.00</td>
-              <td>500.00</td>
-              <td>13,000.00</td>
-            </tr>
-          </tbody>
-        </table>
-      </text>
-    </para>
-    <para>
-      <num>(h)</num>
-      <text>
-        <strong>Government Fancy Number Plates</strong>
-      </text>
-      <text>
-        <table>
-          <caption/>
-          <tbody>
-            <tr>
-              <td>
-                <strong>Category</strong>
-              </td>
-              <th proof="needed">
-                <p>Cost of Plate Number</p>
-                <p>(₦)</p>
-              </th>
-              <th proof="needed">
-                <p>New</p>
-                <p>Registration fee</p>
-                <p>(₦)</p>
-              </th>
-              <td proof="needed">
-                <p>
-                  <strong>Vehicle License</strong>
-                </p>
-                <p><strong>(</strong>₦<strong>)</strong></p>
-              </td>
-              <td proof="needed">
-                <p>
-                  <strong>Cost of Regt.</strong>
-                </p>
-                <p><strong>Book (</strong>₦<strong>)</strong></p>
-              </td>
-              <td proof="needed">
-                <p>
-                  <strong>Amount</strong>
-                </p>
-                <p>
-                  <strong>(₦)</strong>
-                </p>
-              </td>
-            </tr>
-            <tr>
-              <td>Bus</td>
-              <td>40,000.00</td>
-              <td>6,250.00</td>
-              <td>NIL</td>
-              <td>1,250.00</td>
-              <td>48,750.00</td>
-            </tr>
-            <tr>
-              <td>Car A</td>
-              <td>40,000.00</td>
-              <td>6,250.00</td>
-              <td>NIL</td>
-              <td>1,250.00</td>
-              <td>47,500.00</td>
-            </tr>
-            <tr>
-              <td>Car B</td>
-              <td>40,000.00</td>
-              <td>3,125.00</td>
-              <td>NIL</td>
-              <td>1,250.00</td>
-              <td>44,375.00</td>
-            </tr>
-          </tbody>
-        </table>
-      </text>
-    </para>
-    <para>
-      <num>(i)</num>
-      <text>
-        <strong>Government/Official Number Plates</strong>
-      </text>
-      <text>
-        <table>
-          <caption/>
-          <tbody>
-            <tr>
-              <td>
-                <strong>Category</strong>
-              </td>
-              <th proof="needed">
-                <p>Cost of Plate Number</p>
-                <p>(₦)</p>
-              </th>
-              <th proof="needed">
-                <p>New</p>
-                <p>Registration fee</p>
-                <p>(₦)</p>
-              </th>
-              <td proof="needed">
-                <p>
-                  <strong>Vehicle License</strong>
-                </p>
-                <p><strong>(</strong>₦<strong>)</strong></p>
-              </td>
-              <td proof="needed">
-                <p>
-                  <strong>Cost of Regt.</strong>
-                </p>
-                <p><strong>Book (</strong>₦<strong>)</strong></p>
-              </td>
-              <td proof="needed">
-                <p>
-                  <strong>Amount</strong>
-                </p>
-                <p>
-                  <strong>(₦)</strong>
-                </p>
-              </td>
-            </tr>
-            <tr>
-              <td>A</td>
-              <td>15,000.00</td>
-              <td>6,250.00</td>
-              <td>NIL</td>
-              <td>1,250.00</td>
-              <td>22,500.00</td>
-            </tr>
-            <tr>
-              <td>B</td>
-              <td>5,000.00</td>
-              <td>3,125.00</td>
-              <td>NIL</td>
-              <td>1,250.00</td>
-              <td>19,375.00</td>
-            </tr>
-            <tr>
-              <td>Bus</td>
-              <td>15,000.00</td>
-              <td>6,250.00</td>
-              <td>NIL</td>
-              <td>1,250.00</td>
-              <td>22,500.00</td>
-            </tr>
-            <tr>
-              <td>Motorcycle</td>
-              <td>3,000.00</td>
-              <td>1,250</td>
-              <td>NIL</td>
-              <td>1,250.00</td>
-              <td>5,500.00</td>
-            </tr>
-          </tbody>
-        </table>
-      </text>
-    </para>
-    <para>
-      <num>(j)</num>
-      <text>
-        <strong>Motor Cycle</strong>
-      </text>
-      <text>
-        <table>
-          <caption/>
-          <tbody>
-            <tr>
-              <td>
-                <strong>Category</strong>
-              </td>
-              <td proof="needed">
-                <p>
-                  <strong>Cost of</strong>
-                </p>
-                <p>
-                  <strong>Plate</strong>
-                </p>
-                <p>
-                  <strong>Number</strong>
-                </p>
-                <p>
-                  <strong>(N)</strong>
-                </p>
-              </td>
-              <td proof="needed">
-                <p>
-                  <strong>New</strong>
-                </p>
-                <p>
-                  <strong>Registration</strong>
-                </p>
-                <p>
-                  <strong>fee</strong>
-                </p>
-                <p>
-                  <strong>(N)</strong>
-                </p>
-              </td>
-              <td proof="needed">
-                <p>
-                  <strong>Vehicle</strong>
-                </p>
-                <p>
-                  <strong>License</strong>
-                </p>
-                <p>
-                  <strong>(₦)</strong>
-                </p>
-              </td>
-              <td proof="needed">
-                <p>
-                  <strong>Cost of</strong>
-                </p>
-                <p>
-                  <strong>Regt. Book</strong>
-                </p>
-                <p>
-                  <strong>(₦)</strong>
-                </p>
-              </td>
-              <td proof="needed">
-                <p>
-                  <strong>Sticker</strong>
-                </p>
-                <p>
-                  <strong>(₦)</strong>
-                </p>
-              </td>
-              <td proof="needed">
-                <p>
-                  <strong>Learner's</strong>
-                </p>
-                <p>
-                  <strong>Permit</strong>
-                </p>
-                <p>
-                  <strong>(₦)</strong>
-                </p>
-              </td>
-              <td proof="needed">
-                <p>
-                  <strong>Reflective</strong>
-                </p>
-                <p>
-                  <strong>Jacket</strong>
-                </p>
-                <p>
-                  <strong>(₦)</strong>
-                </p>
-              </td>
-              <td proof="needed">
-                <p>
-                  <strong>Amount</strong>
-                </p>
-                <p>
-                  <strong>(₦)</strong>
-                </p>
-              </td>
-            </tr>
-            <tr>
-              <td>Private</td>
-              <td>2,500.00</td>
-              <td>1,250.00</td>
-              <td>625.00</td>
-              <td>1,250.00</td>
-              <td>-</td>
-              <td>500.00</td>
-              <td>Nil</td>
-              <td>6,125.00</td>
-            </tr>
-            <tr>
-              <td>Commercial</td>
-              <td>2,500.00</td>
-              <td>1,250.00</td>
-              <td>1,250.00</td>
-              <td>1,250.00</td>
-              <td>750.00</td>
-              <td>500.00</td>
-              <td>750.00</td>
-              <td>8,250.00</td>
-            </tr>
-          </tbody>
-        </table>
-      </text>
-    </para>
-    <para>
-      <num>(k)</num>
-      <text>
-        <strong>Motor Dealers Number Plates</strong>
-      </text>
-      <text>
-        <table>
-          <caption/>
-          <tbody>
-            <tr>
-              <td proof="needed">
-                <p>
-                  <strong>Cost of Plate</strong>
-                </p>
-                <p>
-                  <strong>Number</strong>
-                </p>
-                <p><strong>(</strong>₦<strong>)</strong></p>
-              </td>
-              <td proof="needed">
-                <p>
-                  <strong>Registration</strong>
-                </p>
-                <p><strong>(</strong>₦<strong>)</strong></p>
-              </td>
-              <th proof="needed">
-                <p>Dealership Certificate</p>
-                <p>(₦)</p>
-              </th>
-              <td proof="needed">
-                <p>
-                  <strong>Cost of Regt.</strong>
-                </p>
-                <p>
-                  <strong>Book</strong>
-                </p>
-                <p><strong>(</strong>₦<strong>)</strong></p>
-              </td>
-              <td proof="needed">
-                <p>
-                  <strong>Amount</strong>
-                </p>
-                <p>
-                  <strong>(₦)</strong>
-                </p>
-              </td>
-            </tr>
-            <tr>
-              <td>30,000.00</td>
-              <td>5,000.00</td>
-              <td>12,500.00</td>
-              <td>NIL</td>
-              <td>47,500.00</td>
-            </tr>
-          </tbody>
-        </table>
-      </text>
-    </para>
-    <para>
-      <num>(l)</num>
-      <text>
-        <strong>Replacement of Missing Number Plates</strong>
-      </text>
-      <text>
-        <table>
-          <caption/>
-          <tbody>
-            <tr>
-              <th>Category</th>
-              <th>Type</th>
-              <td proof="needed">
-                <p>
-                  <strong>Cost of Replacement of Plate</strong>
-                </p>
-                <p>
-                  <strong>Number (N)</strong>
-                </p>
-              </td>
-            </tr>
-            <tr>
-              <td>A</td>
-              <td>Fancy</td>
-              <td>80,000.00</td>
-            </tr>
-            <tr>
-              <td>B</td>
-              <td>Out-of-Series</td>
-              <td>40,000.00</td>
-            </tr>
-            <tr>
-              <td>C</td>
-              <td>Private</td>
-              <td>12,500.00</td>
-            </tr>
-            <tr>
-              <td>D</td>
-              <td>Commercial</td>
-              <td>12,500.00</td>
-            </tr>
-            <tr>
-              <td>E</td>
-              <td>Motorcycle/Tricycle</td>
-              <td>2,500.00</td>
-            </tr>
-          </tbody>
-        </table>
-      </text>
-    </para>
-    <para>
-      <num>(m)</num>
-      <text>
-        <strong>Change of Ownership</strong>
-      </text>
-      <text>
-        <table>
-          <caption/>
-          <tbody>
-            <tr>
-              <td>
-                <strong>Type of Vehicle</strong>
-              </td>
-              <td><strong>Amount (</strong>₦<strong>)</strong></td>
-            </tr>
-            <tr>
-              <td>Motor Vehicle</td>
-              <td>2,500.00</td>
-            </tr>
-            <tr>
-              <td>Motorcycle/Tricycles</td>
-              <td>625.00</td>
-            </tr>
-          </tbody>
-        </table>
-      </text>
-    </para>
-    <para>
-      <num>(n)</num>
-      <text>
-        <strong>Driver's License</strong>
-      </text>
-      <text>
-        <table>
-          <caption/>
-          <tbody>
-            <tr>
-              <th>Classification</th>
-              <th>Duration</th>
-              <td><strong>Amount (</strong>₦<strong>)</strong></td>
-            </tr>
-            <tr>
-              <td>Motor Vehicle</td>
-              <td proof="needed">
-                <p>3 years</p>
-                <p>5 years</p>
-              </td>
-              <td proof="needed">
-                <p>6,350.00</p>
-                <p>10,450.00</p>
-              </td>
-            </tr>
-            <tr>
-              <td>Motorcycle</td>
-              <td>3 years</td>
-              <td>3,350.00</td>
-            </tr>
-          </tbody>
-        </table>
-      </text>
-      <text><strong>NOTE:</strong> The rates for the above Road Taxes are contained in the Federal Laws and Regulations and if those Federal Laws and Regulations are amended, the authority for the Service to collect such Revenues under this Law shall also be similarly amended.</text>
+      <para>
+        <num>(c)</num>
+        <text>
+          <strong>Out-Of-Series Number Plates</strong>
+        </text>
+        <text>
+          <table>
+            <caption/>
+            <tbody>
+              <tr>
+                <th>Category</th>
+                <th>Capacity of Vehicle</th>
+                <th proof="needed">
+                  <p>Cost of Plate</p>
+                  <p>Number</p>
+                  <p>(₦)</p>
+                </th>
+                <th proof="needed">
+                  <p>Vehicle Registration</p>
+                  <p>(₦)</p>
+                </th>
+                <th proof="needed">
+                  <p>Vehicle License</p>
+                  <p>(₦)</p>
+                </th>
+                <td proof="needed">
+                  <p>
+                    <strong>Cost of Regt.</strong>
+                  </p>
+                  <p>
+                    <strong>Book</strong>
+                  </p>
+                  <p><strong>(</strong>₦<strong>)</strong></p>
+                </td>
+                <th proof="needed">
+                  <p>Amount</p>
+                  <p>(₦)</p>
+                </th>
+              </tr>
+              <tr>
+                <td>A</td>
+                <td>3.00cc</td>
+                <td>40,000.00</td>
+                <td>6,250.00</td>
+                <td>3,125.00</td>
+                <td>1,250.00</td>
+                <td>50,625.00</td>
+              </tr>
+              <tr>
+                <td>B</td>
+                <td>2.00cc</td>
+                <td>40,000.00</td>
+                <td>6,250.00</td>
+                <td>1,875.00</td>
+                <td>1,250.00</td>
+                <td>49,365.00</td>
+              </tr>
+              <tr>
+                <td>C</td>
+                <td>1.6cc</td>
+                <td>40,000.00</td>
+                <td>3,125.00</td>
+                <td>1,250.00</td>
+                <td>1,250.00</td>
+                <td>45,625.00</td>
+              </tr>
+            </tbody>
+          </table>
+        </text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>
+          <strong>Fancy Number Plate</strong>
+        </text>
+        <text>
+          <table>
+            <caption/>
+            <thead>
+              <tr>
+                <th>Category</th>
+                <th>Capacity of Vehicle</th>
+                <th proof="needed">
+                  <p>Cost of Plate Number</p>
+                  <p>(<s>N</s>)</p>
+                </th>
+                <th>Vehicle Registration (N)</th>
+                <th>Vehicle License (N)</th>
+                <th proof="needed">
+                  <p>Cost of Regt.</p>
+                  <p>Book</p>
+                  <p>(N)</p>
+                  <p>(N)</p>
+                </th>
+                <th proof="needed">
+                  <p>Amount</p>
+                  <p>(N)</p>
+                </th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>A</td>
+                <td>Above 3.00cc</td>
+                <td>80,000.00</td>
+                <td>6,250.00</td>
+                <td>3,125.00</td>
+                <td>1,250.00</td>
+                <td>90,625.00</td>
+              </tr>
+              <tr>
+                <td>B</td>
+                <td>Between 2.1 3.00cc</td>
+                <td>80,000.00</td>
+                <td>6,250.00</td>
+                <td>2,500.00</td>
+                <td>1,250.00</td>
+                <td>90,000.00</td>
+              </tr>
+              <tr>
+                <td>C</td>
+                <td>Vehicle up to 1.7cc 2.00cc</td>
+                <td>80,000.00</td>
+                <td>3,125.00</td>
+                <td>1,875.00</td>
+                <td>1,250.00</td>
+                <td>86,250.00</td>
+              </tr>
+              <tr>
+                <td>D</td>
+                <td>Other Vehicle1.2cc 1.6cc</td>
+                <td>80,000.00</td>
+                <td>3,125.00</td>
+                <td>1,250.00</td>
+                <td>1,250.00</td>
+                <td>85,625.00</td>
+              </tr>
+            </tbody>
+          </table>
+        </text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>
+          <strong>Revalidation of Old Number Plates (Private Vehicle)</strong>
+        </text>
+        <text>
+          <table>
+            <caption/>
+            <thead>
+              <tr>
+                <th>Category</th>
+                <th>Capacity of Vehicle</th>
+                <th proof="needed">
+                  <p>Cost of Plate</p>
+                  <p>Number</p>
+                  <p>(₦)</p>
+                </th>
+                <th proof="needed">
+                  <p>Vehicle</p>
+                  <p>License</p>
+                  <p>(₦)</p>
+                </th>
+                <th proof="needed">
+                  <p>Cost of Regt.</p>
+                  <p>Book</p>
+                  <p>(₦)</p>
+                </th>
+                <th proof="needed">
+                  <p>Amount</p>
+                  <p>(₦)</p>
+                </th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>A</td>
+                <td>Above .00cc</td>
+                <td>12,500.00</td>
+                <td>3,125.00</td>
+                <td>1,250.00</td>
+                <td>17,875.00</td>
+              </tr>
+              <tr>
+                <td>B</td>
+                <td>Between2.1 3.00cc</td>
+                <td>12,500.00</td>
+                <td>2,500.00</td>
+                <td>1,250.00</td>
+                <td>16,250.00</td>
+              </tr>
+              <tr>
+                <td>C</td>
+                <td>Vehicle up to 1.7cc 2.00cc</td>
+                <td>12,500.00</td>
+                <td>1,875.00</td>
+                <td>1,250.00</td>
+                <td>15,625.00</td>
+              </tr>
+              <tr>
+                <td>D</td>
+                <td>Other Vehicle 1.2cc 1.6cc</td>
+                <td>12,500.00</td>
+                <td>1,250.00</td>
+                <td>1,250.00</td>
+                <td>15,000.00</td>
+              </tr>
+            </tbody>
+          </table>
+        </text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>
+          <strong>Revalidation of Old Number Plates (Commercial Vehicle)</strong>
+        </text>
+        <text>
+          <table>
+            <caption/>
+            <thead>
+              <tr>
+                <th>Category</th>
+                <th>Capacity of Range</th>
+                <th proof="needed">
+                  <p>Cost of Plate Number</p>
+                  <p>(₦)</p>
+                </th>
+                <th>Vehicle License (₦)</th>
+                <th proof="needed">
+                  <p>Cost of Regt.</p>
+                  <p>Book</p>
+                  <p>(₦)</p>
+                </th>
+                <th proof="needed">
+                  <p>Amount</p>
+                  <p>(₦)</p>
+                </th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>A</td>
+                <td>Trailer</td>
+                <td>12,500</td>
+                <td>8,750.00</td>
+                <td>1,250.00</td>
+                <td>22,500.00</td>
+              </tr>
+              <tr>
+                <td>B</td>
+                <td>Tanker and Truck</td>
+                <td>12,500</td>
+                <td>6,250.00</td>
+                <td>1,250.00</td>
+                <td>20,000.00</td>
+              </tr>
+              <tr>
+                <td>C</td>
+                <td>Tipper and Lorry</td>
+                <td>12,500</td>
+                <td>3,750.00</td>
+                <td>1,250.00</td>
+                <td>17,500.00</td>
+              </tr>
+              <tr>
+                <td>D</td>
+                <td>Canter</td>
+                <td>12,500</td>
+                <td>3,125.00</td>
+                <td>1,250.00</td>
+                <td>16,875.00</td>
+              </tr>
+              <tr>
+                <td>E</td>
+                <td>Bus</td>
+                <td>12,500</td>
+                <td>3,125.00</td>
+                <td>1,250.00</td>
+                <td>16,875.00</td>
+              </tr>
+              <tr>
+                <td>F</td>
+                <td>Pick Up</td>
+                <td>12,500</td>
+                <td>3,125.00</td>
+                <td>1,250.00</td>
+                <td>16,875.00</td>
+              </tr>
+              <tr>
+                <td>G</td>
+                <td>Taxi (Painted)</td>
+                <td>12,500</td>
+                <td>1,250.00</td>
+                <td>1,250.00</td>
+                <td>15,000.00</td>
+              </tr>
+              <tr>
+                <td>H</td>
+                <td>Taxi (Unpainted))</td>
+                <td>12,500</td>
+                <td>1,250.00</td>
+                <td>1,250.00</td>
+                <td>15,000.00</td>
+              </tr>
+            </tbody>
+          </table>
+        </text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>
+          <strong>Commercial Vehicle Number Plates Revalidation</strong>
+        </text>
+        <text>
+          <table>
+            <caption/>
+            <thead>
+              <tr>
+                <th>Category</th>
+                <th>Capacity of Range</th>
+                <th proof="needed">
+                  <p>Cost of Plate</p>
+                  <p>Number (₦)</p>
+                </th>
+                <th>Vehicle License (₦)</th>
+                <th proof="needed">
+                  <p>Cost of Regt.</p>
+                  <p>Book (₦)</p>
+                </th>
+                <th>Cost of     Sticker (₦)</th>
+                <th proof="needed">
+                  <p>Amount</p>
+                  <p>(₦)</p>
+                </th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>A</td>
+                <td>Trailer</td>
+                <td>10,000.00</td>
+                <td>8,750.00</td>
+                <td>1,250.00</td>
+                <td>1,500.00</td>
+                <td>21,500.00</td>
+              </tr>
+              <tr>
+                <td>B</td>
+                <td>Tanker and Truck</td>
+                <td>10,000.00</td>
+                <td>6,250.00</td>
+                <td>1,250.00</td>
+                <td>1,500.00</td>
+                <td>19,000.00</td>
+              </tr>
+              <tr>
+                <td>C</td>
+                <td>Tipper and Lorry</td>
+                <td>10,000.00</td>
+                <td>3,750.00</td>
+                <td>1,250.00</td>
+                <td>1,000.00</td>
+                <td>16,000.00</td>
+              </tr>
+              <tr>
+                <td>D</td>
+                <td>Canter, Bu s&amp; Pick Up</td>
+                <td>10,000.00</td>
+                <td>3,125.00</td>
+                <td>1,250.00</td>
+                <td>1,000.00</td>
+                <td>15,375.00</td>
+              </tr>
+              <tr>
+                <td>E</td>
+                <td>Taxi</td>
+                <td>10,000.00</td>
+                <td>1,250.00</td>
+                <td>1,250.00</td>
+                <td>500.00</td>
+                <td>13,000.00</td>
+              </tr>
+            </tbody>
+          </table>
+        </text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>
+          <strong>Government Fancy Number Plates</strong>
+        </text>
+        <text>
+          <table>
+            <caption/>
+            <tbody>
+              <tr>
+                <td>
+                  <strong>Category</strong>
+                </td>
+                <th proof="needed">
+                  <p>Cost of Plate Number</p>
+                  <p>(₦)</p>
+                </th>
+                <th proof="needed">
+                  <p>New</p>
+                  <p>Registration fee</p>
+                  <p>(₦)</p>
+                </th>
+                <td proof="needed">
+                  <p>
+                    <strong>Vehicle License</strong>
+                  </p>
+                  <p><strong>(</strong>₦<strong>)</strong></p>
+                </td>
+                <td proof="needed">
+                  <p>
+                    <strong>Cost of Regt.</strong>
+                  </p>
+                  <p><strong>Book (</strong>₦<strong>)</strong></p>
+                </td>
+                <td proof="needed">
+                  <p>
+                    <strong>Amount</strong>
+                  </p>
+                  <p>
+                    <strong>(₦)</strong>
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td>Bus</td>
+                <td>40,000.00</td>
+                <td>6,250.00</td>
+                <td>NIL</td>
+                <td>1,250.00</td>
+                <td>48,750.00</td>
+              </tr>
+              <tr>
+                <td>Car A</td>
+                <td>40,000.00</td>
+                <td>6,250.00</td>
+                <td>NIL</td>
+                <td>1,250.00</td>
+                <td>47,500.00</td>
+              </tr>
+              <tr>
+                <td>Car B</td>
+                <td>40,000.00</td>
+                <td>3,125.00</td>
+                <td>NIL</td>
+                <td>1,250.00</td>
+                <td>44,375.00</td>
+              </tr>
+            </tbody>
+          </table>
+        </text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>
+          <strong>Government/Official Number Plates</strong>
+        </text>
+        <text>
+          <table>
+            <caption/>
+            <tbody>
+              <tr>
+                <td>
+                  <strong>Category</strong>
+                </td>
+                <th proof="needed">
+                  <p>Cost of Plate Number</p>
+                  <p>(₦)</p>
+                </th>
+                <th proof="needed">
+                  <p>New</p>
+                  <p>Registration fee</p>
+                  <p>(₦)</p>
+                </th>
+                <td proof="needed">
+                  <p>
+                    <strong>Vehicle License</strong>
+                  </p>
+                  <p><strong>(</strong>₦<strong>)</strong></p>
+                </td>
+                <td proof="needed">
+                  <p>
+                    <strong>Cost of Regt.</strong>
+                  </p>
+                  <p><strong>Book (</strong>₦<strong>)</strong></p>
+                </td>
+                <td proof="needed">
+                  <p>
+                    <strong>Amount</strong>
+                  </p>
+                  <p>
+                    <strong>(₦)</strong>
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td>A</td>
+                <td>15,000.00</td>
+                <td>6,250.00</td>
+                <td>NIL</td>
+                <td>1,250.00</td>
+                <td>22,500.00</td>
+              </tr>
+              <tr>
+                <td>B</td>
+                <td>5,000.00</td>
+                <td>3,125.00</td>
+                <td>NIL</td>
+                <td>1,250.00</td>
+                <td>19,375.00</td>
+              </tr>
+              <tr>
+                <td>Bus</td>
+                <td>15,000.00</td>
+                <td>6,250.00</td>
+                <td>NIL</td>
+                <td>1,250.00</td>
+                <td>22,500.00</td>
+              </tr>
+              <tr>
+                <td>Motorcycle</td>
+                <td>3,000.00</td>
+                <td>1,250</td>
+                <td>NIL</td>
+                <td>1,250.00</td>
+                <td>5,500.00</td>
+              </tr>
+            </tbody>
+          </table>
+        </text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>
+          <strong>Motor Cycle</strong>
+        </text>
+        <text>
+          <table>
+            <caption/>
+            <tbody>
+              <tr>
+                <td>
+                  <strong>Category</strong>
+                </td>
+                <td proof="needed">
+                  <p>
+                    <strong>Cost of</strong>
+                  </p>
+                  <p>
+                    <strong>Plate</strong>
+                  </p>
+                  <p>
+                    <strong>Number</strong>
+                  </p>
+                  <p>
+                    <strong>(N)</strong>
+                  </p>
+                </td>
+                <td proof="needed">
+                  <p>
+                    <strong>New</strong>
+                  </p>
+                  <p>
+                    <strong>Registration</strong>
+                  </p>
+                  <p>
+                    <strong>fee</strong>
+                  </p>
+                  <p>
+                    <strong>(N)</strong>
+                  </p>
+                </td>
+                <td proof="needed">
+                  <p>
+                    <strong>Vehicle</strong>
+                  </p>
+                  <p>
+                    <strong>License</strong>
+                  </p>
+                  <p>
+                    <strong>(₦)</strong>
+                  </p>
+                </td>
+                <td proof="needed">
+                  <p>
+                    <strong>Cost of</strong>
+                  </p>
+                  <p>
+                    <strong>Regt. Book</strong>
+                  </p>
+                  <p>
+                    <strong>(₦)</strong>
+                  </p>
+                </td>
+                <td proof="needed">
+                  <p>
+                    <strong>Sticker</strong>
+                  </p>
+                  <p>
+                    <strong>(₦)</strong>
+                  </p>
+                </td>
+                <td proof="needed">
+                  <p>
+                    <strong>Learner's</strong>
+                  </p>
+                  <p>
+                    <strong>Permit</strong>
+                  </p>
+                  <p>
+                    <strong>(₦)</strong>
+                  </p>
+                </td>
+                <td proof="needed">
+                  <p>
+                    <strong>Reflective</strong>
+                  </p>
+                  <p>
+                    <strong>Jacket</strong>
+                  </p>
+                  <p>
+                    <strong>(₦)</strong>
+                  </p>
+                </td>
+                <td proof="needed">
+                  <p>
+                    <strong>Amount</strong>
+                  </p>
+                  <p>
+                    <strong>(₦)</strong>
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td>Private</td>
+                <td>2,500.00</td>
+                <td>1,250.00</td>
+                <td>625.00</td>
+                <td>1,250.00</td>
+                <td>-</td>
+                <td>500.00</td>
+                <td>Nil</td>
+                <td>6,125.00</td>
+              </tr>
+              <tr>
+                <td>Commercial</td>
+                <td>2,500.00</td>
+                <td>1,250.00</td>
+                <td>1,250.00</td>
+                <td>1,250.00</td>
+                <td>750.00</td>
+                <td>500.00</td>
+                <td>750.00</td>
+                <td>8,250.00</td>
+              </tr>
+            </tbody>
+          </table>
+        </text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text>
+          <strong>Motor Dealers Number Plates</strong>
+        </text>
+        <text>
+          <table>
+            <caption/>
+            <tbody>
+              <tr>
+                <td proof="needed">
+                  <p>
+                    <strong>Cost of Plate</strong>
+                  </p>
+                  <p>
+                    <strong>Number</strong>
+                  </p>
+                  <p><strong>(</strong>₦<strong>)</strong></p>
+                </td>
+                <td proof="needed">
+                  <p>
+                    <strong>Registration</strong>
+                  </p>
+                  <p><strong>(</strong>₦<strong>)</strong></p>
+                </td>
+                <th proof="needed">
+                  <p>Dealership Certificate</p>
+                  <p>(₦)</p>
+                </th>
+                <td proof="needed">
+                  <p>
+                    <strong>Cost of Regt.</strong>
+                  </p>
+                  <p>
+                    <strong>Book</strong>
+                  </p>
+                  <p><strong>(</strong>₦<strong>)</strong></p>
+                </td>
+                <td proof="needed">
+                  <p>
+                    <strong>Amount</strong>
+                  </p>
+                  <p>
+                    <strong>(₦)</strong>
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td>30,000.00</td>
+                <td>5,000.00</td>
+                <td>12,500.00</td>
+                <td>NIL</td>
+                <td>47,500.00</td>
+              </tr>
+            </tbody>
+          </table>
+        </text>
+      </para>
+      <para>
+        <num>(l)</num>
+        <text>
+          <strong>Replacement of Missing Number Plates</strong>
+        </text>
+        <text>
+          <table>
+            <caption/>
+            <tbody>
+              <tr>
+                <th>Category</th>
+                <th>Type</th>
+                <td proof="needed">
+                  <p>
+                    <strong>Cost of Replacement of Plate</strong>
+                  </p>
+                  <p>
+                    <strong>Number (N)</strong>
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td>A</td>
+                <td>Fancy</td>
+                <td>80,000.00</td>
+              </tr>
+              <tr>
+                <td>B</td>
+                <td>Out-of-Series</td>
+                <td>40,000.00</td>
+              </tr>
+              <tr>
+                <td>C</td>
+                <td>Private</td>
+                <td>12,500.00</td>
+              </tr>
+              <tr>
+                <td>D</td>
+                <td>Commercial</td>
+                <td>12,500.00</td>
+              </tr>
+              <tr>
+                <td>E</td>
+                <td>Motorcycle/Tricycle</td>
+                <td>2,500.00</td>
+              </tr>
+            </tbody>
+          </table>
+        </text>
+      </para>
+      <para>
+        <num>(m)</num>
+        <text>
+          <strong>Change of Ownership</strong>
+        </text>
+        <text>
+          <table>
+            <caption/>
+            <tbody>
+              <tr>
+                <td>
+                  <strong>Type of Vehicle</strong>
+                </td>
+                <td><strong>Amount (</strong>₦<strong>)</strong></td>
+              </tr>
+              <tr>
+                <td>Motor Vehicle</td>
+                <td>2,500.00</td>
+              </tr>
+              <tr>
+                <td>Motorcycle/Tricycles</td>
+                <td>625.00</td>
+              </tr>
+            </tbody>
+          </table>
+        </text>
+      </para>
+      <para>
+        <num>(n)</num>
+        <text>
+          <strong>Driver's License</strong>
+        </text>
+        <text>
+          <table>
+            <caption/>
+            <tbody>
+              <tr>
+                <th>Classification</th>
+                <th>Duration</th>
+                <td><strong>Amount (</strong>₦<strong>)</strong></td>
+              </tr>
+              <tr>
+                <td>Motor Vehicle</td>
+                <td proof="needed">
+                  <p>3 years</p>
+                  <p>5 years</p>
+                </td>
+                <td proof="needed">
+                  <p>6,350.00</p>
+                  <p>10,450.00</p>
+                </td>
+              </tr>
+              <tr>
+                <td>Motorcycle</td>
+                <td>3 years</td>
+                <td>3,350.00</td>
+              </tr>
+            </tbody>
+          </table>
+        </text>
+        <text><strong>NOTE:</strong> The rates for the above Road Taxes are contained in the Federal Laws and Regulations and if those Federal Laws and Regulations are amended, the authority for the Service to collect such Revenues under this Law shall also be similarly amended.</text>
+      </para>
     </para>
     <para>
       <num>(11)</num>
@@ -21150,7 +21150,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>Notwithstanding the provisions of sub-sections (2) and (3) of <cite path="§1">this Section</cite>, the Service may request a Person to provide any further information necessary to complete the registration of the Person under this Code.</text>
+          <text>Notwithstanding the provisions of sub-sections (2) and (3) of <cite path="attachments|fourth|I|1">this Section</cite>, the Service may request a Person to provide any further information necessary to complete the registration of the Person under this Code.</text>
         </para>
       </section>
       <section>
@@ -21182,7 +21182,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>Subject to <cite path="§3|(1)">sub-section (1) of this Section</cite>, a TIN is personal to the Person onto whom it has been issued and is prohibited from use by another Person.</text>
+          <text>Subject to <cite path="attachments|fourth|I|3|(1)">sub-section (1) of this Section</cite>, a TIN is personal to the Person onto whom it has been issued and is prohibited from use by another Person.</text>
         </para>
         <para>
           <num>(5)</num>
@@ -21214,7 +21214,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Where a TIN has been cancelled under <cite path="§4|(1)">sub-section (1) of this Section</cite>, the Service may subject to the conditions for cancellation of a TIN, issue a new TIN to the Person.</text>
+          <text>Where a TIN has been cancelled under <cite path="attachments|fourth|I|4|(1)">sub-section (1) of this Section</cite>, the Service may subject to the conditions for cancellation of a TIN, issue a new TIN to the Person.</text>
         </para>
       </section>
       <section>
@@ -21303,7 +21303,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text><cite path="§8">This Section</cite> shall not apply to a Legal Practitioner representing a Client for the purposes of sub-section (2)(c) of <cite path="§8">this Section</cite>.</text>
+          <text><cite path="attachments|fourth|II|8">This Section</cite> shall not apply to a Legal Practitioner representing a Client for the purposes of sub-section (2)(c) of <cite path="attachments|fourth|II|8">this Section</cite>.</text>
         </para>
       </section>
       <section>
@@ -21374,7 +21374,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>An Application under <cite path="§13|(1)">sub-section (1) of this Section</cite> shall be in the prescribed Form and shall be accompanied by supporting documents and a prescribed Fee.</text>
+          <text>An Application under <cite path="attachments|fourth|II|13|(1)">sub-section (1) of this Section</cite> shall be in the prescribed Form and shall be accompanied by supporting documents and a prescribed Fee.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -21398,11 +21398,11 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>The Service shall register the Person nominated under <cite path="§14|(1)">sub-section (1) of this Section</cite> if satisfied that the Person is a fit and proper Person to prepare Returns and transact business with the Service under this Code on behalf of a Taxpayer.</text>
+          <text>The Service shall register the Person nominated under <cite path="attachments|fourth|II|14|(1)">sub-section (1) of this Section</cite> if satisfied that the Person is a fit and proper Person to prepare Returns and transact business with the Service under this Code on behalf of a Taxpayer.</text>
         </para>
         <para>
           <num>(3)</num>
-          <text>The Service shall notify the Applicant under <cite path="§14">this Section</cite> in writing, by Paper or Electronic Format its decision on the Application.</text>
+          <text>The Service shall notify the Applicant under <cite path="attachments|fourth|II|14">this Section</cite> in writing, by Paper or Electronic Format its decision on the Application.</text>
         </para>
       </section>
       <section>
@@ -21438,7 +21438,7 @@
         <num>16</num>
         <para>
           <num>(1)</num>
-          <text>A Collecting Agent in Section 6 of this Code or a Revenue Agent in Section 8 of this Code here after referred to in <cite path="§16">this Section</cite> as "Agent" that ceases to carry on business as an Agent shall notify the Service, in writing, by Paper or Electronic Format within Seven (7) days after ceasing to carry on business.</text>
+          <text>A Collecting Agent in Section 6 of this Code or a Revenue Agent in Section 8 of this Code here after referred to in <cite path="attachments|fourth|II|16">this Section</cite> as "Agent" that ceases to carry on business as an Agent shall notify the Service, in writing, by Paper or Electronic Format within Seven (7) days after ceasing to carry on business.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -21499,7 +21499,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>If there are Two or more Taxpayer Representatives for a Taxpayer, the obligations referred to in <cite path="§17">this Section</cite> shall apply jointly and severally to the Taxpayer Representatives, but may be discharged by any of them.</text>
+          <text>If there are Two or more Taxpayer Representatives for a Taxpayer, the obligations referred to in <cite path="attachments|fourth|III|17">this Section</cite> shall apply jointly and severally to the Taxpayer Representatives, but may be discharged by any of them.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -21507,11 +21507,11 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>A Revenue that by virtue of <cite path="§17|(1)">sub-section (1) of this Section</cite>, payable by a Taxpayer shall be recoverable from the Tax Representative only to the extent of the Assets of the Taxpayer that are in the possession or under the control of the Tax Representative.</text>
+          <text>A Revenue that by virtue of <cite path="attachments|fourth|III|17|(1)">sub-section (1) of this Section</cite>, payable by a Taxpayer shall be recoverable from the Tax Representative only to the extent of the Assets of the Taxpayer that are in the possession or under the control of the Tax Representative.</text>
         </para>
         <para>
           <num>(5)</num>
-          <text>Subject to <cite path="§17|(6)">sub-section (6) of this Section</cite>, a Taxpayer Representative shall be personally liable for the payment of any Revenue due from the Taxpayer in that capacity if, while the amount remains unpaid, the Taxpayer Representative:</text>
+          <text>Subject to <cite path="attachments|fourth|III|17|(6)">sub-section (6) of this Section</cite>, a Taxpayer Representative shall be personally liable for the payment of any Revenue due from the Taxpayer in that capacity if, while the amount remains unpaid, the Taxpayer Representative:</text>
           <para>
             <num>(a)</num>
             <text>alienates, charges, or disposes of any moneys received or accrued in respect of which the Revenue is payable; or</text>
@@ -21535,15 +21535,15 @@
         </para>
         <para>
           <num>(7)</num>
-          <text>An amount that a Tax Representative is personally liable for under <cite path="§17|(5)">sub-section (5) of this Section</cite> shall be collected and recovered in accordance with this Code.</text>
+          <text>An amount that a Tax Representative is personally liable for under <cite path="attachments|fourth|III|17|(5)">sub-section (5) of this Section</cite> shall be collected and recovered in accordance with this Code.</text>
         </para>
         <para>
           <num>(8)</num>
-          <text>Nothing in <cite path="§17">this Section</cite> relieves a Taxpayer from performing any obligation imposed on the Taxpayer under this Code that the Taxpayer Representative has failed to perform.</text>
+          <text>Nothing in <cite path="attachments|fourth|III|17">this Section</cite> relieves a Taxpayer from performing any obligation imposed on the Taxpayer under this Code that the Taxpayer Representative has failed to perform.</text>
         </para>
         <para>
           <num>(9)</num>
-          <text>A reference in <cite path="§17">this Section</cite> to a Tax liability includes any Interest payable in respect of the Liability.</text>
+          <text>A reference in <cite path="attachments|fourth|III|17">this Section</cite> to a Tax liability includes any Interest payable in respect of the Liability.</text>
         </para>
       </section>
     </container>
@@ -21556,7 +21556,7 @@
         <num>18</num>
         <para>
           <num>(1)</num>
-          <text>Subject to sub-sections (2) and (5) of <cite path="§18">this Section</cite>, every Taxpayer shall for the purposes of a  Revenue obligation:</text>
+          <text>Subject to sub-sections (2) and (5) of <cite path="attachments|fourth|IV|18">this Section</cite>, every Taxpayer shall for the purposes of a  Revenue obligation:</text>
           <para>
             <num>(a)</num>
             <text>maintain, in English Language, Records including in Electronic Format, as may be required to determine the Taxpayer's Liability under this Code;</text>
@@ -21572,7 +21572,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Where, at the end of the time specified in sub-section (1) (c) of <cite path="§18">this Section</cite>, a record is necessary for a proceeding commenced before the end of the Five (5) year period, the Person shall retain the Document until all proceedings have been completed.</text>
+          <text>Where, at the end of the time specified in sub-section (1) (c) of <cite path="attachments|fourth|IV|18">this Section</cite>, a record is necessary for a proceeding commenced before the end of the Five (5) year period, the Person shall retain the Document until all proceedings have been completed.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -21601,11 +21601,11 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Where   a Person   does   not   furnish   a Revenue Return   under <cite path="§19|(1)">sub-section (1) of this Section</cite>, the MDA may at the Person's cost, by Notice in writing or by Electronic means, select from the approved list of Revenue Agents registered under this Code to prepare and furnish the Return on behalf of that Person.</text>
+          <text>Where   a Person   does   not   furnish   a Revenue Return   under <cite path="attachments|fourth|V|19|(1)">sub-section (1) of this Section</cite>, the MDA may at the Person's cost, by Notice in writing or by Electronic means, select from the approved list of Revenue Agents registered under this Code to prepare and furnish the Return on behalf of that Person.</text>
         </para>
         <para>
           <num>(3)</num>
-          <text>A Return furnished under <cite path="§19|(2)">sub-section (2) of this Section</cite> shall be treated, for all the purposes of this Code under which the Return is required to be furnished, to be the Return of the Person required to furnish the Return.</text>
+          <text>A Return furnished under <cite path="attachments|fourth|V|19|(2)">sub-section (2) of this Section</cite> shall be treated, for all the purposes of this Code under which the Return is required to be furnished, to be the Return of the Person required to furnish the Return.</text>
         </para>
         <para>
           <num>(4)</num>
@@ -21686,7 +21686,7 @@
         <num>20</num>
         <para>
           <num>(1)</num>
-          <text>A Collecting Agent in Section 6 of this Code and a Revenue Agent in Section 8 of this Code (referred to in <cite path="§20">this Section</cite> as "Agent") who prepares or assists in the preparation of a Return of a Taxpayer shall provide the Taxpayer with a signed Revenue Return Submission Checklist in a form prescribed by the Service:</text>
+          <text>A Collecting Agent in Section 6 of this Code and a Revenue Agent in Section 8 of this Code (referred to in <cite path="attachments|fourth|V|20">this Section</cite> as "Agent") who prepares or assists in the preparation of a Return of a Taxpayer shall provide the Taxpayer with a signed Revenue Return Submission Checklist in a form prescribed by the Service:</text>
           <para>
             <num>(a)</num>
             <text>stating the sources available to the Agent for the preparation of Return; and</text>
@@ -21698,19 +21698,19 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>An Agent who does not provide this Checklist referred to in <cite path="§20|(1)">sub-section (1) of this Section</cite> shall in writing or Electronically specify to the Taxpayer the reasons for not doing so.</text>
+          <text>An Agent who does not provide this Checklist referred to in <cite path="attachments|fourth|V|20|(1)">sub-section (1) of this Section</cite> shall in writing or Electronically specify to the Taxpayer the reasons for not doing so.</text>
         </para>
         <para>
           <num>(3)</num>
-          <text>An Agent who prepares or assists in the preparation of a Return of a Taxpayer shall make a declaration in the Taxpayer's Return stating whether a Checklist under <cite path="§20|(1)">sub-section (1) of this Section</cite> or a Statement under <cite path="§20|(2)">sub-section (2) of this Section</cite> has been provided by the Taxpayer.</text>
+          <text>An Agent who prepares or assists in the preparation of a Return of a Taxpayer shall make a declaration in the Taxpayer's Return stating whether a Checklist under <cite path="attachments|fourth|V|20|(1)">sub-section (1) of this Section</cite> or a Statement under <cite path="attachments|fourth|V|20|(2)">sub-section (2) of this Section</cite> has been provided by the Taxpayer.</text>
         </para>
         <para>
           <num>(4)</num>
-          <text>An Agent shall when required to do so by Notice in writing or Electronic means from the MDA, produce a copy of the Checklist under <cite path="§20|(1)">sub-section (1) of this Section</cite> to the MDA or the Statement provided to the Taxpayer under <cite path="§20|(2)">sub-section (2) of this Section</cite>.</text>
+          <text>An Agent shall when required to do so by Notice in writing or Electronic means from the MDA, produce a copy of the Checklist under <cite path="attachments|fourth|V|20|(1)">sub-section (1) of this Section</cite> to the MDA or the Statement provided to the Taxpayer under <cite path="attachments|fourth|V|20|(2)">sub-section (2) of this Section</cite>.</text>
         </para>
         <para>
           <num>(5)</num>
-          <text>An Agent shall keep copies of the Checklist provided to Taxpayers under <cite path="§20|(1)">sub-section (1) of this Section</cite> and Statements provided to Taxpayers under <cite path="§20|(2)">sub-section (2) of this Section</cite> for Five (5) Years from the date that the Return to which the Checklist or Statement relates is furnished.</text>
+          <text>An Agent shall keep copies of the Checklist provided to Taxpayers under <cite path="attachments|fourth|V|20|(1)">sub-section (1) of this Section</cite> and Statements provided to Taxpayers under <cite path="attachments|fourth|V|20|(2)">sub-section (2) of this Section</cite> for Five (5) Years from the date that the Return to which the Checklist or Statement relates is furnished.</text>
         </para>
       </section>
       <section>
@@ -21730,7 +21730,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Where a Taxpayer is subject to pay more than one Revenue line, <cite path="§21">this Section</cite> applies to each Revenue line separately.</text>
+          <text>Where a Taxpayer is subject to pay more than one Revenue line, <cite path="attachments|fourth|V|21">this Section</cite> applies to each Revenue line separately.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -21762,19 +21762,19 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>An Application under <cite path="§22|(1)">sub-section (1) of this Section</cite> shall be made before the due date for the Return.</text>
+          <text>An Application under <cite path="attachments|fourth|V|22|(1)">sub-section (1) of this Section</cite> shall be made before the due date for the Return.</text>
         </para>
         <para>
           <num>(3)</num>
-          <text>Where an Application has been made under <cite path="§22|(1)">sub-section (1) of this Section</cite> and the MDA is satisfied that the Person is unable to furnish a Return by the due date for any reasonable cause, the MDA may by Notice in writing or by Electronic means, grant the Application for Extension of Time to furnish the Return.</text>
+          <text>Where an Application has been made under <cite path="attachments|fourth|V|22|(1)">sub-section (1) of this Section</cite> and the MDA is satisfied that the Person is unable to furnish a Return by the due date for any reasonable cause, the MDA may by Notice in writing or by Electronic means, grant the Application for Extension of Time to furnish the Return.</text>
         </para>
         <para>
           <num>(4)</num>
-          <text>The Extension of Time granted in <cite path="§22|(3)">sub-section (3) of this Section</cite> shall not exceed an aggregate period of Ninety (90) days.</text>
+          <text>The Extension of Time granted in <cite path="attachments|fourth|V|22|(3)">sub-section (3) of this Section</cite> shall not exceed an aggregate period of Ninety (90) days.</text>
         </para>
         <para>
           <num>(5)</num>
-          <text>An Extension of Time granted under <cite path="§22">this Section</cite> does not change the date for payment of the Revenue due as specified in this Code and which a Return is required to be furnished and Interest remains payable on the unpaid Revenue from the date the Revenue was originally due.</text>
+          <text>An Extension of Time granted under <cite path="attachments|fourth|V|22">this Section</cite> does not change the date for payment of the Revenue due as specified in this Code and which a Return is required to be furnished and Interest remains payable on the unpaid Revenue from the date the Revenue was originally due.</text>
         </para>
         <para>
           <num>(6)</num>
@@ -21885,7 +21885,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>The Service shall serve an Assessed Taxpayer under <cite path="§27|(1)">sub-section (1) of this Section</cite> with a Notice, in writing or by Electronic means, of the Assessment specifying the:</text>
+          <text>The Service shall serve an Assessed Taxpayer under <cite path="attachments|fourth|VI|27|(1)">sub-section (1) of this Section</cite> with a Notice, in writing or by Electronic means, of the Assessment specifying the:</text>
           <para>
             <num>(a)</num>
             <text>amount of Tax assessed, Assessed Loss, or excess Input Tax Credit, as the case may be;</text>
@@ -21909,7 +21909,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>The service of a Notice of an Assessment under <cite path="§27">this Section</cite> does not change the due date for payment of the  Revenue payable under the Assessment as determined under the Tax Law imposing the Tax and Interest shall  remain payable based on the original due date.</text>
+          <text>The service of a Notice of an Assessment under <cite path="attachments|fourth|VI|27">this Section</cite> does not change the due date for payment of the  Revenue payable under the Assessment as determined under the Tax Law imposing the Tax and Interest shall  remain payable based on the original due date.</text>
         </para>
       </section>
       <section>
@@ -21921,17 +21921,17 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Subject to <cite path="§28|(3)">sub-section (3) of this Section</cite>, the Service may make an Assessment for a Tax period in relation to a Taxpayer to whom <cite path="§28">this Section</cite> applies:</text>
+          <text>Subject to <cite path="attachments|fourth|VI|28|(3)">sub-section (3) of this Section</cite>, the Service may make an Assessment for a Tax period in relation to a Taxpayer to whom <cite path="attachments|fourth|VI|28">this Section</cite> applies:</text>
           <text>in the case of an Assessed Loss under the Personal Income Tax Act, of the amount of the Assessed Loss of the Taxpayer for the period; or</text>
           <text>in any other case, of the Tax payable by the Taxpayer for the Tax period.</text>
         </para>
         <para>
           <num>(3)</num>
-          <text><cite path="§28|(2)">Sub-section (2) of this Section</cite> applies only if the Taxpayer has not submitted a Return as required by this Code.</text>
+          <text><cite path="attachments|fourth|VI|28|(2)">Sub-section (2) of this Section</cite> applies only if the Taxpayer has not submitted a Return as required by this Code.</text>
         </para>
         <para>
           <num>(4)</num>
-          <text>An Assessment made under sub-section (2) of  <cite path="§28">this Section</cite>:</text>
+          <text>An Assessment made under sub-section (2) of  <cite path="attachments|fourth|VI|28">this Section</cite>:</text>
           <para>
             <num>(a)</num>
             <text>may be made before the date on which the Taxpayer's Return for the period is due; and</text>
@@ -21943,7 +21943,7 @@
         </para>
         <para>
           <num>(5)</num>
-          <text>The Service shall serve a Taxpayer assessed under <cite path="§28|(2)">sub-section (2) of this Section</cite> with a Notice in writing or by Electronic means, of  the Assessment specifying the:</text>
+          <text>The Service shall serve a Taxpayer assessed under <cite path="attachments|fourth|VI|28|(2)">sub-section (2) of this Section</cite> with a Notice in writing or by Electronic means, of  the Assessment specifying the:</text>
           <para>
             <num>(a)</num>
             <text>amount of Tax assessed;</text>
@@ -21967,11 +21967,11 @@
         </para>
         <para>
           <num>(6)</num>
-          <text>An Assessment made under <cite path="§28|(2)">sub-section (2) of this Section</cite> may be amended under this Code so that the Taxpayer is assessed in respect of the whole of the Tax period to which the Assessment relates.</text>
+          <text>An Assessment made under <cite path="attachments|fourth|VI|28|(2)">sub-section (2) of this Section</cite> may be amended under this Code so that the Taxpayer is assessed in respect of the whole of the Tax period to which the Assessment relates.</text>
         </para>
         <para>
           <num>(7)</num>
-          <text>Nothing in <cite path="§28">this Section</cite> relieves a Taxpayer from being required to furnish the Return to which the Assessment served under <cite path="§28">this Section</cite> relates.</text>
+          <text>Nothing in <cite path="attachments|fourth|VI|28">this Section</cite> relieves a Taxpayer from being required to furnish the Return to which the Assessment served under <cite path="attachments|fourth|VI|28">this Section</cite> relates.</text>
         </para>
       </section>
       <section>
@@ -21991,7 +21991,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>An Additional Assessment   under   <cite path="§29|(1)">sub-section (1) of this Section</cite> may be made:</text>
+          <text>An Additional Assessment   under   <cite path="attachments|fourth|VI|29|(1)">sub-section (1) of this Section</cite> may be made:</text>
           <para>
             <num>(a)</num>
             <text>at any time, Fraud has been committed  by or on behalf   of  the   Taxpayer or  new information   has been   discovered in  relation   to the Tax payable by the       Taxpayer for a Tax period;</text>
@@ -22015,7 +22015,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>Subject to <cite path="§29|(1)">sub-section (1) of this Section</cite>, a Taxpayer who has furnished a Self-Assessment Return, other than a Taxpayer   whose   Return  is   being investigated    may upon discovering   an error within Twelve (12) Months after the date of furnishing the Return, apply to the Service   for leave to make an Additional Assessment.</text>
+          <text>Subject to <cite path="attachments|fourth|VI|29|(1)">sub-section (1) of this Section</cite>, a Taxpayer who has furnished a Self-Assessment Return, other than a Taxpayer   whose   Return  is   being investigated    may upon discovering   an error within Twelve (12) Months after the date of furnishing the Return, apply to the Service   for leave to make an Additional Assessment.</text>
         </para>
         <para>
           <num>(4)</num>
@@ -22023,18 +22023,18 @@
         </para>
         <para>
           <num>(5)</num>
-          <text>For the purposes of sub-section (2)(b) of <cite path="§29">this Section</cite> the Additional Assessment shall be limited to amending the alterations and additions made in the Additional Assessment.</text>
+          <text>For the purposes of sub-section (2)(b) of <cite path="attachments|fourth|VI|29">this Section</cite> the Additional Assessment shall be limited to amending the alterations and additions made in the Additional Assessment.</text>
         </para>
         <para>
           <num>(6)</num>
-          <text>There the Service has made an Additional Assessment under <cite path="§29">this Section</cite>, the Service shall serve the Taxpayer with a Notice, in writing or by Electronic means of the Additional Assessment specifying the:</text>
+          <text>There the Service has made an Additional Assessment under <cite path="attachments|fourth|VI|29">this Section</cite>, the Service shall serve the Taxpayer with a Notice, in writing or by Electronic means of the Additional Assessment specifying the:</text>
           <para>
             <num>(a)</num>
             <text>amount assessed as Tax, Assessed Loss or Excess Input Tax Credit, as the case may be;</text>
           </para>
           <para>
             <num>(b)</num>
-            <text>amount of  Interest, if any, payable in respect of the amount assessed as a result of sub-section (2) (a) of <cite path="§29">this Section</cite>;</text>
+            <text>amount of  Interest, if any, payable in respect of the amount assessed as a result of sub-section (2) (a) of <cite path="attachments|fourth|VI|29">this Section</cite>;</text>
           </para>
           <para>
             <num>(c)</num>
@@ -22051,11 +22051,11 @@
         </para>
         <para>
           <num>(7)</num>
-          <text>The service of a Notice of an Additional Assessment under <cite path="§29">this Section</cite> does not change the due date for payment of the Tax payable under the Assessment   as determined under a Tax Law  and Interest shall  remain payable based on the original due date.</text>
+          <text>The service of a Notice of an Additional Assessment under <cite path="attachments|fourth|VI|29">this Section</cite> does not change the due date for payment of the Tax payable under the Assessment   as determined under a Tax Law  and Interest shall  remain payable based on the original due date.</text>
         </para>
         <para>
           <num>(8)</num>
-          <text>Sub-clause (6) of <cite path="§29">this Section</cite> shall not apply to where the circumstances leading to the Additional Assessment are occasioned by an error on the part the Service.</text>
+          <text>Sub-clause (6) of <cite path="attachments|fourth|VI|29">this Section</cite> shall not apply to where the circumstances leading to the Additional Assessment are occasioned by an error on the part the Service.</text>
         </para>
       </section>
     </container>
@@ -22080,7 +22080,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>The Service may, subject to the provisions of Section 31 of this Code, waive the amount or accept a lesser amount than is required to be paid under <cite path="§30|(3)">sub-section (3) of this Section</cite> where an Objection has reasonably been made to an Assessment.</text>
+          <text>The Service may, subject to the provisions of Section 31 of this Code, waive the amount or accept a lesser amount than is required to be paid under <cite path="attachments|fourth|VII|30|(3)">sub-section (3) of this Section</cite> where an Objection has reasonably been made to an Assessment.</text>
         </para>
       </section>
       <section>
@@ -22096,7 +22096,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>Where an Application  has been  made  under  <cite path="§31">this Section</cite>,  the Service    may, having   regard  to the  circumstances   of the case and by notice  in writing or by Electronic means:</text>
+          <text>Where an Application  has been  made  under  <cite path="attachments|fourth|VII|31">this Section</cite>,  the Service    may, having   regard  to the  circumstances   of the case and by notice  in writing or by Electronic means:</text>
           <para>
             <num>(a)</num>
             <text>grant the Taxpayer an Extension of Time for payment of the  Revenue; or</text>
@@ -22124,7 +22124,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>All Revenue due to Government shall only be payable into the Single Revenue Collection Account established under Section 44 of the Revenue Law through the Centralized Payment Platform in <cite path="§32|(1)">sub-section (1) of this Section</cite> and Electronic Payment Channels approved by the Service.</text>
+          <text>All Revenue due to Government shall only be payable into the Single Revenue Collection Account established under Section 44 of the Revenue Law through the Centralized Payment Platform in <cite path="attachments|fourth|VII|32|(1)">sub-section (1) of this Section</cite> and Electronic Payment Channels approved by the Service.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -22132,7 +22132,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>Upon payment of the Revenue due to Government in accordance with <cite path="§32|(2)">sub-section (2) of this Section</cite>, an Automated Receipt shall be issued as evidence of payment.</text>
+          <text>Upon payment of the Revenue due to Government in accordance with <cite path="attachments|fourth|VII|32|(2)">sub-section (2) of this Section</cite>, an Automated Receipt shall be issued as evidence of payment.</text>
         </para>
         <para>
           <num>(5)</num>
@@ -22217,11 +22217,11 @@
         </para>
         <para>
           <num>(8)</num>
-          <text>Subject to <cite path="§34|(9)">sub-section (9) of this Section</cite>, where  an Objection  Decision  has not been  served  within  the time  specified  under  <cite path="§34|(7)">sub-section (7) of this Section</cite>, the Person objecting  may, by notice  in writing or by Electronic means to the Executive Chairman,  elect to treat  the  Executive Chairman  as having  made  a decision  to  allow  the Objection.</text>
+          <text>Subject to <cite path="attachments|fourth|VIII|34|(9)">sub-section (9) of this Section</cite>, where  an Objection  Decision  has not been  served  within  the time  specified  under  <cite path="attachments|fourth|VIII|34|(7)">sub-section (7) of this Section</cite>, the Person objecting  may, by notice  in writing or by Electronic means to the Executive Chairman,  elect to treat  the  Executive Chairman  as having  made  a decision  to  allow  the Objection.</text>
         </para>
         <para>
           <num>(9)</num>
-          <text>Where  a Person makes  an election  under  sub-section  (8) of <cite path="§34">this Section</cite>, the Person  shall be  treated  as having  been  served  with a Notice  of the Objection Decision   on   the   date   the   Person's    election   is  lodged   with   the Executive Chairman.</text>
+          <text>Where  a Person makes  an election  under  sub-section  (8) of <cite path="attachments|fourth|VIII|34">this Section</cite>, the Person  shall be  treated  as having  been  served  with a Notice  of the Objection Decision   on   the   date   the   Person's    election   is  lodged   with   the Executive Chairman.</text>
         </para>
         <para>
           <num>(10)</num>
@@ -22229,7 +22229,7 @@
         </para>
         <para>
           <num>(11)</num>
-          <text>Where   the Executive Chairman    reviews   the Taxpayer's   Records under   <cite path="§34|(10)">sub-section (10) of this Section</cite>,   the   Executive Chairman   shall   within   the time specified  in sub-section  (7) of <cite path="§34">this Section</cite> notify  the Taxpayz7er  of the Review.</text>
+          <text>Where   the Executive Chairman    reviews   the Taxpayer's   Records under   <cite path="attachments|fourth|VIII|34|(10)">sub-section (10) of this Section</cite>,   the   Executive Chairman   shall   within   the time specified  in sub-section  (7) of <cite path="attachments|fourth|VIII|34">this Section</cite> notify  the Taxpayer  of the Review.</text>
         </para>
       </section>
       <section>
@@ -22237,7 +22237,7 @@
         <num>35</num>
         <para>
           <num>(1)</num>
-          <text>Where a Person is still dissatisfied by an Assessment issued by the Service or aggrieved by any Action or Decision of the Service under this Code, the Person may apply to the Revenue Assessment Review Committee established under Section 36 of the Revenue Law (referred to in this Code as RARC) within the time stipulated under <cite path="§35|(2)">sub-section (2) of this Section</cite> for a review of such Assessment, Action or Decision.</text>
+          <text>Where a Person is still dissatisfied by an Assessment issued by the Service or aggrieved by any Action or Decision of the Service under this Code, the Person may apply to the Revenue Assessment Review Committee established under Section 36 of the Revenue Law (referred to in this Code as RARC) within the time stipulated under <cite path="attachments|fourth|VIII|35|(2)">sub-section (2) of this Section</cite> for a review of such Assessment, Action or Decision.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -22319,7 +22319,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>In any Suit under <cite path="§38">this Section</cite>, the production of a Certificate signed by the Executive Chairman stating the Name and Address of the Taxpayer and the amount of Revenue payable, is conclusive evidence of the amount of Revenue payable by the Taxpayer unless the contrary is proved.</text>
+          <text>In any Suit under <cite path="attachments|fourth|IX|38">this Section</cite>, the production of a Certificate signed by the Executive Chairman stating the Name and Address of the Taxpayer and the amount of Revenue payable, is conclusive evidence of the amount of Revenue payable by the Taxpayer unless the contrary is proved.</text>
         </para>
       </section>
       <section>
@@ -22370,22 +22370,22 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>A Person to whom a Notice is served under <cite path="§40|(1)">sub-section (1) of this Section</cite>, shall pay the amount specified in the Notice under <cite path="§40|(1)">sub-section (1) of this Section</cite> by the date specified in the Notice, being a date that is not before the date that the amount owed by the Payer to the Taxpayer  becomes due to the Taxpayer or held on the Taxpayer's  behalf.</text>
+          <text>A Person to whom a Notice is served under <cite path="attachments|fourth|IX|40|(1)">sub-section (1) of this Section</cite>, shall pay the amount specified in the Notice under <cite path="attachments|fourth|IX|40|(1)">sub-section (1) of this Section</cite> by the date specified in the Notice, being a date that is not before the date that the amount owed by the Payer to the Taxpayer  becomes due to the Taxpayer or held on the Taxpayer's  behalf.</text>
         </para>
         <para>
           <num>(3)</num>
-          <text>If  a Notice  served  under  sub-section   (1) of <cite path="§40">this Section</cite>  requires  a Person  to deduct  amounts  from  Salary,  Wages  or  other  similar  Remuneration payable  at fixed intervals  to the Taxpayer,  the amount  required  to be deducted  by the Person  from  each payment shall not exceed  Twenty percent (20%)  of the amount of each payment  of the Pension,  Salary,  Wages or other Remuneration.</text>
+          <text>If  a Notice  served  under  sub-section   (1) of <cite path="attachments|fourth|IX|40">this Section</cite>  requires  a Person  to deduct  amounts  from  Salary,  Wages  or  other  similar  Remuneration payable  at fixed intervals  to the Taxpayer,  the amount  required  to be deducted  by the Person  from  each payment shall not exceed  Twenty percent (20%)  of the amount of each payment  of the Pension,  Salary,  Wages or other Remuneration.</text>
         </para>
         <para>
           <num>(4)</num>
-          <text>Where  a Person  served  with  a Notice  under sub-section  (1) of <cite path="§40">this Section</cite> is unable  to comply  with the Notice  by reason  of lack of moneys  owing to or held  for the Taxpayer,  the Person  shall,  as soon as is practicable and in any case before the payment  date specified  in the Notice, notify the Service  accordingly.</text>
+          <text>Where  a Person  served  with  a Notice  under sub-section  (1) of <cite path="attachments|fourth|IX|40">this Section</cite> is unable  to comply  with the Notice  by reason  of lack of moneys  owing to or held  for the Taxpayer,  the Person  shall,  as soon as is practicable and in any case before the payment  date specified  in the Notice, notify the Service  accordingly.</text>
         </para>
         <para>
           <num>(5)</num>
-          <text>If a Notice is served on the Service under <cite path="§40|(4)">sub-section (4) of this Section</cite>, the Service shall, by Notice in writing or by Electronic means:</text>
+          <text>If a Notice is served on the Service under <cite path="attachments|fourth|IX|40|(4)">sub-section (4) of this Section</cite>, the Service shall, by Notice in writing or by Electronic means:</text>
           <para>
             <num>(a)</num>
-            <text>accept the Notification   and cancel or amend the Notice issued under <cite path="§40|(1)">sub-section (1) of this Section</cite>; or</text>
+            <text>accept the Notification   and cancel or amend the Notice issued under <cite path="attachments|fourth|IX|40|(1)">sub-section (1) of this Section</cite>; or</text>
           </para>
           <para>
             <num>(b)</num>
@@ -22394,23 +22394,23 @@
         </para>
         <para>
           <num>(6)</num>
-          <text>The Service shall, by Notice in writing or by Electronic means to a Person under <cite path="§40">this Section</cite>, revoke or amend a Notice served under <cite path="§40|(1)">sub-section (1) of this Section</cite>, if the Taxpayer has paid the whole or part of the Revenue payable or has made an arrangement satisfactory to the Service for payment of the Revenue.</text>
+          <text>The Service shall, by Notice in writing or by Electronic means to a Person under <cite path="attachments|fourth|IX|40">this Section</cite>, revoke or amend a Notice served under <cite path="attachments|fourth|IX|40|(1)">sub-section (1) of this Section</cite>, if the Taxpayer has paid the whole or part of the Revenue payable or has made an arrangement satisfactory to the Service for payment of the Revenue.</text>
         </para>
         <para>
           <num>(7)</num>
-          <text>A copy of a Notice served on a Person under <cite path="§40">this Section</cite> shall also be served on the Taxpayer.</text>
+          <text>A copy of a Notice served on a Person under <cite path="attachments|fourth|IX|40">this Section</cite> shall also be served on the Taxpayer.</text>
         </para>
         <para>
           <num>(8)</num>
-          <text>A Person making a payment  in accordance with a Notice under <cite path="§40|(1)">sub-section (1) of this Section</cite> shall be  treated as acting under the authority of the Taxpayer and of all other Persons concerned and is indemnified in respect of the payment despite any provisions to the contrary in any written Law, Contractor Agreement.</text>
+          <text>A Person making a payment  in accordance with a Notice under <cite path="attachments|fourth|IX|40|(1)">sub-section (1) of this Section</cite> shall be  treated as acting under the authority of the Taxpayer and of all other Persons concerned and is indemnified in respect of the payment despite any provisions to the contrary in any written Law, Contractor Agreement.</text>
         </para>
         <para>
           <num>(9)</num>
-          <text>The Service shall credit any amount paid by a Person under <cite path="§40">this Section</cite> against the Revenue owed by the Taxpayer.</text>
+          <text>The Service shall credit any amount paid by a Person under <cite path="attachments|fourth|IX|40">this Section</cite> against the Revenue owed by the Taxpayer.</text>
         </para>
         <para>
           <num>(10)</num>
-          <text>A Person who does not comply with a Notice issued under <cite path="§40">this Section</cite> shall be personally liable for the amount specified in the Notice which shall be treated and collected as unpaid Revenue under this Code.</text>
+          <text>A Person who does not comply with a Notice issued under <cite path="attachments|fourth|IX|40">this Section</cite> shall be personally liable for the amount specified in the Notice which shall be treated and collected as unpaid Revenue under this Code.</text>
         </para>
       </section>
       <section>
@@ -22430,35 +22430,35 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>The Authority to Distrain under <cite path="§41">this Section</cite> shall be in such Form as is contained in the Sixth Schedule to the Revenue Law and that Authority shall be sufficient Warrant and Authority to levy by Distrain the amount of Revenue due.</text>
+          <text>The Authority to Distrain under <cite path="attachments|fourth|IX|41">this Section</cite> shall be in such Form as is contained in the Sixth Schedule to the Revenue Law and that Authority shall be sufficient Warrant and Authority to levy by Distrain the amount of Revenue due.</text>
         </para>
         <para>
           <num>(3)</num>
-          <text>For the purpose of levying any Distrain under <cite path="§41">this Section</cite>, an Officer duly authorized by the Chairman of the Service may apply to a Judge of a Court of competent jurisdiction sitting in Chambers under Oath for the issue of a Warrant under <cite path="§41">this Section</cite>.</text>
+          <text>For the purpose of levying any Distrain under <cite path="attachments|fourth|IX|41">this Section</cite>, an Officer duly authorized by the Chairman of the Service may apply to a Judge of a Court of competent jurisdiction sitting in Chambers under Oath for the issue of a Warrant under <cite path="attachments|fourth|IX|41">this Section</cite>.</text>
         </para>
         <para>
           <num>(4)</num>
-          <text>A Judge of a Court of competent jurisdiction sitting in Chambers may authorize such Officer, referred to in <cite path="§41|(3)">sub-section (3) of this Section</cite>, in writing to execute any Warrant of Distrain and, if necessary, break open any Building or Place in the daytime for the purpose of levying such Distrain and the Officer may call for assistance any Police Officer and it shall be the duty of any Police Officer when so required to aid and assist in the execution of any Warrant of Distrain and in levying the Distraint.</text>
+          <text>A Judge of a Court of competent jurisdiction sitting in Chambers may authorize such Officer, referred to in <cite path="attachments|fourth|IX|41|(3)">sub-section (3) of this Section</cite>, in writing to execute any Warrant of Distrain and, if necessary, break open any Building or Place in the daytime for the purpose of levying such Distrain and the Officer may call for assistance any Police Officer and it shall be the duty of any Police Officer when so required to aid and assist in the execution of any Warrant of Distrain and in levying the Distraint.</text>
         </para>
         <para>
           <num>(5)</num>
-          <text>Things Distrained under <cite path="§41">this Section</cite> may, at the expense of the Defaulter, be kept for 14 days and if at the end of this period, the amount due in respect of the Revenue, Cost and Charges of and incidental to the Distrain are not paid, they may, subject to <cite path="§41|(6)">sub-section (6) of this Section</cite> be sold at any time.</text>
+          <text>Things Distrained under <cite path="attachments|fourth|IX|41">this Section</cite> may, at the expense of the Defaulter, be kept for 14 days and if at the end of this period, the amount due in respect of the Revenue, Cost and Charges of and incidental to the Distrain are not paid, they may, subject to <cite path="attachments|fourth|IX|41|(6)">sub-section (6) of this Section</cite> be sold at any time.</text>
         </para>
         <para>
           <num>(6)</num>
-          <text>Out of the Proceeds of a Sale under <cite path="§41">this Section</cite>, the Cost of Charges of and incidental to the Sale and keeping of the Distrain and disposal there under shall be paid, thereafter the Revenue due and the balance (if any) shall be paid to the Defaulter on demand being made by the Distraint or on the Distraint's behalf within One Year of the date of the Sale or shall be forfeited.</text>
+          <text>Out of the Proceeds of a Sale under <cite path="attachments|fourth|IX|41">this Section</cite>, the Cost of Charges of and incidental to the Sale and keeping of the Distrain and disposal there under shall be paid, thereafter the Revenue due and the balance (if any) shall be paid to the Defaulter on demand being made by the Distraint or on the Distraint's behalf within One Year of the date of the Sale or shall be forfeited.</text>
         </para>
         <para>
           <num>(7)</num>
-          <text>Nothing in <cite path="§41">this Section</cite> shall be construed as to authorize the Sale of an immovable Property without an Order of a High Court, made upon Application in such Form as may be prescribed by the Rules of Court.</text>
+          <text>Nothing in <cite path="attachments|fourth|IX|41">this Section</cite> shall be construed as to authorize the Sale of an immovable Property without an Order of a High Court, made upon Application in such Form as may be prescribed by the Rules of Court.</text>
         </para>
         <para>
           <num>(8)</num>
-          <text>In exercise of the power of Distrain conferred by <cite path="§41">this Section</cite>, the Person to whom the authority is granted under <cite path="§41|(4)">sub-section (4) of this Section</cite> may Distrain upon all Goods, Chattels and Effects belonging to the Debtor wherever the same may be found in Nigeria.</text>
+          <text>In exercise of the power of Distrain conferred by <cite path="attachments|fourth|IX|41">this Section</cite>, the Person to whom the authority is granted under <cite path="attachments|fourth|IX|41|(4)">sub-section (4) of this Section</cite> may Distrain upon all Goods, Chattels and Effects belonging to the Debtor wherever the same may be found in Nigeria.</text>
         </para>
         <para>
           <num>(9)</num>
-          <text>Any property subject to Distress Proceedings under <cite path="§41">this Section</cite> shall be:</text>
+          <text>Any property subject to Distress Proceedings under <cite path="attachments|fourth|IX|41">this Section</cite> shall be:</text>
           <para>
             <num>(a)</num>
             <text>identified by the attaching of a notice stating "PROPERTY IMPOUNDED FOR NOT COMPLYING WITH REVENUE OBLIGATIONS UNDER SECTION 41 OF THE PLATEAU STATE REVENUE ADMINISTRATION PROCEDURE CODE;</text>
@@ -22482,7 +22482,7 @@
         <num>42</num>
         <para>
           <num>(1)</num>
-          <text>Subject to an Order of Court, the Service or an Officer authorized in writing by the Service for the purposes of <cite path="§42">this Section</cite> may notify a Person in writing of the intention to close down part or the whole of the Person's Business premises for default in paying a Revenue that is due and payable, within Seven days from the date of the Notice.</text>
+          <text>Subject to an Order of Court, the Service or an Officer authorized in writing by the Service for the purposes of <cite path="attachments|fourth|IX|42">this Section</cite> may notify a Person in writing of the intention to close down part or the whole of the Person's Business premises for default in paying a Revenue that is due and payable, within Seven days from the date of the Notice.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -22495,7 +22495,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>Where the Revenue due is satisfied during the period of closure, the Service shall immediately remove the Notice referred to in <cite path="§42|(3)">sub-section (3) of this Section</cite>.</text>
+          <text>Where the Revenue due is satisfied during the period of closure, the Service shall immediately remove the Notice referred to in <cite path="attachments|fourth|IX|42|(3)">sub-section (3) of this Section</cite>.</text>
         </para>
       </section>
       <section>
@@ -22511,19 +22511,19 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>Upon receipt of the Notice under <cite path="§43|(1)">sub-section (1) of this Section</cite>, the Ministry shall, without Fee, register the Notice as if it were an Instrument of Mortgage or Charge on the Land or Building and that registration, subject to any prior Mortgage or Charge, operates in all respects as a Legal Mortgage or Charge on that Land or Building to secure the amount of the unpaid Revenue.</text>
+          <text>Upon receipt of the Notice under <cite path="attachments|fourth|IX|43|(1)">sub-section (1) of this Section</cite>, the Ministry shall, without Fee, register the Notice as if it were an Instrument of Mortgage or Charge on the Land or Building and that registration, subject to any prior Mortgage or Charge, operates in all respects as a Legal Mortgage or Charge on that Land or Building to secure the amount of the unpaid Revenue.</text>
         </para>
         <para>
           <num>(4)</num>
-          <text>Where a Taxpayer does not pay the Revenue due within Twelve (12) Months after receiving the copy of the Notice under <cite path="§43|(2)">sub-section (2) of this Section</cite>, the Service may commence Distress Proceedings against the Land or Building of the Taxpayer.</text>
+          <text>Where a Taxpayer does not pay the Revenue due within Twelve (12) Months after receiving the copy of the Notice under <cite path="attachments|fourth|IX|43|(2)">sub-section (2) of this Section</cite>, the Service may commence Distress Proceedings against the Land or Building of the Taxpayer.</text>
         </para>
         <para>
           <num>(5)</num>
-          <text>Upon receipt of the full amount of Revenue secured under <cite path="§43">this Section</cite>, the Service shall notify the Ministry to cancel the entry made under <cite path="§43|(3)">sub-section (3) of this Section</cite> and the Ministry shall, without Fee, cancel the entry.</text>
+          <text>Upon receipt of the full amount of Revenue secured under <cite path="attachments|fourth|IX|43">this Section</cite>, the Service shall notify the Ministry to cancel the entry made under <cite path="attachments|fourth|IX|43|(3)">sub-section (3) of this Section</cite> and the Ministry shall, without Fee, cancel the entry.</text>
         </para>
         <para>
           <num>(6)</num>
-          <text><cite path="§43">This Section</cite> does not preclude the Service from 	registering a Caveat on the Land or Building as an interim measure to stop the transfer of the Land or Building.</text>
+          <text><cite path="attachments|fourth|IX|43">This Section</cite> does not preclude the Service from 	registering a Caveat on the Land or Building as an interim measure to stop the transfer of the Land or Building.</text>
         </para>
       </section>
       <section>
@@ -22535,7 +22535,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Goods seized under <cite path="§44|(1)">sub-section (1) of this Section</cite> shall be stored in a place approved by the Service or authorized Officer for the storage of seized goods.</text>
+          <text>Goods seized under <cite path="attachments|fourth|IX|44|(1)">sub-section (1) of this Section</cite> shall be stored in a place approved by the Service or authorized Officer for the storage of seized goods.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -22543,14 +22543,14 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>Subject to <cite path="§44|(5)">sub-section (5) of this Section</cite>, where goods are seized under <cite path="§44">this Section</cite>, the Service or authorized Officer shall, within Ten days after the seizure, serve on the owner of the goods or the Person who has custody or control of the goods immediately before the seizure, a Notice:</text>
+          <text>Subject to <cite path="attachments|fourth|IX|44|(5)">sub-section (5) of this Section</cite>, where goods are seized under <cite path="attachments|fourth|IX|44">this Section</cite>, the Service or authorized Officer shall, within Ten days after the seizure, serve on the owner of the goods or the Person who has custody or control of the goods immediately before the seizure, a Notice:</text>
           <para>
             <num>(a)</num>
             <text>identifying the goods;</text>
           </para>
           <para>
             <num>(b)</num>
-            <text>stating that the goods have been seized under <cite path="§44">this Section</cite> and reason for the seizure; and</text>
+            <text>stating that the goods have been seized under <cite path="attachments|fourth|IX|44">this Section</cite> and reason for the seizure; and</text>
           </para>
           <para>
             <num>(c)</num>
@@ -22559,11 +22559,11 @@
         </para>
         <para>
           <num>(5)</num>
-          <text>Where after making reasonable enquiries, the Service does not have sufficient information to identify the Person on whom a Notice under sub-section (4) of  <cite path="§44">this Section</cite> should be served, the Service or authorized Officer may serve the Notice on  a Person claiming the goods, but that Person shall give sufficient information to enable the Notice to be served.</text>
+          <text>Where after making reasonable enquiries, the Service does not have sufficient information to identify the Person on whom a Notice under sub-section (4) of  <cite path="attachments|fourth|IX|44">this Section</cite> should be served, the Service or authorized Officer may serve the Notice on  a Person claiming the goods, but that Person shall give sufficient information to enable the Notice to be served.</text>
         </para>
         <para>
           <num>(6)</num>
-          <text>The Service or authorized Officer may authorize the release of any goods seized under <cite path="§44|(1)">sub-section (1) of this Section</cite> to the Person on whom a Notice under <cite path="§44|(4)">sub-section (4) of this Section</cite> has been served where that Person has paid, or gives Security for the payment of the Revenue assessed as payable or the Revenue that will become payable in respect of the supply, removal, or import of the goods.</text>
+          <text>The Service or authorized Officer may authorize the release of any goods seized under <cite path="attachments|fourth|IX|44|(1)">sub-section (1) of this Section</cite> to the Person on whom a Notice under <cite path="attachments|fourth|IX|44|(4)">sub-section (4) of this Section</cite> has been served where that Person has paid, or gives Security for the payment of the Revenue assessed as payable or the Revenue that will become payable in respect of the supply, removal, or import of the goods.</text>
         </para>
         <para>
           <num>(7)</num>
@@ -22571,7 +22571,7 @@
         </para>
         <para>
           <num>(8)</num>
-          <text>Subject to <cite path="§44|(6)">sub-section (6) of this Section</cite>, the Service shall retain the goods seized under <cite path="§44|(1)">sub-section (1) of this Section</cite> where in:</text>
+          <text>Subject to <cite path="attachments|fourth|IX|44|(6)">sub-section (6) of this Section</cite>, the Service shall retain the goods seized under <cite path="attachments|fourth|IX|44|(1)">sub-section (1) of this Section</cite> where in:</text>
           <para>
             <num>(a)</num>
             <text>the case of perishable goods, for a period that the Service or authorized officer considers  reasonable having regard to the condition of the goods; or</text>
@@ -22591,7 +22591,7 @@
         </para>
         <para>
           <num>(9)</num>
-          <text>Upon expiry of the period specified in <cite path="§44|(8)">sub-section (8) of this Section</cite>, the Service or an authorized Officer may sell the goods in accordance with the provisions of other Laws.</text>
+          <text>Upon expiry of the period specified in <cite path="attachments|fourth|IX|44|(8)">sub-section (8) of this Section</cite>, the Service or an authorized Officer may sell the goods in accordance with the provisions of other Laws.</text>
         </para>
       </section>
       <section>
@@ -22664,7 +22664,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Where a Taxpayer has more than one Revenue Liability   at the time a payment is made, <cite path="§47|(1)">sub-section (1) of this Section</cite>  applies to the earliest Liability first.</text>
+          <text>Where a Taxpayer has more than one Revenue Liability   at the time a payment is made, <cite path="attachments|fourth|IX|47|(1)">sub-section (1) of this Section</cite>  applies to the earliest Liability first.</text>
         </para>
       </section>
       <section>
@@ -22676,11 +22676,11 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Where a Taxpayer's case is referred to the Governor under <cite path="§48|(1)">sub-section (1) of this Section</cite> and the Governor is satisfied that the Revenue due cannot be effectively recovered, the Governor may waive in whole or in part the Revenue payable by the Taxpayer.</text>
+          <text>Where a Taxpayer's case is referred to the Governor under <cite path="attachments|fourth|IX|48|(1)">sub-section (1) of this Section</cite> and the Governor is satisfied that the Revenue due cannot be effectively recovered, the Governor may waive in whole or in part the Revenue payable by the Taxpayer.</text>
         </para>
         <para>
           <num>(3)</num>
-          <text>Where such Waivers in <cite path="§48|(2)">sub-section (2) of this Section</cite> are granted, the Service shall keep accurate records of the Waiver including the original Assessment, Amount waived and Amount Paid by the applying Taxpayer.</text>
+          <text>Where such Waivers in <cite path="attachments|fourth|IX|48|(2)">sub-section (2) of this Section</cite> are granted, the Service shall keep accurate records of the Waiver including the original Assessment, Amount waived and Amount Paid by the applying Taxpayer.</text>
         </para>
       </section>
     </container>
@@ -22697,7 +22697,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Interest paid by a Person under <cite path="§49|(1)">sub-section (1) of this Section</cite> shall be refunded to the Person to the extent that the Principal amount to which the Interest relates is found not to have been payable.</text>
+          <text>Interest paid by a Person under <cite path="attachments|fourth|X|49|(1)">sub-section (1) of this Section</cite> shall be refunded to the Person to the extent that the Principal amount to which the Interest relates is found not to have been payable.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -22786,16 +22786,16 @@
           </para>
           <para>
             <num>(e)</num>
-            <text>may retain any Record or Data Storage Device seized under <cite path="§51">this Section</cite> for as long  as it is required for determining a Taxpayer's Revenue Obligation and Liability,  including any Proceedings under this Code.</text>
+            <text>may retain any Record or Data Storage Device seized under <cite path="attachments|fourth|XII|51">this Section</cite> for as long  as it is required for determining a Taxpayer's Revenue Obligation and Liability,  including any Proceedings under this Code.</text>
           </para>
         </para>
         <para>
           <num>(2)</num>
-          <text>The Service may require a Law Enforcement Officer to be present for the purposes of exercising powers under <cite path="§51">this Section</cite>.</text>
+          <text>The Service may require a Law Enforcement Officer to be present for the purposes of exercising powers under <cite path="attachments|fourth|XII|51">this Section</cite>.</text>
         </para>
         <para>
           <num>(3)</num>
-          <text>The Occupier of the Premises or place in which an exercise of power under sub-section(1) of <cite path="§51">this Section</cite> relates shall provide  all  reasonable assistance  and facilities necessary  for the effective   exercise  of the power including:</text>
+          <text>The Occupier of the Premises or place in which an exercise of power under sub-section(1) of <cite path="attachments|fourth|XII|51">this Section</cite> relates shall provide  all  reasonable assistance  and facilities necessary  for the effective   exercise  of the power including:</text>
         </para>
         <para>
           <num>(a)</num>
@@ -22803,23 +22803,23 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>providing access to decryption information  necessary  to decrypt Data to which access  is sought 	under <cite path="§51">this Section</cite>.</text>
+          <text>providing access to decryption information  necessary  to decrypt Data to which access  is sought 	under <cite path="attachments|fourth|XII|51">this Section</cite>.</text>
         </para>
         <para>
           <num>(4)</num>
-          <text>A Person whose Records or Data Storage device have been seized 	and retained under <cite path="§51">this Section</cite> may access and examine them, 	including making copies or extracts from them under supervision as the Service may determine.</text>
+          <text>A Person whose Records or Data Storage device have been seized 	and retained under <cite path="attachments|fourth|XII|51">this Section</cite> may access and examine them, 	including making copies or extracts from them under supervision as the Service may determine.</text>
         </para>
         <para>
           <num>(5)</num>
-          <text>The Executive Chairman shall sign for all Records or Data Storage Devices 	seized and retained under <cite path="§51">this Section</cite>.</text>
+          <text>The Executive Chairman shall sign for all Records or Data Storage Devices 	seized and retained under <cite path="attachments|fourth|XII|51">this Section</cite>.</text>
         </para>
         <para>
           <num>(6)</num>
-          <text>Where any Record or Data Storage Device seized and retained under <cite path="§51">this Section</cite> is lost or destroyed while in the possession   of the Executive Chairman, the Service shall appropriately compensate the owner for the loss or destruction.</text>
+          <text>Where any Record or Data Storage Device seized and retained under <cite path="attachments|fourth|XII|51">this Section</cite> is lost or destroyed while in the possession   of the Executive Chairman, the Service shall appropriately compensate the owner for the loss or destruction.</text>
         </para>
         <para>
           <num>(7)</num>
-          <text><cite path="§51">This Section</cite> has effect despite any:</text>
+          <text><cite path="attachments|fourth|XII|51">This Section</cite> has effect despite any:</text>
           <para>
             <num>(a)</num>
             <text>law relating to privilege or the Public interest with respect to access to Premises or places or the production  of any Property or Record, including in Electronic Format; or</text>
@@ -22847,11 +22847,11 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>If a Notice under <cite path="§52|(1)">sub-section (1) of this Section</cite> is unable to be served on a Person in accordance with this Code the Notice may be published in any widely circulated Newspaper in the State and publication in such Newspaper is treated as service for the purposes of <cite path="§52">this Section</cite>.</text>
+          <text>If a Notice under <cite path="attachments|fourth|XII|52|(1)">sub-section (1) of this Section</cite> is unable to be served on a Person in accordance with this Code the Notice may be published in any widely circulated Newspaper in the State and publication in such Newspaper is treated as service for the purposes of <cite path="attachments|fourth|XII|52">this Section</cite>.</text>
         </para>
         <para>
           <num>(3)</num>
-          <text>The Service may require the information referred to in <cite path="§52|(1)">sub-section (1) of this Section</cite> to be:</text>
+          <text>The Service may require the information referred to in <cite path="attachments|fourth|XII|52|(1)">sub-section (1) of this Section</cite> to be:</text>
           <para>
             <num>(a)</num>
             <text>given on Oath and, for that purpose, the Executive Chairman may administer the Oath; or</text>
@@ -22863,7 +22863,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text><cite path="§52">This Section</cite> has effect despite:</text>
+          <text><cite path="attachments|fourth|XII|52">This Section</cite> has effect despite:</text>
           <para>
             <num>(a)</num>
             <text>any Law relating to privilege or the public interest with Respect to the giving of information or the production of any Record, including in Electronic Format; or</text>
@@ -23042,7 +23042,7 @@
         </para>
         <para>
           <num>(11)</num>
-          <text>In issuing the Smart Card referred in sub-section 10 of <cite path="§53">this Section</cite>, the Service shall:</text>
+          <text>In issuing the Smart Card referred in sub-section 10 of <cite path="attachments|fourth|XIV|53">this Section</cite>, the Service shall:</text>
           <para>
             <num>(a)</num>
             <text>ensure that the Taxpayers Data on the Smart Card are kept confidential to the same extent as their ordinary Tax Records;</text>
@@ -23267,7 +23267,7 @@
         <num>60</num>
         <para>
           <num>(1)</num>
-          <text>The Service may issue Practice Notes setting out the Service's understanding of the application of the provisions 	in <cite path="§60">this Section</cite>.</text>
+          <text>The Service may issue Practice Notes setting out the Service's understanding of the application of the provisions 	in <cite path="attachments|fourth|XV|60">this Section</cite>.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -23303,7 +23303,7 @@
         <num>61</num>
         <para>
           <num>(1)</num>
-          <text>Subject to <cite path="§61|(2)">sub-section (2) of this Section</cite>, the Service may, upon application in writing or by Electronic means by a Taxpayer, issue to the Taxpayer a Private Ruling setting the position of the Service regarding the application of a provision in this Code or the Revenue Law to a transaction entered in to or proposed to be entered into by the Taxpayer.</text>
+          <text>Subject to <cite path="attachments|fourth|XV|61|(2)">sub-section (2) of this Section</cite>, the Service may, upon application in writing or by Electronic means by a Taxpayer, issue to the Taxpayer a Private Ruling setting the position of the Service regarding the application of a provision in this Code or the Revenue Law to a transaction entered in to or proposed to be entered into by the Taxpayer.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -23400,7 +23400,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>The Service shall make any Document referred to in <cite path="§62|(1)">sub-section (1) of this Section</cite> available to the Public at the offices of the Service and at any other location or by any other means determined by the Service.</text>
+          <text>The Service shall make any Document referred to in <cite path="attachments|fourth|XVI|62|(1)">sub-section (1) of this Section</cite> available to the Public at the offices of the Service and at any other location or by any other means determined by the Service.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -23471,7 +23471,7 @@
           </para>
           <para>
             <num>(4)</num>
-            <text>In proving service of the Notice or any other Document in <cite path="§64|(3)" proof="needed">sub-section (3) of this Section</cite>, it is sufficient to prove that the Envelope containing the Notice or other Document was properly addressed and was posted.</text>
+            <text>In proving service of the Notice or any other Document in <cite path="attachments|fourth|XVI|64|(3)" proof="needed">sub-section (3) of this Section</cite>, it is sufficient to prove that the Envelope containing the Notice or other Document was properly addressed and was posted.</text>
           </para>
         </para>
       </section>
@@ -23484,7 +23484,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>For the purpose  of <cite path="§65|(1)">sub-section (1) of this Section</cite>, the Service may	prescribe conditions for:</text>
+          <text>For the purpose  of <cite path="attachments|fourth|XVI|65|(1)">sub-section (1) of this Section</cite>, the Service may	prescribe conditions for:</text>
           <para>
             <num>(a)</num>
             <text>the registration of Taxpayers to participate in the Electronic Notice System;</text>
